@@ -10,7 +10,7 @@ This skill carries Michael's decisions as rules. His words behind every rule: `r
 - `video-idea-proposals`: the proposal board and the feedback history (`references/how-we-got-here.md`).
 
 ## The method in one line
-We never invent a format. Find a small, fresh, faceless channel whose format took off in the last month, keep the format, swap one variable (subject, universe, country, language). Packaging comes first and comes from other niches. Video second.
+We never invent a format. Find a small, fresh, faceless channel whose format took off in the last month, keep the format, swap one variable (subject, universe, country, language). Our niche is cars unless the request says otherwise. Packaging comes first and comes from other niches. Video second.
 
 ## The rules
 | # | Rule | Set |
@@ -27,9 +27,9 @@ We never invent a format. Find a small, fresh, faceless channel whose format too
 | 10 | **Recognisable but novel.** Slightly modify the style so that audience still recognises it, yet it feels new. Take the mechanism, never the palette or typeface. | 21 Oct |
 | 11 | **Fresh evidence.** Sources for titles and angles at most 1 month old, reference channels at most 6 months; numbers re-checked on the day. Old 3D hits count only as labelled historical evidence. | 4 Oct, 12 Oct |
 | 12 | **Independent check.** Three scouts work separately; a fourth critic reconciles. The proposer never certifies its own idea. Observed, Inferred and Unknown stay apart. | 5 Oct |
-| 13 | **Not only cars.** Bend into whatever niche has demand, including the source's own (history) and other universes (Warhammer, Middle-earth, Star Wars). | 19 Oct |
+| 13 | **Cars by default.** Our channel's niche is cars: every target niche is a car niche (Formula 1, rally, Le Mans, brands, engines, design …) unless the request names another one. When it does (history, Warhammer, Middle-earth, Star Wars), bend there. Packaging still comes from other niches (rule 2). | 19 Oct, 9 Nov |
 | 14 | **Images are the result.** Thumbnails, titles, views and frames from inside each video. Text piles and raw Markdown are unusable. | 4 Oct, 12 Oct |
-| 15 | **An owner's keep is the only gate.** Michael or his co-owner clicks what they like; unclicked is dropped. Never show an owner something already kept. Agent picks are proposals. Every keep records who kept it. | 4 Oct, 19 Oct |
+| 15 | **An owner's keep is the only gate.** Michael or Stas clicks what they like; unclicked is dropped. Never show an owner something already kept. Agent picks are proposals. Every keep records who kept it. | 4 Oct, 19 Oct |
 | 16 | **Every piece of feedback becomes a written rule the same day,** in this skill, `no-go.md` or the project CLAUDE.md, with the example that caused it. | 4 Oct |
 
 ## The run

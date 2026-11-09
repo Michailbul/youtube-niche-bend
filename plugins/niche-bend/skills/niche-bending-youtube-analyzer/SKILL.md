@@ -5,7 +5,7 @@ description: Research, validate and bend YouTube niches and formats for our face
 
 # Niche bending YouTube analyzer
 
-Michael is building narrated 2D animated YouTube channels in any niche that earns it: history, cars, brands, nature, anything with demand. **Never assume the target is cars** (Michael, 19 Oct 2026: "we dont only want to niche bend into cars!!! this is not always the case"): bend into the source's own niche too, and rank every target by evidence. The rule of the whole operation: **reuse what is already proven.** We do not guess what people click. We find what they clicked last month, take the part that did the work, and apply it to our subject in our look.
+Michael and Stas are building narrated 2D animated YouTube channels. **The default target niche is cars** (Michael, 9 Nov 2026: "unless specified differently, default one are cars"): every bend lands in a car niche unless the request names another one (history, Warhammer, Middle-earth …), and then you bend there and rank targets by evidence. Sources are the opposite: titles, thumbnails and formats come from other niches. The rule of the whole operation: **reuse what is already proven.** We do not guess what people click. We find what they clicked last month, take the part that did the work, and apply it to our subject in our look.
 
 The method started from Tim Danilov's stream "I Found 58 Faceless YouTube Niches In An Hour" (22 Sep 2026). When we re-checked his 44 channels two weeks later, 14 had dropped under 10K a video: one viral video had put them on his list. So we keep his search and bend logic and add our own proof standards.
 
@@ -77,7 +77,7 @@ Michael's frame for everything we find (4 Oct 2026). For each video that works, 
 - **A. Thumbnail and title.** The packaging that won the click. The most important part.
 - **B. The niche** it worked in.
 - **C. The format of the video**: how it is built, and what is on screen inside (2D animation, mostly static shots, generated stills, 3D, footage).
-- **D. Other niches it could be applied to**, with the title it would ship with. Only niches that are relevant, popular and already getting views, so the work is not in vain. Not limited to cars.
+- **D. Other niches it could be applied to**, with the title it would ship with. Only niches that are relevant, popular and already getting views, so the work is not in vain. Car niches by default; other niches when the request names them.
 
 The four genes above are what a card is made of: A is the title formula and the thumbnail layout, C is the structure and the visual DNA. Running this as a repeatable round is the **format lab**: `references/format-lab.md`, `scripts/format_lab.py`, board at `niche-bend/format-lab/` in your project.
 

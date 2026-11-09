@@ -7,6 +7,26 @@ to package it, the scripts that do the research, and the boards we pick ideas on
 the last month, keep the format, swap one thing (subject, universe, country, language). Title and thumbnail first,
 video second.
 
+## For an AI agent reading this link
+
+You were sent this repo to set up our YouTube research toolkit. Do this, in order:
+
+1. Check access: `gh repo view Michailbul/youtube-niche-bend` (or `git ls-remote https://github.com/Michailbul/youtube-niche-bend`).
+   If it fails, the user must accept the GitHub invite from Michailbul first. Stop and tell them.
+2. Install the Claude Code plugin from a terminal:
+   ```
+   claude plugin marketplace add Michailbul/youtube-niche-bend
+   claude plugin install niche-bend@youtube-niche-bend
+   ```
+3. Ask the user to restart Claude Code (new plugins load at startup), in the folder where the channel's research
+   should live. Then run `/niche-bend:setup`. It checks Python and Pillow, creates `niche-bend/` in that folder and
+   loads 46 example ideas from Michael's October 2026 research.
+4. Read `plugins/niche-bend/skills/niche-bend/SKILL.md` (the 16 rules) and `references/setup.md`.
+5. Our defaults: the channel's niche is **cars** unless the user names another niche. The owners are **Michael and
+   Stas**; either one's keep counts, and agents only propose.
+6. Suggest a first move: `/niche-bend:round` (what formats are working this month, bent into car niches) or
+   `/niche-bend:bend <channel>`.
+
 ## Install
 
 You need Claude Code, Python 3.9+, and read access to this repo (it is private; your GitHub login in `gh` or git is
@@ -70,7 +90,7 @@ trigger on them.
 10. Recognisable but new: take the mechanism, never the palette.
 11. Evidence at most a month old, numbers re-read on the day.
 12. Three scouts and a critic. The proposer never approves its own idea.
-13. Not only cars.
+13. Cars by default. Other niches when you ask for them.
 14. Results are pictures: thumbnails, views, frames.
 15. An owner's keep is the only gate. Agent picks are proposals.
 16. Every piece of feedback becomes a written rule the same day.

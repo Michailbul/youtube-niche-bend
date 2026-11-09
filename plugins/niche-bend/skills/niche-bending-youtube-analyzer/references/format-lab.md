@@ -11,7 +11,7 @@ The routine turns "what is working on YouTube" into format cards the owners can 
 | **C. Format** | How the video is built (list, ladder, timeline, one story, exposé) and what is visibly on screen (drawings, cutouts, diagrams, 3D, presenter) | Many chronological in-video frames to skim, not inferred AI/stock labels. Never the thumbnail. |
 | **D. Where else** | Three other niches it could go to, each with the title it would ship with, each checked for views | `format_lab.py check`, then your own reading of the lists |
 
-D is the point of the exercise. A target niche is worth proposing only if it is already getting views, so the work is not in vain. Do not limit D to cars: propose wherever the format fits and the niche is alive, and include a car niche when one honestly fits.
+D is the point of the exercise. A target niche is worth proposing only if it is already getting views, so the work is not in vain. D defaults to car niches (Formula 1, rally, Le Mans, a brand, engines, design …): our channel is cars. Propose other niches only when the request names them.
 
 ## The routine, step by step
 

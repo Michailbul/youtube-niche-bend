@@ -4,9 +4,11 @@ Read this once on a new machine. Every skill in this plugin was written while Mi
 
 ## Who decides
 
-The channel has **owners**: Michael and his co-owner. Wherever a rule says "Michael keeps", "Michael's keep is the only gate" or "show Michael", read **an owner**. Either owner's keep counts, and every keep records who made it (`--by <name>` in the harness, the name on the board). Agent picks stay proposals.
+The channel has **owners**: Michael and Stas. Wherever a rule says "Michael keeps", "Michael's keep is the only gate" or "show Michael", read **an owner**. Either owner's keep counts, and every keep records who made it (`--by <name>` in the harness, the name on the board). Agent picks stay proposals.
 
-Michael's quotes in `michael-said.md`, `decisions.md` and `how-we-got-here.md` stay as he said them. They are the history behind each rule. When the co-owner gives feedback, rule 16 still applies: write it down the same day, with his name and the date.
+Michael's quotes in `michael-said.md`, `decisions.md` and `how-we-got-here.md` stay as he said them. They are the history behind each rule. When Stas gives feedback, rule 16 still applies: write it down the same day, with his name and the date.
+
+**Default niche: cars.** Our channel is a car channel. Target niches are car niches unless a request names another niche. Titles, thumbnails and formats are still borrowed from other niches; that is the point of the method.
 
 ## Where the work goes
 

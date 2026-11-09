@@ -27,7 +27,7 @@ Run YouTube calls one at a time and stop at the first 429. If a mode is blocked,
 ## Steps
 
 1. Write `spec.json` for the round (shape: the analyzer's `references/format-lab.md`): each format with three target
-   niches, each target with its title and its plain search topic. Targets can be any niche, not only cars.
+   niches, each target with its title and its plain search topic. Targets are car niches by default; another niche only when your brief names it.
 2. `LAB check niche-bend/format-lab/<date>/spec.json`
 3. `LAB build niche-bend/format-lab/<date>/spec.json`
 4. `NB ingest niche-bend/format-lab/<date>`
