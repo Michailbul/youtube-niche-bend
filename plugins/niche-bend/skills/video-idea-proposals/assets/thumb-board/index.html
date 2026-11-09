@@ -1,0 +1,85 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Thumbnail and title</title>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+<style>
+@font-face{font-family:Michroma;src:url(fonts/michroma-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:Saira;src:url(fonts/saira-latin-wdth-normal.woff2) format('woff2');font-weight:100 900;font-stretch:50% 125%}
+:root{--bg:#0A0805;--panel:#14110D;--panel2:#1D1915;--line:rgba(255,244,234,.12);--line2:rgba(255,244,234,.22);--linen:#FFF4EA;--mute:rgba(255,244,234,.7);--faint:rgba(255,244,234,.42);--coral:#F26157;--ember:#FF8C42;--teal:#79B791}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--linen);font:400 15px/1.5 Inter,system-ui,sans-serif;padding-bottom:100px;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1500px;margin:0 auto;padding:0 28px}
+h1,h2,h3{font-family:'Chakra Petch',sans-serif;text-transform:uppercase;letter-spacing:.02em;margin:0}
+.mono{font:500 11px 'JetBrains Mono',monospace;letter-spacing:.08em;text-transform:uppercase}
+header{padding:40px 0 24px;border-bottom:1px solid var(--line);display:grid;grid-template-columns:1fr 380px;gap:36px;align-items:end}
+header h1{font-size:40px;line-height:1.02;margin-top:10px}header h1 b{color:var(--ember)}
+header p{color:var(--mute);margin:14px 0 0;max-width:720px}
+.srcbox{display:grid;grid-template-columns:150px 1fr;gap:12px;background:var(--panel);border:1px solid var(--line);padding:12px;text-decoration:none;color:inherit}.srcbox img{width:100%;aspect-ratio:16/9;object-fit:cover}.srcbox div{font-size:13px;line-height:1.3}.srcbox b{display:block;color:var(--ember);font:500 10.5px 'JetBrains Mono';margin-top:6px}
+h2{font-size:22px;margin:44px 0 6px}h2+p{color:var(--mute);margin:0 0 18px;max-width:860px}
+.titles{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.ti{background:var(--panel);border:1px solid var(--line);padding:14px 16px;cursor:pointer}.ti b{font:600 18px/1.2 Inter;display:block;margin:8px 0 6px}.ti span{color:var(--mute);font-size:13px}.ti.on{border-color:var(--ember)}.ti.kept{box-shadow:0 0 0 1px var(--teal);border-color:var(--teal)}
+.pick{font:600 11px 'Chakra Petch';text-transform:uppercase;letter-spacing:.08em;padding:6px 10px;border:1px solid var(--line2);color:var(--mute);background:none;cursor:pointer;margin-right:6px}.kept>.row .k,.kept .k{background:var(--teal);color:var(--bg);border-color:var(--teal)}.on .v{background:var(--ember);color:var(--bg);border-color:var(--ember)}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.th{background:var(--panel);border:1px solid var(--line);cursor:pointer}.th.on{border-color:var(--ember)}.th.kept{border-color:var(--teal);box-shadow:0 0 0 1px var(--teal)}
+.th svg{display:block;width:100%;aspect-ratio:16/9}.th .b{padding:14px 16px}.th h3{font-size:17px}.th p{font-size:13.5px;color:var(--mute);margin:8px 0}.th p b{color:var(--faint);font:500 10.5px 'JetBrains Mono';letter-spacing:.08em;text-transform:uppercase;display:block}
+.th .sizes{display:flex;gap:10px;align-items:flex-end;margin:10px 0 12px}.th .sizes div{flex:none}.th .sizes svg{aspect-ratio:16/9}
+.feedbar{display:flex;gap:8px;align-items:center;margin-bottom:14px}.feedbar button{font:600 12px 'Chakra Petch';text-transform:uppercase;letter-spacing:.08em;padding:8px 12px;background:none;border:1px solid var(--line2);color:var(--mute);cursor:pointer}.feedbar button.on{background:var(--linen);color:var(--bg)}
+/* YouTube mock: its own UI language, so the test is honest */
+.yt{--yb:#0f0f0f;--yt:#f1f1f1;--ym:#aaa;background:var(--yb);color:var(--yt);font-family:Roboto,Arial,sans-serif;border:1px solid var(--line);padding:20px}
+.yt.light{--yb:#fff;--yt:#0f0f0f;--ym:#606060}
+.chips{display:flex;gap:10px;margin-bottom:20px;overflow:hidden}.chips span{background:rgba(128,128,128,.22);padding:6px 12px;border-radius:8px;font-size:14px;white-space:nowrap}.chips span:first-child{background:var(--yt);color:var(--yb)}
+.home{display:grid;grid-template-columns:repeat(3,1fr);gap:28px 16px}
+.v .im{position:relative;border-radius:12px;overflow:hidden;aspect-ratio:16/9;background:#222}.v .im img,.v .im svg{width:100%;height:100%;object-fit:cover;display:block}.v .im i{position:absolute;right:6px;bottom:6px;background:rgba(0,0,0,.8);color:#fff;font:500 12px Roboto;font-style:normal;padding:2px 5px;border-radius:4px}
+.v .meta{display:grid;grid-template-columns:36px 1fr;gap:12px;margin-top:12px}.v .av{width:36px;height:36px;border-radius:50%;background:#555}.v.ours .av{background:#E8702A}
+.v .tt{font:500 16px/1.38 Roboto;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.v .cc{color:var(--ym);font-size:14px;margin-top:4px;line-height:1.4}
+.side{max-width:420px}.side .v{display:grid;grid-template-columns:168px 1fr;gap:8px;margin-bottom:8px}.side .v .im{border-radius:8px}.side .v .meta{display:block;margin:0}.side .v .av{display:none}.side .v .tt{font-size:14px}.side .v .cc{font-size:12px}
+.phone{width:390px}.phone .home{grid-template-columns:1fr;gap:20px}.phone .v .im{border-radius:0;margin:0 -20px}.phone .v .tt{font-size:15px}
+.two{display:grid;grid-template-columns:1fr 420px;gap:24px;align-items:start}
+.bar{position:fixed;left:0;right:0;bottom:0;background:rgba(10,8,5,.94);backdrop-filter:blur(10px);border-top:1px solid var(--line)}.bar .wrap{display:flex;gap:20px;align-items:center;padding-top:14px;padding-bottom:14px}.bar span{flex:1;color:var(--faint);font-size:13px}.bar textarea{flex:2;height:40px;background:rgba(255,244,234,.04);border:1px solid var(--line);color:var(--linen);font:400 13px Inter;padding:10px;resize:none;outline:none}.bar button{font:700 14px 'Chakra Petch';text-transform:uppercase;letter-spacing:.08em;background:var(--ember);color:var(--bg);border:0;padding:13px 26px;cursor:pointer}
+@media(max-width:1000px){header,.two{grid-template-columns:1fr}.grid,.titles{grid-template-columns:1fr}.home{grid-template-columns:repeat(2,1fr)}.wrap{padding:0 16px}header h1{font-size:28px}}
+@media(max-width:620px){.home{grid-template-columns:1fr}}
+</style></head><body>
+<div class="wrap">
+<header><div><div class="mono" style="color:var(--ember)"><span id="kick"></span></div>
+<h1 id="h1"></h1>
+<p>Six thumbnails drawn in code, three titles, and the pair sitting in a YouTube feed between real videos from this month. <b>View</b> puts a thumbnail or title into the feed. <b>Keep</b> marks it for the next round.</p></div>
+<div><a class="srcbox" id="src" target="_blank"></a></div></header>
+
+<h2>In the feed</h2><p>Home page, the “up next” column and a phone. Our video is the second card. Judge it here, at the size a viewer sees it.</p>
+<div class="feedbar"><button data-m="home" class="on">Home</button><button data-m="side">Up next</button><button data-m="phone">Phone</button><span style="width:18px"></span><button data-l="dark" class="on">Dark</button><button data-l="light">Light</button></div>
+<div class="yt" id="yt"></div>
+
+<h2>Title</h2><p>Written as close to the source as possible. The first is the proven sentence with one word changed.</p>
+<div class="titles" id="titles"></div>
+
+<h2>Thumbnails</h2><p>Each one is shown large and at the two sizes YouTube uses most. The silhouettes are flat on purpose: this round is about layout and words. The winner gets redrawn as engraved plates in the film’s look.</p>
+<div class="grid" id="grid"></div>
+</div>
+<div class="bar"><div class="wrap"><span id="msg">Saves to keeps.json next to this board.</span><textarea id="note" placeholder="Anything across all of them"></textarea><button id="save">Save keeps</button></div></div>
+<script src="thumbs.js"></script>
+<script>
+const $=(s,e=document)=>e.querySelector(s),S={th:new Set(),ti:new Set(),view:'A',title:'t1',mode:'home',light:false,note:''};
+const src=window.SOURCE,META=window.META||{};$('#kick').textContent=META.kicker||'';$('#h1').textContent=META.title||'';$('#src').href='https://www.youtube.com/watch?v='+src.id;
+$('#src').innerHTML=`<img src="img/${src.id}.jpg"><div><span class="mono" style="color:var(--faint)">The source</span><br>${src.title}<b>${src.views} · ${src.age} · ${src.channel} · ${src.subs} subs</b></div>`;
+const T=id=>window.THUMBS.find(t=>t.id===id),TT=id=>window.TITLES.find(t=>t.id===id);
+function feed(){
+  const ours=`<div class="v ours"><div class="im">${T(S.view).svg()}<i>${(window.META||{}).length||'19:30'}</i></div><div class="meta"><div class="av"></div><div><div class="tt">${TT(S.title).t}</div><div class="cc">${(window.META||{}).channel||'Our channel'}<br>No views · just now</div></div></div></div>`;
+  const nb=window.NEIGHBOURS.map(n=>`<div class="v"><div class="im"><img src="img/${n.img}.jpg"><i>${n.d}</i></div><div class="meta"><div class="av"></div><div><div class="tt">${n.t}</div><div class="cc">${n.c}<br>${n.m}</div></div></div></div>`);
+  nb.splice(1,0,ours);
+  const y=$('#yt');y.className='yt'+(S.light?' light':'')+(S.mode==='side'?' side':S.mode==='phone'?' phone':'');
+  y.innerHTML=(S.mode==='side'?'':'<div class="chips"><span>All</span><span>Cars</span><span>History</span><span>Design</span><span>Documentary</span><span>Recently uploaded</span></div>')+`<div class="${S.mode==='side'?'':'home'}">${nb.slice(0,S.mode==='phone'?4:S.mode==='side'?7:9).join('')}</div>`;
+}
+function draw(){
+  $('#titles').innerHTML=window.TITLES.map(t=>`<div class="ti ${S.title===t.id?'on':''} ${S.ti.has(t.id)?'kept':''}" data-id="${t.id}"><button class="pick v">View</button><button class="pick k">${S.ti.has(t.id)?'Kept':'Keep'}</button><b>${t.t}</b><span>${t.note}</span></div>`).join('');
+  $('#grid').innerHTML=window.THUMBS.map(t=>`<div class="th ${S.view===t.id?'on':''} ${S.th.has(t.id)?'kept':''}" data-id="${t.id}">${t.svg()}<div class="b"><div class="mono" style="color:var(--ember)">${t.id} · words: ${t.words}</div><h3 style="margin-top:6px">${t.name}</h3>
+  <div class="sizes"><div style="width:168px">${t.svg()}</div><div style="width:96px">${t.svg()}</div></div>
+  <p><b>Why it could work</b>${t.why}</p><p><b>Layout from</b>${t.from}</p><button class="pick v">View in feed</button><button class="pick k">${S.th.has(t.id)?'Kept':'Keep'}</button></div></div>`).join('');
+  document.querySelectorAll('.th,.ti').forEach(el=>{const id=el.dataset.id,th=el.classList.contains('th');
+    $('.v',el).onclick=e=>{e.stopPropagation();th?S.view=id:S.title=id;draw();if(th)$('#yt').scrollIntoView({behavior:'smooth',block:'center'})};
+    $('.k',el).onclick=e=>{e.stopPropagation();const set=th?S.th:S.ti;set.has(id)?set.delete(id):set.add(id);$('#msg').textContent='Not saved yet.';draw()};
+    el.onclick=()=>$('.k',el).click();});
+  feed();
+}
+document.querySelectorAll('.feedbar button').forEach(b=>b.onclick=()=>{if(b.dataset.m){S.mode=b.dataset.m;document.querySelectorAll('[data-m]').forEach(x=>x.classList.toggle('on',x===b))}else{S.light=b.dataset.l==='light';document.querySelectorAll('[data-l]').forEach(x=>x.classList.toggle('on',x===b))}feed()});
+$('#note').oninput=e=>S.note=e.target.value;
+$('#save').onclick=async()=>{try{const r=await fetch('save',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({saved:new Date().toISOString(),round:1,thumbnails:[...S.th],titles:[...S.ti],note:S.note})});$('#msg').textContent=r.ok?`Saved: ${S.th.size} thumbnails, ${S.ti.size} titles.`:'Save failed.'}catch(e){$('#msg').textContent='Save failed.'}};
+fetch('keeps.json').then(r=>r.ok?r.json():null).then(k=>{if(k){S.th=new Set(k.thumbnails||[]);S.ti=new Set(k.titles||[]);S.note=k.note||'';$('#note').value=S.note}}).catch(()=>{}).finally(()=>document.fonts.ready.then(draw));
+</script></body></html>

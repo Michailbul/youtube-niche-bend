@@ -1,0 +1,215 @@
+{
+ "formula": "the _ that shouldn't exist",
+ "mustContain": [
+  "that",
+  "shouldn't",
+  "exist"
+ ],
+ "month": {
+  "videos": 22,
+  "channels": 17,
+  "over100K": 13,
+  "views": 6965129
+ },
+ "restOfYear": {
+  "videos": 6,
+  "channels": 6,
+  "over100K": 5,
+  "views": 15498788
+ },
+ "monthShare": 0.31,
+ "reading": "established and still working: it was getting views before this month too",
+ "examples": [
+  {
+   "id": "sjqnBZVz65E",
+   "title": "The Job that Shouldn't Exist Will Change Your Mind",
+   "views": 1899642,
+   "age": "12d ago",
+   "handle": "@mndiaye_97",
+   "channel": "Casual Geographic",
+   "length": "38:03"
+  },
+  {
+   "id": "AA15WabSxzw",
+   "title": "History’s Biggest Glitches: 8 Objects That Shouldn't Exist",
+   "views": 975131,
+   "age": "4w ago",
+   "handle": "@DiscoveriesUnexplained",
+   "channel": "Discoveries Unexplained",
+   "length": "10:58"
+  },
+  {
+   "id": "euFCW4e5DMs",
+   "title": "8 Things Found On Earth That Shouldn't Exist",
+   "views": 620415,
+   "age": "2w ago",
+   "handle": "@DiscoveriesUnexplained",
+   "channel": "Discoveries Unexplained",
+   "length": "9:18"
+  },
+  {
+   "id": "e5vGY4uDfZE",
+   "title": "The Deep Sea Wave That Shouldn't Exist",
+   "views": 612556,
+   "age": "9d ago",
+   "handle": "@AstrumEarth",
+   "channel": "Astrum Earth",
+   "length": "37:03"
+  },
+  {
+   "id": "B4UVQ-p31JA",
+   "title": "15 Tree Homes That Shouldn't EXIST",
+   "views": 451776,
+   "age": "2w ago",
+   "handle": "@topfives",
+   "channel": "Top Fives",
+   "length": "43:38"
+  },
+  {
+   "id": "CU_YGNyIe48",
+   "title": "I Tested AI Products That Shouldn't Exist",
+   "views": 373687,
+   "age": "8d ago",
+   "handle": "@SambuchaHighlights",
+   "channel": "Sambucha Highlights",
+   "length": "1:33:12"
+  },
+  {
+   "id": "QzyiZAak6ic",
+   "title": "Creatures That SHOULDN'T Exist | MonsterQuest",
+   "views": 275490,
+   "age": "4d ago",
+   "handle": "@HISTORY",
+   "channel": "HISTORY",
+   "length": "25:05"
+  },
+  {
+   "id": "0XomiXKHwbM",
+   "title": "Americas Largest Grocery Store... that Shouldn't Exist",
+   "views": 275450,
+   "age": "3w ago",
+   "handle": "@Ryantwomeyy",
+   "channel": "RyanTwomey",
+   "length": "25:01"
+  },
+  {
+   "id": "_RVHklGDG80",
+   "title": "The Undertale Route that shouldn't Exist (Unused2)",
+   "views": 257766,
+   "age": "2w ago",
+   "handle": "@Dregobobb",
+   "channel": "Dregobob",
+   "length": "47:52"
+  },
+  {
+   "id": "8rqhjgGS8Rs",
+   "title": "Investigating Animals That SHOULDN'T Exist...",
+   "views": 235535,
+   "age": "7d ago",
+   "handle": "@TheBriannaReacts",
+   "channel": "BriannaReacts",
+   "length": "17:29"
+  },
+  {
+   "id": "J-f3sdBap7c",
+   "title": "17 Scary Videos That Shouldn't Exist",
+   "views": 232778,
+   "age": "2d ago",
+   "handle": "@sirspooks",
+   "channel": "Sir Spooks",
+   "length": "37:30"
+  },
+  {
+   "id": "f0hjOBom700",
+   "title": "America Just Found A Fuel That Shouldn't Exist",
+   "views": 198227,
+   "age": "5d ago",
+   "handle": "",
+   "channel": "Dale Hargrove and Ignacio Hunter",
+   "length": "14:06"
+  },
+  {
+   "id": "SePTFo3hZPM",
+   "title": "The Rave That Shouldn't Exist: Wild East",
+   "views": 184412,
+   "age": "2w ago",
+   "handle": "channel/UCwgz0orDObykC3WPfytU7kg",
+   "channel": "Farbwende",
+   "length": "3:19"
+  },
+  {
+   "id": "CAgqCI6luss",
+   "title": "They Found Something Under the Ice That Shouldn't Exist - Plunge Explained",
+   "views": 80709,
+   "age": "5d ago",
+   "handle": "@JonnyFreecss",
+   "channel": "Jonny Freecss Comics",
+   "length": "45:57"
+  },
+  {
+   "id": "5nWM7k1CvNs",
+   "title": "History’s Strangest Glitches: 8 Ancient Discoveries That Shouldn't Exist",
+   "views": 80204,
+   "age": "3d ago",
+   "handle": "@DiscoveriesUnexplained",
+   "channel": "Discoveries Unexplained",
+   "length": "11:44"
+  }
+ ],
+ "olderExamples": [
+  {
+   "id": "WPKHKkylciI",
+   "title": "The world's greatest song that simply shouldn't exist",
+   "views": 6510459,
+   "age": "8mo ago",
+   "handle": "@davidhartley94",
+   "channel": "David Hartley",
+   "length": "24:17"
+  },
+  {
+   "id": "8O8TIoHpKXQ",
+   "title": "WONDERS OF NETHERLANDS: The Country that Shouldn't Exist",
+   "views": 3258578,
+   "age": "9mo ago",
+   "handle": "@lifederhello",
+   "channel": "Lifeder",
+   "length": "1:43:05"
+  },
+  {
+   "id": "PwOdkmgGdvc",
+   "title": "How the Netherlands Built a Country Below Sea Level that Shouldn't Exist",
+   "views": 2854678,
+   "age": "3mo ago",
+   "handle": "@NextGenManufacturings",
+   "channel": "NextGen Manufacturing",
+   "length": "16:25"
+  },
+  {
+   "id": "qDODARoxIOk",
+   "title": "Every Hybrid Animal That Shouldn't Be Able to Exist",
+   "views": 2637460,
+   "age": "6mo ago",
+   "handle": "@TheAnimalDudeYT",
+   "channel": "The Animal Dude",
+   "length": "19:20"
+  },
+  {
+   "id": "9shlzCOQ-Jc",
+   "title": "Australia Just Found A Fuel That Shouldn't Exist",
+   "views": 184051,
+   "age": "2d ago",
+   "handle": "@australiaorbit",
+   "channel": "Australia Orbit",
+   "length": "33:06"
+  },
+  {
+   "id": "UilXMgPURNk",
+   "title": "Everything That Shouldn't Exist | AI Surreal Film Compilation",
+   "views": 53562,
+   "age": "6mo ago",
+   "handle": "@MirageFrequenciess",
+   "channel": "Mirage Frequenciess",
+   "length": "40:49"
+  }
+ ]
+}

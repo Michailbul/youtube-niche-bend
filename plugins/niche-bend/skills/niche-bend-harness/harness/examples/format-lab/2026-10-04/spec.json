@@ -1,0 +1,763 @@
+{
+ "date": "2026-10-04",
+ "sources": "Danilov list, gallery packaging library, car-history survey, this week's search",
+ "formats": [
+  {
+   "key": "strange-mechanism",
+   "name": "Every [object] with a strange mechanism",
+   "source": {
+    "id": "2ZS01obvQR0",
+    "handle": "@Cowball44",
+    "title": "Every Gun With A Strange Mechanism Explained"
+   },
+   "niche": "Weapons",
+   "formula": "Every [object] With A Strange Mechanism Explained",
+   "thumbnail": "White board, twelve product photos in three rows, the odd feature named under each. No headline.",
+   "structure": "A list. Twelve objects that share one odd trait, about a minute each.",
+   "visual": "Real photos and footage of each gun being handled and fired, with captioned meme images as jokes. The white labelled grid is the thumbnail only.",
+   "visualTag": "Stock footage inside, grid thumbnail",
+   "targets": [
+    {
+     "niche": "Car engines",
+     "title": "Every Engine With A Strange Mechanism Explained",
+     "topic": "weird car engines",
+     "cross": "every engine with a strange mechanism explained",
+     "verdict": "Weak",
+     "why": "One on-topic video passed 100K this month, a “why” video on a 64K channel. The list format on engines has been tried and stays small: Odd Machines’ “Weirdest Engines Ever Made Explained” 26K, Scrapyard Engineer’s lists 8K.",
+     "proofId": "Wlg5U7G2P9E"
+    },
+    {
+     "niche": "Aircraft",
+     "title": "Every Plane With A Strange Mechanism Explained",
+     "topic": "strange aircraft",
+     "cross": "every plane with a strange mechanism explained",
+     "verdict": "Open",
+     "why": "Thin but alive: “Horten Hx 2: Germany’s Strange Flying Wing” reached 108K in a week on a 14K channel. Nobody has made this list for planes. Odd Machines’ “Weirdest Warplanes” got 58K.",
+     "proofId": "cTusbm6snrg"
+    },
+    {
+     "niche": "Tanks",
+     "title": "Every Tank With A Strange Mechanism Explained",
+     "topic": "weird tanks",
+     "cross": "every tank with a strange mechanism explained",
+     "verdict": "Weak",
+     "why": "Nothing on topic passed 100K this month. The same list format already exists here and underperforms: “Every Weirdest Tank Weapons Explained” 22K.",
+     "proofId": "32tTvADmFG8"
+    }
+   ]
+  },
+  {
+   "key": "seven-levels",
+   "name": "The 7 levels of [brand]",
+   "source": {
+    "id": "bKy31Sxd5mw",
+    "handle": "@KittyExplainsCars",
+    "title": "The 7 Levels of Audi Explained In 10 Minutes",
+    "views": 924158,
+    "age": "6 months ago"
+   },
+   "niche": "Cars (one brand's line-up)",
+   "formula": "The 7 Levels of [brand] Explained In [N] Minutes",
+   "flags": [
+    "Channel has cooled",
+    "6 months old"
+   ],
+   "structure": "A ladder. One brand's range from the cheapest to the most extreme, seven steps, about ten minutes.",
+   "visual": "A white canvas with cut-out car photos and stock-photo cut-outs of the kind of person who buys each level. No drawing, no footage.",
+   "visualTag": "Cutouts on a white canvas",
+   "targets": [
+    {
+     "niche": "Watches",
+     "title": "The 7 Levels of Rolex Explained In 10 Minutes",
+     "topic": "rolex watches",
+     "cross": "the 7 levels of rolex explained",
+     "verdict": "Crowded",
+     "why": "The crossing was made and it worked: “The 7 Levels Of Rolex Watches” 480K, “The 7 Levels Of Watches” 565K, “Every Rolex Level Explained” 351K. Strong proof that the ladder travels, and three channels already sit on it.",
+     "proofId": "snonxJExpmU"
+    },
+    {
+     "niche": "Motorcycles",
+     "title": "The 7 Levels of Ducati Explained In 10 Minutes",
+     "topic": "ducati motorcycles",
+     "cross": "the 7 levels of bikes explained",
+     "verdict": "Open",
+     "why": "“So You Want a Ducati Panigale” reached 113K on a 13K channel, so the brand pulls. The only ladder is “The 7 Levels of Fast Bikes”, 87K, eight months old. No brand ladder exists yet.",
+     "proofId": "1cUpy-2nkhg"
+    },
+    {
+     "niche": "Private jets",
+     "title": "The 7 Levels of Private Jets Explained In 10 Minutes",
+     "topic": "private jets",
+     "cross": "the 7 levels of private jets explained",
+     "verdict": "Crowded",
+     "why": "Already made twice with views: 265K (Rexy Breaks It Down) and 209K. A third copy got 6K.",
+     "proofId": "3DIEIWNLBhk"
+    }
+   ]
+  },
+  {
+   "key": "entire-history",
+   "name": "The entire history of [subject]",
+   "source": {
+    "id": "Nlu6Fe-vbYQ",
+    "handle": "@unknownfrequencies-tv",
+    "title": "The ENTIRE History of WW2 Explained"
+   },
+   "niche": "History (wars)",
+   "formula": "The ENTIRE History of [subject] Explained",
+   "thumbnail": "Two cartoon leaders facing off over a red and blue map, the subject and IN 13 MINUTES hand-lettered in the centre.",
+   "structure": "A whole story start to finish, in order, with a length promised on the thumbnail.",
+   "visual": "Thick-outline cartoon figures with round skull-like faces, hand-lettered dialogue, dark maps with one region lit, old photographs in frames.",
+   "visualTag": "2D cartoon",
+   "targets": [
+    {
+     "niche": "Formula 1",
+     "title": "The ENTIRE History of Formula 1 Explained",
+     "topic": "f1 history",
+     "cross": "the entire history of formula 1 explained",
+     "verdict": "Contested",
+     "why": "F1 history is alive for small channels, as single stories: “The Most FEARED Car In F1 History” 373K from a 3K channel, “USF1: The Greatest Scam in Formula 1 History” 206K. The whole-history slot belongs to big channels (“The 2025 F1 Season in 21 Minutes”, 1.6M).",
+     "proofId": "J6r0-AjVU5A"
+    },
+    {
+     "niche": "Football clubs",
+     "title": "The ENTIRE History of Real Madrid Explained",
+     "topic": "real madrid history",
+     "cross": "the entire history of real madrid explained",
+     "verdict": "Crowded",
+     "why": "Real Madrid gets views every week, mostly match footage and news from large channels. A cartoon history would compete with the footage the fans come for.",
+     "proofId": "44dO4Nu7mh4"
+    },
+    {
+     "niche": "Car brands",
+     "title": "The ENTIRE History of Ferrari Explained",
+     "topic": "ferrari history",
+     "cross": "the entire history of ferrari explained",
+     "verdict": "Weak",
+     "why": "See the question above: a dozen attempts, nearly all under 1,000 views. This month’s Ferrari views go to a 1.7M presenter channel and to race news.",
+     "proofId": "XxawPla0XUw"
+    }
+   ]
+  },
+  {
+   "key": "called-him-idiot",
+   "name": "Everyone called him an idiot",
+   "source": {
+    "id": "mFiZG43v_4A",
+    "handle": "@theMonteLago",
+    "title": "Everyone Called Him an Idiot. He Got Richer Every Time. | Timothy Dexter"
+   },
+   "niche": "History (odd lives)",
+   "formula": "Everyone Called Him an [insult]. He Got [result] Every Time. | [name]",
+   "flags": [
+    "One hit on this channel"
+   ],
+   "thumbnail": "A row of stick figures in colonial coats laughing and pointing at one plain figure in a town square. No text.",
+   "structure": "One life told in order: each thing he did looked stupid, and each one paid off.",
+   "visual": "Stick figures with coloured coats in flat hand-drawn rooms and harbours on cream paper, one simple scene per beat.",
+   "visualTag": "2D cartoon (stick figures)",
+   "targets": [
+    {
+     "niche": "Company founders",
+     "title": "Everyone Called Him an Idiot. He Got Richer Every Time. | [founder]",
+     "topic": "founder story",
+     "cross": "everyone called him an idiot he got richer",
+     "verdict": "Open",
+     "why": "Founder stories from channels under 100K did well this month: “Why The Bose Founder Gave the Company Away…” 406K. Nobody has reused this title on a business founder. The “everyone called…” wording is otherwise used by drama-fiction channels.",
+     "proofId": "TwvOS6MqXfQ"
+    },
+    {
+     "niche": "Car makers",
+     "title": "Everyone Called Him an Idiot. He Got Richer Every Time. | [car founder]",
+     "topic": "lamborghini founder story",
+     "cross": "everyone laughed at him car company",
+     "verdict": "Weak",
+     "why": "The Lamborghini founder story was posted at least four times this month and none passed 400 views (“How a Tractor Mechanic Built Lamborghini”, 264). It is the most copied car story there is, and the copies get nothing.",
+     "proofId": "ju2tnqUSUhE"
+    },
+    {
+     "niche": "Inventors",
+     "title": "Everyone Called Him an Idiot. He Was Right Every Time. | [inventor]",
+     "topic": "inventor story",
+     "cross": "everyone called him crazy he was right",
+     "verdict": "Open",
+     "why": "Inventor stories with a sting in the title are working right now: “The Machine That Killed Its Inventor | Rudolf Diesel” 474K on a 12K channel in 12 days. This title has not been used for an inventor.",
+     "proofId": "ge1nQviq-7g"
+    }
+   ]
+  },
+  {
+   "key": "built-the-first",
+   "name": "How a [person] built the first [thing]",
+   "source": {
+    "id": "yZZqdPpvXdY",
+    "handle": "@HiddenGenius44",
+    "title": "How a Fearless Engineer Built the World's First Car"
+   },
+   "niche": "Invention stories (vehicles, machines, food)",
+   "formula": "How a [adjective] [person] Built the World's First [thing]",
+   "structure": "One inventor's story as scenes: the idea, the doubt, the public test. About ten minutes.",
+   "visual": "Generated period scenes that look like film stills: warm workshop light, the inventor in every shot, crowds in period dress. Mostly held stills.",
+   "visualTag": "Generated cinematic stills",
+   "targets": [
+    {
+     "niche": "Supercar brands",
+     "title": "How a Tractor Maker Built the First Lamborghini",
+     "topic": "how lamborghini started",
+     "cross": "how built the first lamborghini",
+     "verdict": "Weak",
+     "why": "Same finding as the Lamborghini founder story: this month’s attempts sit under 400 views. The one car-origin video that worked is “How BUGATTI’s W16 started with a LAMBORGHINI DIABLO”, 149K on an 8K channel, which is an engineering story.",
+     "proofId": "RJ29NETOToo"
+    },
+    {
+     "niche": "Helicopters",
+     "title": "How a Fearless Engineer Built the World's First Helicopter",
+     "topic": "first helicopter",
+     "cross": "how built the world's first helicopter",
+     "verdict": "Open",
+     "why": "“The Insanely Fascinating Invention of the Helicopter” reached 242K five months ago. Nothing on topic this month, and Hidden Genius has not made it yet. Its trains, cars and motorcycles all passed 180K.",
+     "proofId": "l-4Bk3Ni75U"
+    },
+    {
+     "niche": "Rockets",
+     "title": "How a Fearless Engineer Built the World's First Rocket",
+     "topic": "first rocket history",
+     "cross": "how built the world's first rocket",
+     "verdict": "Weak",
+     "why": "Nothing on the first rocket passed 50K this month except launch news. One attempt, “Who Actually Built the First Rocket?”, has 142 views.",
+     "proofId": "-019d026Xro"
+    }
+   ],
+   "thumbnail": "A period scene of the first car being driven past a workshop, a round inset portrait of the inventor, and one yellow line of text: The Real Story of the First Car."
+  },
+  {
+   "key": "fooling-the-world",
+   "name": "[company]: fooling the entire world?",
+   "source": {
+    "id": "Ol7iG-4S0KU",
+    "handle": "@LowVolumeCapital",
+    "title": "BYD: The Chinese Car Company That's Fooling the Entire World?",
+    "views": 375005,
+    "age": "5 months ago"
+   },
+   "niche": "Car business",
+   "formula": "[company]: The [country] [type] Company That's Fooling the Entire World?",
+   "flags": [
+    "One hit on this channel"
+   ],
+   "structure": "A company exposé: the claim, the numbers behind it, who pays.",
+   "visual": "Generated watercolour comic scenes with a suited executive, crowds and factories, and a yellow caption strip along the bottom. Held stills.",
+   "visualTag": "Illustrated stills with captions",
+   "targets": [
+    {
+     "niche": "Car groups",
+     "title": "Geely: The Chinese Car Company That's Buying the Entire World?",
+     "topic": "geely car brands",
+     "cross": "geely buying car brands",
+     "verdict": "Confirmed",
+     "why": "The source channel made it nine days ago: “Geely: The Secret Empire Buying the World’s Car Brands”, 147K. driverpm told the same story for 520K a month ago. Proven, with two channels on it.",
+     "proofId": "AN395sNtSjs"
+    },
+    {
+     "niche": "EV start-ups",
+     "title": "Lucid: The American Car Company That's Fooling the Entire World?",
+     "topic": "lucid motors collapse",
+     "cross": "lucid fooling the world",
+     "verdict": "Weak",
+     "why": "The source channel tried it: “Lucid’s Collapse” got 30K. Nothing else on topic this month.",
+     "proofId": "ZuCK0s43Ou4"
+    },
+    {
+     "niche": "E-commerce",
+     "title": "Temu: The Chinese Shopping Company That's Fooling the Entire World?",
+     "topic": "temu business explained",
+     "cross": "temu fooling the entire world",
+     "verdict": "Weak",
+     "why": "No business video on Temu passed 100K this month; the best is a product test at 66K. An attempt at this angle, “The Overdue Reckoning of Temu”, has 399 views.",
+     "proofId": "FPIHw96lOJ4"
+    }
+   ]
+  },
+  {
+   "key": "most-dangerous",
+   "name": "Most dangerous [machines] ever built",
+   "source": {
+    "id": "hJQV-5XhMDs",
+    "handle": "@OddestMachines",
+    "title": "Robot Wars: Most Dangerous BattleBots Ever Built Explained"
+   },
+   "niche": "Machines (combat robots, weapons, tanks)",
+   "formula": "[world]: Most Dangerous [machines] Ever Built Explained",
+   "structure": "A list of named machines, each with what made it dangerous. 25 minutes.",
+   "visual": "A white canvas with the machine's name on top, one photo with a drop shadow, a small icon in the corner.",
+   "visualTag": "Cutouts on a white canvas",
+   "targets": [
+    {
+     "niche": "Race cars",
+     "title": "Group B: Most Dangerous Rally Cars Ever Built Explained",
+     "topic": "most dangerous race cars",
+     "cross": "most dangerous rally cars ever built explained",
+     "verdict": "Confirmed",
+     "why": "“Every Banned Race Car Too Dangerous for the Track Explained” reached 333K five months ago, and “The Suzuki Built to Win America’s Most Dangerous Race” 379K this month. Use the banned angle. Odd Machines’ plain “Weirdest Cars” list got 4.6K.",
+     "proofId": "aLKr1t5kd08"
+    },
+    {
+     "niche": "Fighter jets",
+     "title": "Cold War: Most Dangerous Fighter Jets Ever Built Explained",
+     "topic": "most dangerous fighter jets",
+     "cross": "most dangerous fighter jets ever built explained",
+     "verdict": "Crowded",
+     "why": "Military channels with 100K to 500K subscribers own this and the lists are a year old (“Top 5 Most FEARED Fighter Jets”, 1.3M). One on-topic hit this month, from a 129K channel.",
+     "proofId": "grCjujLBnDs"
+    },
+    {
+     "niche": "Submarines",
+     "title": "Cold War: Most Dangerous Submarines Ever Built Explained",
+     "topic": "most dangerous submarines",
+     "cross": "most dangerous submarines ever built explained",
+     "verdict": "Crowded",
+     "why": "“The Most Dangerous Submarine America Ever Built” reached 182K this month, from a 547K channel. Small channels on the same subject get under 10K.",
+     "proofId": "B9qJm3s4PDg"
+    }
+   ]
+  },
+  {
+   "key": "tore-down",
+   "name": "Engineers tore down a [product]",
+   "source": {
+    "id": "4UsIkTTArMU",
+    "handle": "THE AMERICAN FILES",
+    "name": "The American Files",
+    "title": "American Engineers Tore Down a TOYOTA—What They Found SHOCKED Everyone",
+    "views": 218993,
+    "age": "4 days ago"
+   },
+   "niche": "Cars (teardowns)",
+   "formula": "[country] Engineers Tore Down a [product] — What They Found SHOCKED Everyone",
+   "flags": [
+    "Blowing up this month",
+    "Packaging only: AI presenter inside"
+   ],
+   "structure": "A teardown story: why they opened it, what each part showed, what it means for the home brand.",
+   "visual": "An AI presenter in the corner over stock footage, with one highlighted caption word. That is on our no-go list, so only the title and thumbnail are worth taking.",
+   "visualTag": "AI presenter over footage",
+   "targets": [
+    {
+     "niche": "Electric cars",
+     "title": "American Engineers Tore Down a BYD — What They Found SHOCKED Everyone",
+     "topic": "byd teardown",
+     "cross": "engineers tore down a byd what they found",
+     "verdict": "Crowded",
+     "why": "This is blowing up right now. Four BYD teardown videos passed 100K in the last two weeks (296K, 293K, 273K, 115K), each naming a different country’s engineers. The title is proven and the BYD seat is full.",
+     "proofId": "szSqMEt2t2s"
+    },
+    {
+     "niche": "Tractors and trucks",
+     "title": "American Engineers Tore Down a Chinese Truck — What They Found SHOCKED Everyone",
+     "topic": "engineers tore down",
+     "cross": "engineers tore down chinese what they found",
+     "verdict": "Confirmed",
+     "why": "The pattern as a whole has 15 videos over 100K this month, led by “Japanese Engineers Tore Down a Chinese Car” at 898K. It has already jumped to another machine: the Chinese tractor version reached 181K in six days.",
+     "proofId": "2_FQQBp3AT4",
+     "niche_label": "Other machines"
+    },
+    {
+     "niche": "Phones",
+     "title": "American Engineers Tore Down a Huawei — What They Found SHOCKED Everyone",
+     "topic": "huawei teardown",
+     "cross": "engineers tore down a huawei phone what they found",
+     "verdict": "Untested",
+     "why": "The pattern has not reached phones. This month’s Huawei views are hands-on reviews by people on camera. No engineer-teardown story exists to compare with.",
+     "proofId": "HgVpJ5GXbtQ"
+    }
+   ]
+  },
+  {
+   "key": "most-feared",
+   "name": "The most feared [machine] in [sport] history",
+   "source": {
+    "id": "J6r0-AjVU5A",
+    "handle": "@slipstrmHQ",
+    "title": "The Most FEARED Car In F1 History"
+   },
+   "niche": "Formula 1",
+   "formula": "The Most FEARED [machine] In [sport] History",
+   "flags": [
+    "Packaging only: race footage inside"
+   ],
+   "thumbnail": "One F1 car in side view on a plain light background, a red label across the top in white capitals (BANNED FOR LIFE), a hand-drawn black arrow pointing at the part that got it banned.",
+   "structure": "One machine, one question: why rivals feared it, what made it fast, how it was stopped.",
+   "visual": "Archive broadcast footage and podium clips with a channel watermark. Not a look for us. The thumbnail is pure cut-out and label, which we can make.",
+   "visualTag": "Archive race footage",
+   "targets": [
+    {
+     "niche": "Rally",
+     "title": "The Most FEARED Car In Rally History",
+     "topic": "group b rally",
+     "cross": "the most feared car in rally history",
+     "verdict": "Open",
+     "why": "Group B pulls for small channels this month: 144K on a 15K channel, 58K on a 3K channel. “Every Banned Race Car Too Dangerous for the Track Explained” reached 333K. Nobody has used this title for rally.",
+     "proofId": "JMP2LTM07gA"
+    },
+    {
+     "niche": "Le Mans",
+     "title": "The Most FEARED Car In Le Mans History",
+     "topic": "le mans history",
+     "cross": "the most feared car in le mans history",
+     "verdict": "Open",
+     "why": "“The 271-HP ‘Joke’ That Stole a Championship — Then Got a Secret Le Mans…” reached 107K in five days on a 36K channel. Single-car Le Mans stories work; this title is unused.",
+     "proofId": "3xfjbaHeH1I"
+    },
+    {
+     "niche": "MotoGP",
+     "title": "The Most FEARED Bike In MotoGP History",
+     "topic": "motogp history",
+     "cross": "the most feared bike in motogp history",
+     "verdict": "Untested",
+     "why": "One small-channel hit this month, a chart race at 136K. The story videos that work are from large channels. Too thin to call.",
+     "proofId": "410vwD9teZI"
+    }
+   ]
+  },
+  {
+   "key": "killed-its-inventor",
+   "name": "The machine that killed its inventor",
+   "source": {
+    "id": "ge1nQviq-7g",
+    "handle": "@FarmingtoFactory",
+    "title": "The Machine That Killed Its Inventor | The Untold Story of Rudolf Diesel"
+   },
+   "niche": "Invention history (engines)",
+   "formula": "The Machine That Killed Its Inventor | The Untold Story of [name]",
+   "flags": [
+    "One hit on this channel"
+   ],
+   "thumbnail": "Sepia: the inventor's portrait on the left, his engine in the middle with a tag reading INVENTOR, a harbour behind, and a serif title on the right (History of Diesel Engine).",
+   "structure": "A biography with a dark hook: the invention, the fight to sell it, the inventor's death.",
+   "visual": "Generated period scenes that look like film stills: the inventor's face in close-up, crowds, ship corridors, warm lamps. The same look as Hidden Genius.",
+   "visualTag": "Generated cinematic stills",
+   "targets": [
+    {
+     "niche": "Aviation",
+     "title": "The Machine That Killed Its Inventor | The Untold Story of Otto Lilienthal",
+     "topic": "otto lilienthal",
+     "cross": "the machine that killed its inventor",
+     "verdict": "Untested",
+     "why": "Nobody searches for Lilienthal: this month’s videos on him have under 200 views, all in German or French. The hook would have to carry it, as it did for Diesel twice in a month (474K and 356K).",
+     "proofId": "ge1nQviq-7g"
+    },
+    {
+     "niche": "Rockets",
+     "title": "The Machine That Killed Its Inventor | The Untold Story of Max Valier",
+     "topic": "rocket pioneer",
+     "cross": "rocket that killed its inventor",
+     "verdict": "Untested",
+     "why": "The search returns nothing usable on rocket pioneers this month. The list version of the hook, “Inventors That Were Killed By Their Own Inventions”, reached 1.9M six months ago.",
+     "proofId": "QbDMNVUzYRI"
+    },
+    {
+     "niche": "Cars",
+     "title": "The Car That Ruined Its Inventor | The Untold Story of Preston Tucker",
+     "topic": "preston tucker",
+     "cross": "the car that ruined its inventor tucker",
+     "verdict": "Weak",
+     "why": "Two Preston Tucker videos this month: 87 views and 6 views. The name does not pull by itself, and the title had to change its verb to stay true.",
+     "proofId": "VVloyH_WsSw"
+    }
+   ]
+  }
+ ],
+ "headline": "What works, and <b>where else</b> it can go",
+ "lede": "Eight videos that are working now, each taken apart the same way, and three merges. Plus an answer to your question about cars. Everything under <b>D</b> was checked against this month’s on-topic uploads.",
+ "question": {
+  "question": "“The entire history of X” works as a 2D cartoon in history: Animated History at 1.2M views, Unknown Frequencies at 1.5M. If we make it about cars in the same animation style, does it still hold?",
+  "verdict": "Not as it is. Keep the car story, change the angle.",
+  "points": [
+   "<b>The look is not in use there.</b> Of the 24 strongest on-topic car history and car brand videos of the last year, none is a flat cartoon timeline. Nine have a presenter on camera. One is drawn (SimplePaint, a 520K channel that brings its own audience) and one is a children’s cartoon.",
+   "<b>The crossing has been tried, and it failed.</b> A dozen small channels posted an “entire” or “complete history” of a car brand in the last year. Nearly all are under 1,000 views. The best, “Evolution of Ferrari (1947–2026)”, reached 60K. I did not look inside those attempts, so this speaks against the title more than against the cartoon look.",
+   "<b>The same audience does watch faceless videos from small channels</b>, in three other looks: a ladder on a white canvas (Kitty Explains Cars, 28K subscribers, 924K and 889K), an inventor story in generated period stills (Hidden Genius, 16K subscribers, 536K), a company exposé in illustrated stills (Low Volume Capital, 13K subscribers, 375K).",
+   "<b>What that means.</b> In this sample a car viewer clicks on a person, an accusation or a ranking. “The whole history of a brand” asks no question. A drawn car video would be the first of its kind with this audience: an open lane and an unproven one. If we draw it, tie it to an angle that already pulls."
+  ],
+  "stylesTitle": "What the 24 strongest car-history videos of the last year look like inside",
+  "styles": [
+   {
+    "style": "Presenter on camera",
+    "videos": 9,
+    "medianViews": 1009044,
+    "ours": false,
+    "no": true
+   },
+   {
+    "style": "Generated cinematic stills",
+    "videos": 2,
+    "medianViews": 730719,
+    "ours": true,
+    "no": false
+   },
+   {
+    "style": "Cutouts on a white canvas",
+    "videos": 2,
+    "medianViews": 906510,
+    "ours": true,
+    "no": false
+   },
+   {
+    "style": "Car photos and footage, narrated",
+    "videos": 2,
+    "medianViews": 602658,
+    "ours": false,
+    "no": false
+   },
+   {
+    "style": "Chart race",
+    "videos": 2,
+    "medianViews": 559953,
+    "ours": true,
+    "no": false
+   },
+   {
+    "style": "Footage and 3D documentary (big channel)",
+    "videos": 1,
+    "medianViews": 5650617,
+    "ours": false,
+    "no": false
+   },
+   {
+    "style": "Car photos with labels",
+    "videos": 1,
+    "medianViews": 2010179,
+    "ours": true,
+    "no": false
+   },
+   {
+    "style": "3D car renders",
+    "videos": 1,
+    "medianViews": 1321052,
+    "ours": false,
+    "no": false
+   },
+   {
+    "style": "Drawn (paint-explainer cartoon)",
+    "videos": 1,
+    "medianViews": 954310,
+    "ours": true,
+    "no": false
+   },
+   {
+    "style": "2D cartoon for children",
+    "videos": 1,
+    "medianViews": 787459,
+    "ours": false,
+    "no": false
+   },
+   {
+    "style": "Meme collage",
+    "videos": 1,
+    "medianViews": 731771,
+    "ours": false,
+    "no": false
+   },
+   {
+    "style": "AI morph timeline",
+    "videos": 1,
+    "medianViews": 649788,
+    "ours": true,
+    "no": false
+   },
+   {
+    "style": "Illustrated stills with captions",
+    "videos": 1,
+    "medianViews": 375005,
+    "ours": true,
+    "no": false
+   }
+  ],
+  "attemptsTitle": "“The entire history of [car brand]”: what happened to the attempts",
+  "attempts": [
+   {
+    "title": "Evolution of Ferrari (NEW) (1947-2026)",
+    "views": 60305,
+    "by": "@Flatlife",
+    "age": "11 months ago"
+   },
+   {
+    "title": "The History of Cars — The Machine That Changed the World",
+    "views": 12699,
+    "by": "@HowItStartedOffical",
+    "age": "11 days ago"
+   },
+   {
+    "title": "every ferrari model explained, i guess",
+    "views": 2817,
+    "by": "@carsexplained.123",
+    "age": "7 months ago"
+   },
+   {
+    "title": "Every Ferrari Model Explained From 298 GTO to 296 GTB",
+    "views": 1969,
+    "by": "@VehicleAtlas",
+    "age": "6 months ago"
+   },
+   {
+    "title": "Car Evolution: The Complete History of Cars",
+    "views": 666,
+    "by": "@HistoryArchivesByYRD",
+    "age": "1 month ago"
+   },
+   {
+    "title": "Lamborghini Complete History: Every Model Explained",
+    "views": 637,
+    "by": "@Auto.Graphy",
+    "age": "8 months ago"
+   },
+   {
+    "title": "The Evolution of Lamborghini (1963 - 2026) | Complete History",
+    "views": 219,
+    "by": "@FlawlessEvolve",
+    "age": "5 months ago"
+   },
+   {
+    "title": "ENTIRE History of Lamborghini Ep 4 - The 350GT & 400GT",
+    "views": 182,
+    "by": "@knowwithjoe",
+    "age": "10 months ago"
+   },
+   {
+    "title": "The Entire History of BMW in 6 Minutes",
+    "views": 138,
+    "by": "unnamed channel",
+    "age": "6 days ago"
+   },
+   {
+    "title": "The Entire History of Automobili Lamborghini",
+    "views": 122,
+    "by": "@OldLuxury",
+    "age": "13 days ago"
+   },
+   {
+    "title": "The Entire History of Cars | From Horses to Self-Driving AI",
+    "views": 74,
+    "by": "@OriginsOf_Everything",
+    "age": "5 months ago"
+   }
+  ],
+  "evidenceTitle": "What the car audience does watch from small faceless channels",
+  "evidence": [
+   {
+    "id": "yZZqdPpvXdY",
+    "title": "How a Fearless Engineer Built the World’s First Car",
+    "views": 535991,
+    "subs": 16200,
+    "by": "Hidden Genius",
+    "age": "14 Aug 2026",
+    "style": "Generated cinematic stills",
+    "note": "The strongest proof on this page. The channel’s median is 94K across its last 15 uploads and 7 of them passed 100K. Its best is the first steam train at 1.1M."
+   },
+   {
+    "id": "bKy31Sxd5mw",
+    "title": "The 7 Levels of Audi Explained In 10 Minutes",
+    "views": 924158,
+    "subs": 28400,
+    "by": "Kitty Explains Cars",
+    "age": "6 months ago",
+    "style": "Cutouts on a white canvas",
+    "note": "A ladder, not a history. It worked twice (Audi, Mercedes) and stopped: the channel’s median is now 3.8K."
+   },
+   {
+    "id": "Ol7iG-4S0KU",
+    "title": "BYD: The Chinese Car Company That’s Fooling the Entire World?",
+    "views": 375005,
+    "subs": 12900,
+    "by": "Low Volume Capital",
+    "age": "5 months ago",
+    "style": "Illustrated stills with captions",
+    "note": "An accusation in the title, a comic-like look inside. One hit: the channel’s median is 5.6K. Its Geely video reached 147K on 24 Sep."
+   },
+   {
+    "id": "pWfIp80ffK0",
+    "title": "The Chinese Company That Bought Europe’s Most Iconic Car Brands One By One!",
+    "views": 520544,
+    "subs": 27600,
+    "by": "driverpm",
+    "age": "1 month ago",
+    "style": "Car footage, narrated",
+    "note": "Advert and stock footage, so not a look for us. The angle is proven twice in a month: a company quietly buying up brands."
+   },
+   {
+    "id": "jICGW3BgjyA",
+    "title": "The Worst Car Crash Deaths From Every Major Car Brand",
+    "views": 954310,
+    "subs": 520000,
+    "by": "SimplePaint",
+    "age": "7 months ago",
+    "style": "Drawn (paint-explainer)",
+    "note": "The only drawn video in the sample. The channel is big, so it proves less than the number suggests."
+   }
+  ]
+ },
+ "merges": [
+  {
+   "key": "idiot-title-period-stills",
+   "title": "Everyone Called Him an Idiot. He Was Right Every Time. | [inventor]",
+   "niche": "Invention stories",
+   "verdict": "Open",
+   "packaging": {
+    "id": "mFiZG43v_4A",
+    "title": "Everyone Called Him an Idiot. He Got Richer Every Time. | Timothy Dexter",
+    "by": "MonteLago",
+    "views": 986005
+   },
+   "look": {
+    "id": "yZZqdPpvXdY",
+    "title": "How a Fearless Engineer Built the World’s First Car",
+    "by": "Hidden Genius",
+    "views": 535991
+   },
+   "audience": "People who watch invention stories. They gave Hidden Genius a 94K median, and the Diesel story 474K and 356K on two channels this month, all in this look.",
+   "proven": "The title (986K on a 4K channel). The look and the structure with this audience, on three channels.",
+   "unproven": "It needs a real inventor whose life fits: mocked, then proved right more than once. The source thumbnail is a cartoon crowd laughing at one man, so that layout has to be redrawn as a period scene."
+  },
+  {
+   "key": "feared-car-on-canvas",
+   "title": "The Most FEARED Car In Rally History",
+   "niche": "Motorsport history",
+   "verdict": "Untested",
+   "packaging": {
+    "id": "J6r0-AjVU5A",
+    "title": "The Most FEARED Car In F1 History",
+    "by": "SLIPSTRM",
+    "views": 373154
+   },
+   "look": {
+    "id": "hJQV-5XhMDs",
+    "title": "Robot Wars: Most Dangerous BattleBots Ever Built Explained",
+    "by": "Odd Machines",
+    "views": 1164371
+   },
+   "audience": "Motorsport-history viewers. Today they watch archive race footage (SLIPSTRM, 3K subscribers, five videos over 100K). Group B pulled 144K and 58K for small channels this month.",
+   "proven": "The title and the thumbnail: one car in side view, a red label, an arrow at the part that got it banned. The subject.",
+   "unproven": "The look. A canvas of cut-outs and labels has not been shown to this audience. Odd Machines’ own car list got 4.6K. The closest proof is Kitty Explains Cars, 900K twice, six months ago."
+  },
+  {
+   "key": "teardown-illustrated",
+   "title": "German Engineers Tore Down a Chinese Car — What They Found Inside",
+   "niche": "Car business",
+   "verdict": "Crowded",
+   "packaging": {
+    "id": "HhrOnDZ7998",
+    "title": "Japanese Engineers Tore Down a Chinese Car — What They Found Inside",
+    "by": "Forever Engine",
+    "views": 898000
+   },
+   "look": {
+    "id": "Ol7iG-4S0KU",
+    "title": "BYD: The Chinese Car Company That’s Fooling the Entire World?",
+    "by": "Low Volume Capital",
+    "views": 375005
+   },
+   "audience": "The same people on both sides: viewers following Chinese cars against Western and Japanese makers. They gave the teardown titles 15 videos over 100K this month and the illustrated BYD exposé 375K.",
+   "proven": "The title, right now. The subject. An illustrated faceless look on this subject, once.",
+   "unproven": "Whether the click survives without the engineer-presenter the copies all use. I have not checked whether the teardowns in those videos are real; ours would need a documented one. The window is short: the pattern is two to four weeks old and already on about 15 channels."
+  }
+ ]
+}

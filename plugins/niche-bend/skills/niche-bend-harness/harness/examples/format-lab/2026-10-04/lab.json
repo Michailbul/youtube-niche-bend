@@ -1,0 +1,2952 @@
+{
+ "date": "2026-10-04",
+ "sources": "Danilov list, gallery packaging library, car-history survey, this week's search",
+ "formats": [
+  {
+   "key": "strange-mechanism",
+   "name": "Every [object] with a strange mechanism",
+   "source": {
+    "id": "2ZS01obvQR0",
+    "handle": "@Cowball44",
+    "title": "Every Gun With A Strange Mechanism Explained",
+    "name": "Cowball",
+    "subs": 31000,
+    "videoCount": 55,
+    "median": 110987,
+    "over100K": 9,
+    "sample": 15,
+    "views": 1741366,
+    "date": "2026-09-05"
+   },
+   "niche": "Weapons",
+   "formula": "Every [object] With A Strange Mechanism Explained",
+   "thumbnail": "White board, twelve product photos in three rows, the odd feature named under each. No headline.",
+   "structure": "A list. Twelve objects that share one odd trait, about a minute each.",
+   "visual": "Real photos and footage of each gun being handled and fired, with captioned meme images as jokes. The white labelled grid is the thumbnail only.",
+   "visualTag": "Stock footage inside, grid thumbnail",
+   "targets": [
+    {
+     "niche": "Car engines",
+     "title": "Every Engine With A Strange Mechanism Explained",
+     "topic": "weird car engines",
+     "cross": [
+      {
+       "id": "QtxVdC7pBQM",
+       "title": "The Ridiculous Engineering Of Jet Engines",
+       "views": 16049912,
+       "age": "10mo ago",
+       "handle": "@veritasium",
+       "channel": "Veritasium",
+       "subs": null,
+       "length": "39:34"
+      },
+      {
+       "id": "vzM_-Rr5mtw",
+       "title": "Mechanisms EVERY Mechanical Engineer Should Know",
+       "views": 780732,
+       "age": "10mo ago",
+       "handle": "@EngineeringGoneWild",
+       "channel": "Engineering Gone Wild",
+       "subs": null,
+       "length": "13:26"
+      },
+      {
+       "id": "DHYDgcTnrjQ",
+       "title": "Every Car Engine Type Explained",
+       "views": 731776,
+       "age": "10mo ago",
+       "handle": "@BladedAngel",
+       "channel": "Bladed Angel",
+       "subs": null,
+       "length": "28:40"
+      },
+      {
+       "id": "qDDCliRKHbY",
+       "title": "Every Motorcycle Engine Ever (explained)",
+       "views": 501313,
+       "age": "11mo ago",
+       "handle": "@bigtimebigtimebigtime",
+       "channel": "BigTime",
+       "subs": null,
+       "length": "38:42"
+      }
+     ],
+     "verdict": "Weak",
+     "why": "One on-topic video passed 100K this month, a “why” video on a 64K channel. The list format on engines has been tried and stays small: Odd Machines’ “Weirdest Engines Ever Made Explained” 26K, Scrapyard Engineer’s lists 8K.",
+     "proofId": "Wlg5U7G2P9E",
+     "numbers": {
+      "videos": 13,
+      "over50K": 1,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 1,
+      "topViews": 172538
+     },
+     "year": {
+      "videos": 17,
+      "over50K": 8,
+      "over100K": 7,
+      "over1M": 2,
+      "channelsOver50K": 6,
+      "channelsWith2PlusOver50K": 2,
+      "smallChannelHits": 1,
+      "topViews": 1727105
+     },
+     "proof": {
+      "id": "Wlg5U7G2P9E",
+      "title": "Why Don't Cars Have Weird Engine Sizes Anymore?",
+      "views": 172538,
+      "age": "3w ago",
+      "handle": "@KiwiCarLife",
+      "channel": "KiwiCarLife",
+      "subs": 64800,
+      "length": "8:01"
+     }
+    },
+    {
+     "niche": "Aircraft",
+     "title": "Every Plane With A Strange Mechanism Explained",
+     "topic": "strange aircraft",
+     "cross": [
+      {
+       "id": "QtxVdC7pBQM",
+       "title": "The Ridiculous Engineering Of Jet Engines",
+       "views": 16049912,
+       "age": "10mo ago",
+       "handle": "@veritasium",
+       "channel": "Veritasium",
+       "subs": null,
+       "length": "39:34"
+      },
+      {
+       "id": "rRtGxJSCGCI",
+       "title": "Every Type of Suspension Explained",
+       "views": 1360396,
+       "age": "9mo ago",
+       "handle": "@SpeeedCo",
+       "channel": "Speeed",
+       "subs": null,
+       "length": "13:54"
+      },
+      {
+       "id": "iWUG1qOCAWg",
+       "title": "The Horrifying Story of the Helios Ghost Flight.",
+       "views": 1061542,
+       "age": "4mo ago",
+       "handle": "@MentourPilot",
+       "channel": "Mentour Pilot",
+       "subs": null,
+       "length": "1:10:31"
+      },
+      {
+       "id": "Top1M-3dFeQ",
+       "title": "A Beginners Guide to Building Create Aeronautics planes",
+       "views": 305046,
+       "age": "5mo ago",
+       "handle": "@tidsss",
+       "channel": "Tids",
+       "subs": null,
+       "length": "15:08"
+      }
+     ],
+     "verdict": "Open",
+     "why": "Thin but alive: “Horten Hx 2: Germany’s Strange Flying Wing” reached 108K in a week on a 14K channel. Nobody has made this list for planes. Odd Machines’ “Weirdest Warplanes” got 58K.",
+     "proofId": "cTusbm6snrg",
+     "numbers": {
+      "videos": 5,
+      "over50K": 1,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 1,
+      "topViews": 108881
+     },
+     "year": {
+      "videos": 6,
+      "over50K": 4,
+      "over100K": 2,
+      "over1M": 0,
+      "channelsOver50K": 3,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 4,
+      "topViews": 268852
+     },
+     "proof": {
+      "id": "cTusbm6snrg",
+      "title": "Horten Hx 2 : GERMANY'S Strange FLYING WING!",
+      "views": 108881,
+      "age": "7d ago",
+      "handle": "@PropTales",
+      "channel": "Prop Tales",
+      "subs": 14900,
+      "length": "21:05"
+     }
+    },
+    {
+     "niche": "Tanks",
+     "title": "Every Tank With A Strange Mechanism Explained",
+     "topic": "weird tanks",
+     "cross": [
+      {
+       "id": "tiQ2caFT7ao",
+       "title": "Every Type Of Shotgun Shell Explained",
+       "views": 2265155,
+       "age": "8mo ago",
+       "handle": "@dataillusion",
+       "channel": "Data illusion",
+       "subs": null,
+       "length": "15:01"
+      },
+      {
+       "id": "Sm84wLGZbjA",
+       "title": "Leonardo da Vinci’s GENIUS Inventions",
+       "views": 1740522,
+       "age": "11mo ago",
+       "handle": "@LostInTimeVids",
+       "channel": "Lost in Time",
+       "subs": null,
+       "length": "15:40"
+      },
+      {
+       "id": "rRtGxJSCGCI",
+       "title": "Every Type of Suspension Explained",
+       "views": 1360396,
+       "age": "9mo ago",
+       "handle": "@SpeeedCo",
+       "channel": "Speeed",
+       "subs": null,
+       "length": "13:54"
+      },
+      {
+       "id": "4f9lFhMsLGg",
+       "title": "This is The Strongest Transmission Ever Built - Planetary Manual Lenco Gearbox Explained",
+       "views": 1118468,
+       "age": "9mo ago",
+       "handle": "@d4a",
+       "channel": "driving 4 answers",
+       "subs": null,
+       "length": "15:10"
+      }
+     ],
+     "verdict": "Weak",
+     "why": "Nothing on topic passed 100K this month. The same list format already exists here and underperforms: “Every Weirdest Tank Weapons Explained” 22K.",
+     "proofId": "32tTvADmFG8",
+     "numbers": {
+      "videos": 13,
+      "over50K": 1,
+      "over100K": 0,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 71870
+     },
+     "year": {
+      "videos": 10,
+      "over50K": 3,
+      "over100K": 2,
+      "over1M": 0,
+      "channelsOver50K": 3,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 280860
+     },
+     "proof": {
+      "id": "32tTvADmFG8",
+      "title": "Every Weirdest Tank Weapons Explained",
+      "views": 22563,
+      "age": "1mo ago",
+      "handle": "@LonaExplainInPaint",
+      "channel": "Lona Explain In Paint",
+      "subs": 3280,
+      "length": "20:09"
+     }
+    }
+   ]
+  },
+  {
+   "key": "seven-levels",
+   "name": "The 7 levels of [brand]",
+   "source": {
+    "id": "bKy31Sxd5mw",
+    "handle": "@KittyExplainsCars",
+    "title": "The 7 Levels of Audi Explained In 10 Minutes",
+    "views": 924158,
+    "age": "6 months ago",
+    "name": "Kitty Explains Cars",
+    "subs": 28400,
+    "videoCount": 63,
+    "median": 3820,
+    "over100K": 0,
+    "sample": 15
+   },
+   "niche": "Cars (one brand's line-up)",
+   "formula": "The 7 Levels of [brand] Explained In [N] Minutes",
+   "flags": [
+    "Channel has cooled",
+    "6 months old"
+   ],
+   "structure": "A ladder. One brand's range from the cheapest to the most extreme, seven steps, about ten minutes.",
+   "visual": "A white canvas with cut-out car photos and stock-photo cut-outs of the kind of person who buys each level. No drawing, no footage.",
+   "visualTag": "Cutouts on a white canvas",
+   "targets": [
+    {
+     "niche": "Watches",
+     "title": "The 7 Levels of Rolex Explained In 10 Minutes",
+     "topic": "rolex watches",
+     "cross": [
+      {
+       "id": "0yKPASXUy48",
+       "title": "The 7 Levels Of Watches",
+       "views": 565883,
+       "age": "6mo ago",
+       "handle": "@survivingwithlittle",
+       "channel": "Surviving With Little",
+       "subs": null,
+       "length": "15:38"
+      },
+      {
+       "id": "snonxJExpmU",
+       "title": "The 7 Levels Of Rolex Watches",
+       "views": 480576,
+       "age": "6mo ago",
+       "handle": "@survivingwithlittle",
+       "channel": "Surviving With Little",
+       "subs": null,
+       "length": "17:32"
+      },
+      {
+       "id": "ZEzh3bjOo0M",
+       "title": "Every Rolex Level Explained (And Which One Is Worth YOUR Money)",
+       "views": 351890,
+       "age": "3mo ago",
+       "handle": "@theswisstimekeeper",
+       "channel": "The Swiss Time Keeper",
+       "subs": null,
+       "length": "16:46"
+      },
+      {
+       "id": "NxZSnzlSfN8",
+       "title": "The 7 Levels of Watch Movements (And Why Most Collectors Get It Wrong)",
+       "views": 333202,
+       "age": "4mo ago",
+       "handle": "@TheWatchBros",
+       "channel": "The Watch Bros",
+       "subs": null,
+       "length": "17:44"
+      }
+     ],
+     "verdict": "Crowded",
+     "why": "The crossing was made and it worked: “The 7 Levels Of Rolex Watches” 480K, “The 7 Levels Of Watches” 565K, “Every Rolex Level Explained” 351K. Strong proof that the ladder travels, and three channels already sit on it.",
+     "proofId": "snonxJExpmU",
+     "numbers": {
+      "videos": 21,
+      "over50K": 14,
+      "over100K": 7,
+      "over1M": 2,
+      "channelsOver50K": 12,
+      "channelsWith2PlusOver50K": 2,
+      "smallChannelHits": 1,
+      "topViews": 2998844
+     },
+     "year": {
+      "videos": 20,
+      "over50K": 15,
+      "over100K": 10,
+      "over1M": 2,
+      "channelsOver50K": 13,
+      "channelsWith2PlusOver50K": 2,
+      "smallChannelHits": 1,
+      "topViews": 2998844
+     },
+     "proof": {
+      "id": "snonxJExpmU",
+      "title": "The 7 Levels Of Rolex Watches",
+      "views": 480576,
+      "age": "6mo ago",
+      "handle": "@survivingwithlittle",
+      "channel": "Surviving With Little",
+      "subs": null,
+      "length": "17:32"
+     }
+    },
+    {
+     "niche": "Motorcycles",
+     "title": "The 7 Levels of Ducati Explained In 10 Minutes",
+     "topic": "ducati motorcycles",
+     "cross": [
+      {
+       "id": "T-kyawLz4to",
+       "title": "5 Ways Your Bike Is Different From A Tour de France Bike",
+       "views": 1014339,
+       "age": "2mo ago",
+       "handle": "@gcntech",
+       "channel": "GCN Tech",
+       "subs": null,
+       "length": "7:45"
+      },
+      {
+       "id": "AzL654c2mK4",
+       "title": "Every Bike Type Explained For Newbies",
+       "views": 662117,
+       "age": "9mo ago",
+       "handle": "@Cade_Media",
+       "channel": "CADE Media",
+       "subs": null,
+       "length": "18:15"
+      },
+      {
+       "id": "r5vwLHKGOD0",
+       "title": "What I Wish I Knew Before I Bought A Gravel Bike",
+       "views": 471309,
+       "age": "7mo ago",
+       "handle": "@Cade_Media",
+       "channel": "CADE Media",
+       "subs": null,
+       "length": "13:55"
+      },
+      {
+       "id": "u87OWbaTbI0",
+       "title": "Entry Level Bikes Just Got Redefined",
+       "views": 447000,
+       "age": "8mo ago",
+       "handle": "@Cade_Media",
+       "channel": "CADE Media",
+       "subs": null,
+       "length": "16:26"
+      }
+     ],
+     "verdict": "Open",
+     "why": "“So You Want a Ducati Panigale” reached 113K on a 13K channel, so the brand pulls. The only ladder is “The 7 Levels of Fast Bikes”, 87K, eight months old. No brand ladder exists yet.",
+     "proofId": "1cUpy-2nkhg",
+     "numbers": {
+      "videos": 17,
+      "over50K": 5,
+      "over100K": 4,
+      "over1M": 0,
+      "channelsOver50K": 4,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 2,
+      "topViews": 182179
+     },
+     "year": {
+      "videos": 20,
+      "over50K": 9,
+      "over100K": 4,
+      "over1M": 0,
+      "channelsOver50K": 5,
+      "channelsWith2PlusOver50K": 3,
+      "smallChannelHits": 2,
+      "topViews": 249505
+     },
+     "proof": {
+      "id": "1cUpy-2nkhg",
+      "title": "So You Want a Ducati Panigale",
+      "views": 113536,
+      "age": "9d ago",
+      "handle": "@yammienoob",
+      "channel": "Yammie Noob",
+      "subs": 13600,
+      "length": "22:05"
+     }
+    },
+    {
+     "niche": "Private jets",
+     "title": "The 7 Levels of Private Jets Explained In 10 Minutes",
+     "topic": "private jets",
+     "cross": [
+      {
+       "id": "3DIEIWNLBhk",
+       "title": "The 7 Levels of Private Jets Explained In 11 Minutes",
+       "views": 265055,
+       "age": "4mo ago",
+       "handle": "@RexyBreaksItDown",
+       "channel": "RexyBreaksItDown",
+       "subs": null,
+       "length": "11:08"
+      },
+      {
+       "id": "kq20feIpzeA",
+       "title": "The 7 Levels of Private Jets",
+       "views": 209937,
+       "age": "2mo ago",
+       "handle": "@WorldOfLuxuryOfficial",
+       "channel": "World Of Luxury",
+       "subs": null,
+       "length": "9:38"
+      },
+      {
+       "id": "AcozjCdpCyw",
+       "title": "The 7 Levels of Private Jets Explained in 14 Minutes",
+       "views": 6771,
+       "age": "3mo ago",
+       "handle": "@TheMegaloDon-k4z",
+       "channel": "TheMegaloDon",
+       "subs": null,
+       "length": "14:17"
+      },
+      {
+       "id": "fg9y5AK_Fy4",
+       "title": "The 7 Levels of Private Jets Explained In 13 Minutes",
+       "views": 1250,
+       "age": "4mo ago",
+       "handle": "@breaking_bed-z1f",
+       "channel": "Mr. Lambert ",
+       "subs": null,
+       "length": "13:36"
+      }
+     ],
+     "verdict": "Crowded",
+     "why": "Already made twice with views: 265K (Rexy Breaks It Down) and 209K. A third copy got 6K.",
+     "proofId": "3DIEIWNLBhk",
+     "numbers": {
+      "videos": 19,
+      "over50K": 8,
+      "over100K": 5,
+      "over1M": 1,
+      "channelsOver50K": 7,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 5,
+      "topViews": 1981685
+     },
+     "year": {
+      "videos": 22,
+      "over50K": 17,
+      "over100K": 14,
+      "over1M": 3,
+      "channelsOver50K": 11,
+      "channelsWith2PlusOver50K": 2,
+      "smallChannelHits": 8,
+      "topViews": 168556761
+     },
+     "proof": {
+      "id": "3DIEIWNLBhk",
+      "title": "The 7 Levels of Private Jets Explained In 11 Minutes",
+      "views": 265055,
+      "age": "4mo ago",
+      "handle": "@RexyBreaksItDown",
+      "channel": "RexyBreaksItDown",
+      "subs": null,
+      "length": "11:08"
+     }
+    }
+   ]
+  },
+  {
+   "key": "entire-history",
+   "name": "The entire history of [subject]",
+   "source": {
+    "id": "Nlu6Fe-vbYQ",
+    "handle": "@unknownfrequencies-tv",
+    "title": "The ENTIRE History of WW2 Explained",
+    "name": "Unknown Frequencies",
+    "subs": 78100,
+    "videoCount": 21,
+    "median": 340253,
+    "over100K": 12,
+    "sample": 15,
+    "views": 1435506,
+    "date": "2026-07-14"
+   },
+   "niche": "History (wars)",
+   "formula": "The ENTIRE History of [subject] Explained",
+   "thumbnail": "Two cartoon leaders facing off over a red and blue map, the subject and IN 13 MINUTES hand-lettered in the centre.",
+   "structure": "A whole story start to finish, in order, with a length promised on the thumbnail.",
+   "visual": "Thick-outline cartoon figures with round skull-like faces, hand-lettered dialogue, dark maps with one region lit, old photographs in frames.",
+   "visualTag": "2D cartoon",
+   "targets": [
+    {
+     "niche": "Formula 1",
+     "title": "The ENTIRE History of Formula 1 Explained",
+     "topic": "f1 history",
+     "cross": [
+      {
+       "id": "GaDFJr5wSz0",
+       "title": "Everything You Need To Know About the Formula 1 2026 Regulations",
+       "views": 3022026,
+       "age": "9mo ago",
+       "handle": "@Formula1",
+       "channel": "FORMULA 1",
+       "subs": null,
+       "length": "8:21"
+      },
+      {
+       "id": "PG5nvhvkRgY",
+       "title": "The 2025 F1 Season in 21 Minutes",
+       "views": 1580938,
+       "age": "8mo ago",
+       "handle": "@RicksF1Addiction",
+       "channel": "Rick'sF1Addiction",
+       "subs": null,
+       "length": "21:08"
+      },
+      {
+       "id": "VybzXU1dYk4",
+       "title": "A Beginner's Guide To Formula 1",
+       "views": 1046471,
+       "age": "7mo ago",
+       "handle": "@Formula1",
+       "channel": "FORMULA 1",
+       "subs": null,
+       "length": "6:09"
+      },
+      {
+       "id": "n8I3MB9j72o",
+       "title": "Every F1 Driving Style Explained",
+       "views": 999968,
+       "age": "11mo ago",
+       "handle": "@DailyFuelUp",
+       "channel": "DailyFuelUp",
+       "subs": null,
+       "length": "12:28"
+      }
+     ],
+     "verdict": "Contested",
+     "why": "F1 history is alive for small channels, as single stories: “The Most FEARED Car In F1 History” 373K from a 3K channel, “USF1: The Greatest Scam in Formula 1 History” 206K. The whole-history slot belongs to big channels (“The 2025 F1 Season in 21 Minutes”, 1.6M).",
+     "proofId": "J6r0-AjVU5A",
+     "numbers": {
+      "videos": 19,
+      "over50K": 6,
+      "over100K": 5,
+      "over1M": 0,
+      "channelsOver50K": 6,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 5,
+      "topViews": 373154
+     },
+     "year": {
+      "videos": 17,
+      "over50K": 13,
+      "over100K": 10,
+      "over1M": 1,
+      "channelsOver50K": 11,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 5,
+      "topViews": 1558117
+     },
+     "proof": {
+      "id": "J6r0-AjVU5A",
+      "title": "The Most FEARED Car In F1 History",
+      "views": 373154,
+      "age": "3w ago",
+      "handle": "@slipstrmHQ",
+      "channel": "SLIPSTRM.",
+      "subs": 3110,
+      "length": "15:04"
+     }
+    },
+    {
+     "niche": "Football clubs",
+     "title": "The ENTIRE History of Real Madrid Explained",
+     "topic": "real madrid history",
+     "cross": [
+      {
+       "id": "44dO4Nu7mh4",
+       "title": "The Deserved Downfall of Real Madrid",
+       "views": 728963,
+       "age": "8mo ago",
+       "handle": "@GOATVFOOTBALL",
+       "channel": "GOATV",
+       "subs": null,
+       "length": "23:58"
+      },
+      {
+       "id": "S_4ZlWH3nfQ",
+       "title": "No One Will Ever Repeat What Real Madrid Did in 2022 UCL",
+       "views": 670160,
+       "age": "11mo ago",
+       "handle": "@ViBall2025",
+       "channel": "Vi Ball",
+       "subs": null,
+       "length": "13:19"
+      },
+      {
+       "id": "U5EKznYb5Ng",
+       "title": "Why did Real Madrid actually sack Xabi Alonso?",
+       "views": 670110,
+       "age": "8mo ago",
+       "handle": "@Tifo",
+       "channel": "Tifo Football by The Athletic",
+       "subs": null,
+       "length": "7:28"
+      },
+      {
+       "id": "ItJ8QbNprnI",
+       "title": "Why Real Madrid ALWAYS win in Europe | Full Documentary | BBC Sport",
+       "views": 547688,
+       "age": "7mo ago",
+       "handle": "",
+       "channel": "BBC Sport and 2 more",
+       "subs": null,
+       "length": "27:45"
+      }
+     ],
+     "verdict": "Crowded",
+     "why": "Real Madrid gets views every week, mostly match footage and news from large channels. A cartoon history would compete with the footage the fans come for.",
+     "proofId": "44dO4Nu7mh4",
+     "numbers": {
+      "videos": 26,
+      "over50K": 11,
+      "over100K": 11,
+      "over1M": 2,
+      "channelsOver50K": 11,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 2,
+      "topViews": 15759818
+     },
+     "year": {
+      "videos": 26,
+      "over50K": 22,
+      "over100K": 19,
+      "over1M": 10,
+      "channelsOver50K": 19,
+      "channelsWith2PlusOver50K": 2,
+      "smallChannelHits": 2,
+      "topViews": 15759818
+     },
+     "proof": {
+      "id": "44dO4Nu7mh4",
+      "title": "The Deserved Downfall of Real Madrid",
+      "views": 728963,
+      "age": "8mo ago",
+      "handle": "@GOATVFOOTBALL",
+      "channel": "GOATV",
+      "subs": null,
+      "length": "23:58"
+     }
+    },
+    {
+     "niche": "Car brands",
+     "title": "The ENTIRE History of Ferrari Explained",
+     "topic": "ferrari history",
+     "cross": [
+      {
+       "id": "PG5nvhvkRgY",
+       "title": "The 2025 F1 Season in 21 Minutes",
+       "views": 1580938,
+       "age": "8mo ago",
+       "handle": "@RicksF1Addiction",
+       "channel": "Rick'sF1Addiction",
+       "subs": null,
+       "length": "21:08"
+      },
+      {
+       "id": "CeLT-DLt_HQ",
+       "title": "Rebuilding The Greatest F1 Car Ever Made (with Ferrari)",
+       "views": 1572815,
+       "age": "10mo ago",
+       "handle": "@Driver61",
+       "channel": "Driver61",
+       "subs": null,
+       "length": "40:15"
+      },
+      {
+       "id": "-4tYJt06xCc",
+       "title": "F1 Drivers Explain F1",
+       "views": 1361568,
+       "age": "6mo ago",
+       "handle": "@Formula1",
+       "channel": "FORMULA 1",
+       "subs": null,
+       "length": "19:22"
+      },
+      {
+       "id": "K-o0r2zSgCE",
+       "title": "Jony Ive Shows The Real Process Behind the Ferrari Luce",
+       "views": 1039902,
+       "age": "4mo ago",
+       "handle": "@CleoAbram",
+       "channel": "Cleo Abram",
+       "subs": null,
+       "length": "45:17"
+      }
+     ],
+     "verdict": "Weak",
+     "why": "See the question above: a dozen attempts, nearly all under 1,000 views. This month’s Ferrari views go to a 1.7M presenter channel and to race news.",
+     "proofId": "XxawPla0XUw",
+     "numbers": {
+      "videos": 21,
+      "over50K": 3,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 3,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 528549
+     },
+     "year": {
+      "videos": 21,
+      "over50K": 10,
+      "over100K": 8,
+      "over1M": 2,
+      "channelsOver50K": 10,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 1603594
+     },
+     "proof": {
+      "id": "XxawPla0XUw",
+      "title": "I Bought The Ferrari That Car Enthusiasts Hate, And They're All Wrong!",
+      "views": 528549,
+      "age": "4d ago",
+      "handle": "@HooviesGarage",
+      "channel": "Hoovies Garage",
+      "subs": 1660000,
+      "length": "32:29"
+     }
+    }
+   ]
+  },
+  {
+   "key": "called-him-idiot",
+   "name": "Everyone called him an idiot",
+   "source": {
+    "id": "mFiZG43v_4A",
+    "handle": "@theMonteLago",
+    "title": "Everyone Called Him an Idiot. He Got Richer Every Time. | Timothy Dexter",
+    "name": "MonteLago",
+    "subs": 3920,
+    "videoCount": 4,
+    "median": 3618,
+    "over100K": 1,
+    "sample": 4,
+    "views": 986005,
+    "date": "2026-07-14"
+   },
+   "niche": "History (odd lives)",
+   "formula": "Everyone Called Him an [insult]. He Got [result] Every Time. | [name]",
+   "flags": [
+    "One hit on this channel"
+   ],
+   "thumbnail": "A row of stick figures in colonial coats laughing and pointing at one plain figure in a town square. No text.",
+   "structure": "One life told in order: each thing he did looked stupid, and each one paid off.",
+   "visual": "Stick figures with coloured coats in flat hand-drawn rooms and harbours on cream paper, one simple scene per beat.",
+   "visualTag": "2D cartoon (stick figures)",
+   "targets": [
+    {
+     "niche": "Company founders",
+     "title": "Everyone Called Him an Idiot. He Got Richer Every Time. | [founder]",
+     "topic": "founder story",
+     "cross": [
+      {
+       "id": "mFiZG43v_4A",
+       "title": "Everyone Called Him an Idiot. He Got Richer Every Time. | Timothy Dexter",
+       "views": 986004,
+       "age": "2mo ago",
+       "handle": "@theMonteLago",
+       "channel": "MonteLago",
+       "subs": null,
+       "length": "9:18"
+      },
+      {
+       "id": "K83QfDoQ314",
+       "title": "He Sold 10 Years of His Life for 1 Billion—After His Girlfriend Dumped Him",
+       "views": 97619,
+       "age": "1d ago",
+       "handle": "@NoviraStories",
+       "channel": "Novira Stories",
+       "subs": null,
+       "length": "1:36:16"
+      },
+      {
+       "id": "urvg1XzgyTE",
+       "title": "Poor Girl Was Forced to Marry a Farmer for Her Stepsister—But He Was the World’s Richest CEO!",
+       "views": 68636,
+       "age": "1d ago",
+       "handle": "@SwanDrama",
+       "channel": "Swan Drama",
+       "subs": null,
+       "length": "1:20:11"
+      },
+      {
+       "id": "W-RkXaR0-88",
+       "title": "He stole my girlfriend… so I married his mom and became his stepdad.",
+       "views": 47261,
+       "age": "1d ago",
+       "handle": "@OrangeDrama-30",
+       "channel": "OrangeDrama",
+       "subs": null,
+       "length": "2:13:34"
+      }
+     ],
+     "verdict": "Open",
+     "why": "Founder stories from channels under 100K did well this month: “Why The Bose Founder Gave the Company Away…” 406K. Nobody has reused this title on a business founder. The “everyone called…” wording is otherwise used by drama-fiction channels.",
+     "proofId": "TwvOS6MqXfQ",
+     "numbers": {
+      "videos": 10,
+      "over50K": 5,
+      "over100K": 5,
+      "over1M": 1,
+      "channelsOver50K": 5,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 4,
+      "topViews": 1748783
+     },
+     "year": {
+      "videos": 14,
+      "over50K": 8,
+      "over100K": 7,
+      "over1M": 3,
+      "channelsOver50K": 8,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 2,
+      "topViews": 9227260
+     },
+     "proof": {
+      "id": "TwvOS6MqXfQ",
+      "title": "Why The Bose Founder Gave the Company Away but Made It Impossible to Sell",
+      "views": 406445,
+      "age": "2w ago",
+      "handle": "@oldmoneyluxury",
+      "channel": "Old Money Luxury",
+      "subs": 86500,
+      "length": "37:07"
+     }
+    },
+    {
+     "niche": "Car makers",
+     "title": "Everyone Called Him an Idiot. He Got Richer Every Time. | [car founder]",
+     "topic": "lamborghini founder story",
+     "cross": [
+      {
+       "id": "UhzI1fg8rCA",
+       "title": "Druski: They're Lying To You About Overnight Success!",
+       "views": 5159627,
+       "age": "10d ago",
+       "handle": "",
+       "channel": "The Diary Of A CEO and Druski",
+       "subs": null,
+       "length": "1:48:42"
+      },
+      {
+       "id": "CN2bzWlZNjc",
+       "title": "✨Everyone Laughed He Couldn’t Have Kids—5 Genius Babies Storm CEO, DNA Reveal Shocks!",
+       "views": 2533070,
+       "age": "11mo ago",
+       "handle": "@DramaTrigger",
+       "channel": "DramaTrigger",
+       "subs": null,
+       "length": "2:07:58"
+      },
+      {
+       "id": "zh76k4d4OJ0",
+       "title": "💥Everyone Laughed at His Small Garage, Until Luxury Cars Started Lining Up for Repairs!#ai",
+       "views": 264038,
+       "age": "1mo ago",
+       "handle": "@KingRiseDrama",
+       "channel": "King Rise Drama",
+       "subs": null,
+       "length": "1:49:03"
+      },
+      {
+       "id": "BVd8cyNv8ps",
+       "title": "She Asked for a Divorce—Then Her Husband Learned She Was the Star He’d Been Chasing | Full | Eng Dub",
+       "views": 184150,
+       "age": "2d ago",
+       "handle": "@HushDramaTime",
+       "channel": "Hush Drama",
+       "subs": null,
+       "length": "2:07:22"
+      }
+     ],
+     "verdict": "Weak",
+     "why": "The Lamborghini founder story was posted at least four times this month and none passed 400 views (“How a Tractor Mechanic Built Lamborghini”, 264). It is the most copied car story there is, and the copies get nothing.",
+     "proofId": "ju2tnqUSUhE",
+     "numbers": {
+      "videos": 17,
+      "over50K": 0,
+      "over100K": 0,
+      "over1M": 0,
+      "channelsOver50K": 0,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 324
+     },
+     "year": {
+      "videos": 20,
+      "over50K": 1,
+      "over100K": 0,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 80073
+     },
+     "proof": {
+      "id": "ju2tnqUSUhE",
+      "title": "How a Tractor Mechanic Built Lamborghini | Ferruccio Lamborghini Story",
+      "views": 264,
+      "age": "4d ago",
+      "handle": "@hiddenworldmusa",
+      "channel": "Hidden World",
+      "subs": 47,
+      "length": "7:07"
+     }
+    },
+    {
+     "niche": "Inventors",
+     "title": "Everyone Called Him an Idiot. He Was Right Every Time. | [inventor]",
+     "topic": "inventor story",
+     "cross": [
+      {
+       "id": "Yqeh33m2Bn0",
+       "title": "దేశాన్ని ఊపేస్తూన్న ఈ పాటలో ఏముంది | Parvati song Hanuman Ansh | Nanduri Srinivas",
+       "views": 409893,
+       "age": "1d ago",
+       "handle": "@NanduriSrinivasSpiritualTalks",
+       "channel": "Nanduri Srinivas - Spiritual Talks",
+       "subs": null,
+       "length": "14:42"
+      },
+      {
+       "id": "E60jSZykByA",
+       "title": "Rich Girls Bully Poor Student As Usual! Unaware The One Sit There Is Her Mafia Twin Sis..Show Begin!",
+       "views": 188799,
+       "age": "3d ago",
+       "handle": "@SwanDrama",
+       "channel": "Swan Drama",
+       "subs": null,
+       "length": "2:00:19"
+      },
+      {
+       "id": "PtZSHwxPq2A",
+       "title": "Everyone calls him crazy for buying wasteland—until rare golden nanmu worth millions is found below!",
+       "views": 68823,
+       "age": "1mo ago",
+       "handle": "@lphaRise-DramaA",
+       "channel": "Alpha Rise AI",
+       "subs": null,
+       "length": "1:49:17"
+      },
+      {
+       "id": "urvg1XzgyTE",
+       "title": "Poor Girl Was Forced to Marry a Farmer for Her Stepsister—But He Was the World’s Richest CEO!",
+       "views": 68636,
+       "age": "1d ago",
+       "handle": "@SwanDrama",
+       "channel": "Swan Drama",
+       "subs": null,
+       "length": "1:20:11"
+      }
+     ],
+     "verdict": "Open",
+     "why": "Inventor stories with a sting in the title are working right now: “The Machine That Killed Its Inventor | Rudolf Diesel” 474K on a 12K channel in 12 days. This title has not been used for an inventor.",
+     "proofId": "ge1nQviq-7g",
+     "numbers": {
+      "videos": 18,
+      "over50K": 6,
+      "over100K": 3,
+      "over1M": 0,
+      "channelsOver50K": 6,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 3,
+      "topViews": 474162
+     },
+     "year": {
+      "videos": 20,
+      "over50K": 7,
+      "over100K": 4,
+      "over1M": 1,
+      "channelsOver50K": 7,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 2,
+      "topViews": 1932233
+     },
+     "proof": {
+      "id": "ge1nQviq-7g",
+      "title": "The Machine That Killed Its Inventor | The Untold Story of Rudolf Diesel",
+      "views": 474162,
+      "age": "12d ago",
+      "handle": "@FarmingtoFactory",
+      "channel": "Farming2Factory",
+      "subs": 12500,
+      "length": "15:16"
+     }
+    }
+   ]
+  },
+  {
+   "key": "built-the-first",
+   "name": "How a [person] built the first [thing]",
+   "source": {
+    "id": "yZZqdPpvXdY",
+    "handle": "@HiddenGenius44",
+    "title": "How a Fearless Engineer Built the World's First Car",
+    "name": "Hidden Genius",
+    "subs": 16200,
+    "videoCount": 30,
+    "median": 93805,
+    "over100K": 7,
+    "sample": 15,
+    "views": 535996,
+    "date": "2026-08-14"
+   },
+   "niche": "Invention stories (vehicles, machines, food)",
+   "formula": "How a [adjective] [person] Built the World's First [thing]",
+   "structure": "One inventor's story as scenes: the idea, the doubt, the public test. About ten minutes.",
+   "visual": "Generated period scenes that look like film stills: warm workshop light, the inventor in every shot, crowds in period dress. Mostly held stills.",
+   "visualTag": "Generated cinematic stills",
+   "targets": [
+    {
+     "niche": "Supercar brands",
+     "title": "How a Tractor Maker Built the First Lamborghini",
+     "topic": "how lamborghini started",
+     "cross": [
+      {
+       "id": "smmNgsbNdFY",
+       "title": "Inside the Lamborghini Factory: How a $400,000 Car Is Hand-Built",
+       "views": 6230,
+       "age": "10mo ago",
+       "handle": "@insideluxury2",
+       "channel": "Inside Luxury",
+       "subs": null,
+       "length": "10:01"
+      },
+      {
+       "id": "a4Uh0jjtOAI",
+       "title": "Inside a Lamborghini Factory — How Supercars Are Built From Scratch",
+       "views": 1105,
+       "age": "2w ago",
+       "handle": "@UnknownBlueprint",
+       "channel": "Unknown Blueprint",
+       "subs": null,
+       "length": "12:24"
+      },
+      {
+       "id": "3QgPcFG24ok",
+       "title": "The First Lamborghini Ever Built | Lamborghini 350 GT (1964)",
+       "views": 552,
+       "age": "8mo ago",
+       "handle": "@MemeFilez",
+       "channel": "Meme Files ",
+       "subs": null,
+       "length": "10:11"
+      },
+      {
+       "id": "_2jN7bzGiNs",
+       "title": "Inside the Lamborghini Aventador S Assembly Line: Full Build in 10 Minutes",
+       "views": 468,
+       "age": "9mo ago",
+       "handle": "@AutoFactoryEN",
+       "channel": "Auto Factory",
+       "subs": null,
+       "length": "10:48"
+      }
+     ],
+     "verdict": "Weak",
+     "why": "Same finding as the Lamborghini founder story: this month’s attempts sit under 400 views. The one car-origin video that worked is “How BUGATTI’s W16 started with a LAMBORGHINI DIABLO”, 149K on an 8K channel, which is an engineering story.",
+     "proofId": "RJ29NETOToo",
+     "numbers": {
+      "videos": 21,
+      "over50K": 1,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 1,
+      "topViews": 149784
+     },
+     "year": {
+      "videos": 26,
+      "over50K": 3,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 3,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 1,
+      "topViews": 149784
+     },
+     "proof": {
+      "id": "RJ29NETOToo",
+      "title": "UNTOLD STORY of how BUGATTI's W16 started with a LAMBORGHINI DIABLO",
+      "views": 149784,
+      "age": "3w ago",
+      "handle": "@AutoTopnl",
+      "channel": "AutoTopNL",
+      "subs": 8950,
+      "length": "28:37"
+     }
+    },
+    {
+     "niche": "Helicopters",
+     "title": "How a Fearless Engineer Built the World's First Helicopter",
+     "topic": "first helicopter",
+     "cross": [
+      {
+       "id": "l-4Bk3Ni75U",
+       "title": "The Insanely Fascinating Invention of the Helicopter",
+       "views": 242721,
+       "age": "5mo ago",
+       "handle": "@FactQuickie",
+       "channel": "Fact Quickie",
+       "subs": null,
+       "length": "37:53"
+      },
+      {
+       "id": "aL2I7FtgqTU",
+       "title": "How the AH-1 Cobra Was Born - The Attack Helicopter Built in Just 8 Months",
+       "views": 53650,
+       "age": "1mo ago",
+       "handle": "@Originstories-j9c",
+       "channel": "Origin Stories",
+       "subs": null,
+       "length": "46:28"
+      },
+      {
+       "id": "lix2s30P_rU",
+       "title": "Every British Helicopter Ever Built",
+       "views": 15991,
+       "age": "6mo ago",
+       "handle": "@DesignedUsed",
+       "channel": "Designed vs Used",
+       "subs": null,
+       "length": "18:05"
+      },
+      {
+       "id": "4glFKEDcx-U",
+       "title": "Every Helicopter & Aircraft Sikorsky Made",
+       "views": 4747,
+       "age": "7mo ago",
+       "handle": "@BattlefieldScope",
+       "channel": "Battlefield Scope USA🇺🇸",
+       "subs": null,
+       "length": "14:17"
+      }
+     ],
+     "verdict": "Open",
+     "why": "“The Insanely Fascinating Invention of the Helicopter” reached 242K five months ago. Nothing on topic this month, and Hidden Genius has not made it yet. Its trains, cars and motorcycles all passed 180K.",
+     "proofId": "l-4Bk3Ni75U",
+     "numbers": {
+      "videos": 10,
+      "over50K": 2,
+      "over100K": 1,
+      "over1M": 1,
+      "channelsOver50K": 2,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 1906374
+     },
+     "year": {
+      "videos": 13,
+      "over50K": 5,
+      "over100K": 2,
+      "over1M": 1,
+      "channelsOver50K": 5,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 1906374
+     },
+     "proof": {
+      "id": "l-4Bk3Ni75U",
+      "title": "The Insanely Fascinating Invention of the Helicopter",
+      "views": 242721,
+      "age": "5mo ago",
+      "handle": "@FactQuickie",
+      "channel": "Fact Quickie",
+      "subs": null,
+      "length": "37:53"
+     }
+    },
+    {
+     "niche": "Rockets",
+     "title": "How a Fearless Engineer Built the World's First Rocket",
+     "topic": "first rocket history",
+     "cross": [
+      {
+       "id": "OUUhD-XTxhQ",
+       "title": "Saturn V: How NASA Built the Most Powerful Rocket Ever | Free Documetary History",
+       "views": 308524,
+       "age": "2mo ago",
+       "handle": "@FreeDocumentaryHistory",
+       "channel": "Free Documentary - History",
+       "subs": null,
+       "length": "52:31"
+      },
+      {
+       "id": "NaH-ARHS-TE",
+       "title": "Every NASA Rocket Explained",
+       "views": 51980,
+       "age": "7mo ago",
+       "handle": "@SupernovaYTT",
+       "channel": "Supernova",
+       "subs": null,
+       "length": "5:58"
+      },
+      {
+       "id": "ast5B9h64HE",
+       "title": "Did The Chinese Really Build The World's First Two Stage Rocket? | MythBusters",
+       "views": 37772,
+       "age": "1mo ago",
+       "handle": "@Mythbusterstvshow",
+       "channel": "MythBusters",
+       "subs": null,
+       "length": "23:30"
+      },
+      {
+       "id": "KsNYB5b15oc",
+       "title": "Spain’s First Rocket: Inside the Miura 1 by PLD Space",
+       "views": 2663,
+       "age": "11mo ago",
+       "handle": "@SergioHidalgoAero_en",
+       "channel": "Sergio Hidalgo in English",
+       "subs": null,
+       "length": "11:24"
+      }
+     ],
+     "verdict": "Weak",
+     "why": "Nothing on the first rocket passed 50K this month except launch news. One attempt, “Who Actually Built the First Rocket?”, has 142 views.",
+     "proofId": "-019d026Xro",
+     "numbers": {
+      "videos": 9,
+      "over50K": 1,
+      "over100K": 0,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 50441
+     },
+     "year": {
+      "videos": 15,
+      "over50K": 6,
+      "over100K": 5,
+      "over1M": 0,
+      "channelsOver50K": 6,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 489924
+     },
+     "proof": {
+      "id": "-019d026Xro",
+      "title": "Who Actually Built the First Rocket? (It Wasn't NASA) - Spacecraft History",
+      "views": 142,
+      "age": "3w ago",
+      "handle": "@transitlegacy",
+      "channel": "Transit Legacy",
+      "subs": 23,
+      "length": "22:18"
+     }
+    }
+   ],
+   "thumbnail": "A period scene of the first car being driven past a workshop, a round inset portrait of the inventor, and one yellow line of text: The Real Story of the First Car."
+  },
+  {
+   "key": "fooling-the-world",
+   "name": "[company]: fooling the entire world?",
+   "source": {
+    "id": "Ol7iG-4S0KU",
+    "handle": "@LowVolumeCapital",
+    "title": "BYD: The Chinese Car Company That's Fooling the Entire World?",
+    "views": 375005,
+    "age": "5 months ago",
+    "name": "Low Volume Capital",
+    "subs": 12900,
+    "videoCount": 165,
+    "median": 5598,
+    "over100K": 1,
+    "sample": 15
+   },
+   "niche": "Car business",
+   "formula": "[company]: The [country] [type] Company That's Fooling the Entire World?",
+   "flags": [
+    "One hit on this channel"
+   ],
+   "structure": "A company exposé: the claim, the numbers behind it, who pays.",
+   "visual": "Generated watercolour comic scenes with a suited executive, crowds and factories, and a yellow caption strip along the bottom. Held stills.",
+   "visualTag": "Illustrated stills with captions",
+   "targets": [
+    {
+     "niche": "Car groups",
+     "title": "Geely: The Chinese Car Company That's Buying the Entire World?",
+     "topic": "geely car brands",
+     "cross": [
+      {
+       "id": "fjmW3mGn8HU",
+       "title": "Geely EX5: Why pay double for a Porsche?",
+       "views": 761502,
+       "age": "1mo ago",
+       "handle": "@carwow",
+       "channel": "carwow",
+       "subs": null,
+       "length": "16:14"
+      },
+      {
+       "id": "pWfIp80ffK0",
+       "title": "The Chinese Company That Bought Europe's Most Iconic Car Brands One By One!",
+       "views": 520544,
+       "age": "1mo ago",
+       "handle": "@driverpm",
+       "channel": "drive&rpm",
+       "subs": null,
+       "length": "17:00"
+      },
+      {
+       "id": "C1OJEx0TYKw",
+       "title": "Why Chinese EVs Are So Cheap In The UK",
+       "views": 501844,
+       "age": "2mo ago",
+       "handle": "@CNBC",
+       "channel": "CNBC",
+       "subs": null,
+       "length": "6:07"
+      },
+      {
+       "id": "UTtw3jfnCxY",
+       "title": "China's Forbidden SUV: Better Than the Competition?",
+       "views": 289837,
+       "age": "6mo ago",
+       "handle": "@edmundscars",
+       "channel": "Edmunds Cars",
+       "subs": null,
+       "length": "15:09"
+      }
+     ],
+     "verdict": "Confirmed",
+     "why": "The source channel made it nine days ago: “Geely: The Secret Empire Buying the World’s Car Brands”, 147K. driverpm told the same story for 520K a month ago. Proven, with two channels on it.",
+     "proofId": "AN395sNtSjs",
+     "numbers": {
+      "videos": 10,
+      "over50K": 4,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 3,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 4,
+      "topViews": 147448
+     },
+     "year": {
+      "videos": 13,
+      "over50K": 5,
+      "over100K": 2,
+      "over1M": 0,
+      "channelsOver50K": 5,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 2,
+      "topViews": 153283
+     },
+     "proof": {
+      "id": "AN395sNtSjs",
+      "title": "Geely: The Secret Empire Buying the World's Car Brands",
+      "views": 147448,
+      "age": "9d ago",
+      "handle": "@LowVolumeCapital",
+      "channel": "Low Volume Capital",
+      "subs": 12900,
+      "length": "18:44"
+     }
+    },
+    {
+     "niche": "EV start-ups",
+     "title": "Lucid: The American Car Company That's Fooling the Entire World?",
+     "topic": "lucid motors collapse",
+     "cross": [
+      {
+       "id": "NMMMiwci_jY",
+       "title": "Stew's High Speed Rail News October 2026 | Brightline West CAHSR",
+       "views": 15542,
+       "age": "21h ago",
+       "handle": "@LucidStew",
+       "channel": "Lucid Stew",
+       "subs": null,
+       "length": "17:09"
+      },
+      {
+       "id": "PSyw0VTv_bQ",
+       "title": "Is this Blatant Injectable Hypixel Client any good? | Hypixel Cheating with Lucid Client!",
+       "views": 5672,
+       "age": "2w ago",
+       "handle": "@purrorcode",
+       "channel": "purrorcode",
+       "subs": null,
+       "length": "7:02"
+      },
+      {
+       "id": "g8RM-mmbz6A",
+       "title": "cheating on hypixel with the BEST injectible client | LUCID CLIENT",
+       "views": 357,
+       "age": "1mo ago",
+       "handle": "@blueiscool9711",
+       "channel": "blueiscool",
+       "subs": null,
+       "length": "3:01"
+      },
+      {
+       "id": "9TUIeHBEKZw",
+       "title": "Lucid FiveM Cheat Showcase",
+       "views": 267,
+       "age": "6mo ago",
+       "handle": "@twilightmay-nlz",
+       "channel": "Twilight",
+       "subs": null,
+       "length": "16:04"
+      }
+     ],
+     "verdict": "Weak",
+     "why": "The source channel tried it: “Lucid’s Collapse” got 30K. Nothing else on topic this month.",
+     "proofId": "ZuCK0s43Ou4",
+     "numbers": {
+      "videos": 2,
+      "over50K": 0,
+      "over100K": 0,
+      "over1M": 0,
+      "channelsOver50K": 0,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 30634
+     },
+     "year": {
+      "videos": 16,
+      "over50K": 6,
+      "over100K": 5,
+      "over1M": 0,
+      "channelsOver50K": 6,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 4,
+      "topViews": 429629
+     },
+     "proof": {
+      "id": "ZuCK0s43Ou4",
+      "title": "Lucid's Collapse: What a $24 Billion Company Got So Wrong",
+      "views": 30634,
+      "age": "10d ago",
+      "handle": "@LowVolumeCapital",
+      "channel": "Low Volume Capital",
+      "subs": 12900,
+      "length": "19:05"
+     }
+    },
+    {
+     "niche": "E-commerce",
+     "title": "Temu: The Chinese Shopping Company That's Fooling the Entire World?",
+     "topic": "temu business explained",
+     "cross": [
+      {
+       "id": "_L1Rim7-IPo",
+       "title": "Last Cheater Standing Wins $10,000",
+       "views": 22559719,
+       "age": "2w ago",
+       "handle": "@MarkRober",
+       "channel": "Mark Rober",
+       "subs": null,
+       "length": "34:23"
+      },
+      {
+       "id": "NTFcXY3SJYg",
+       "title": "I Tested Every \"Banned\" School Gadget",
+       "views": 12377340,
+       "age": "9mo ago",
+       "handle": "@hafu",
+       "channel": "Hafu Go",
+       "subs": null,
+       "length": "19:40"
+      },
+      {
+       "id": "tus_LcysuJ4",
+       "title": "I Built a TEMU Only Gym",
+       "views": 11318697,
+       "age": "10mo ago",
+       "handle": "@WillTennyson",
+       "channel": "Will Tennyson",
+       "subs": null,
+       "length": "29:17"
+      },
+      {
+       "id": "bUkvDe0x47A",
+       "title": "We Bought Temu's Craziest Product!!!",
+       "views": 7696916,
+       "age": "2mo ago",
+       "handle": "@goonzquad",
+       "channel": "goonzquad",
+       "subs": null,
+       "length": "24:08"
+      }
+     ],
+     "verdict": "Weak",
+     "why": "No business video on Temu passed 100K this month; the best is a product test at 66K. An attempt at this angle, “The Overdue Reckoning of Temu”, has 399 views.",
+     "proofId": "FPIHw96lOJ4",
+     "numbers": {
+      "videos": 20,
+      "over50K": 1,
+      "over100K": 0,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 1,
+      "topViews": 66947
+     },
+     "year": {
+      "videos": 20,
+      "over50K": 1,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 793498
+     },
+     "proof": {
+      "id": "FPIHw96lOJ4",
+      "title": "The Overdue Reckoning of Temu",
+      "views": 399,
+      "age": "5d ago",
+      "handle": "@FallenGiants-u6n",
+      "channel": "Fallen Giants",
+      "subs": 330,
+      "length": "18:42"
+     }
+    }
+   ]
+  },
+  {
+   "key": "most-dangerous",
+   "name": "Most dangerous [machines] ever built",
+   "source": {
+    "id": "hJQV-5XhMDs",
+    "handle": "@OddestMachines",
+    "title": "Robot Wars: Most Dangerous BattleBots Ever Built Explained",
+    "name": "Odd Machines",
+    "subs": 4050,
+    "videoCount": 19,
+    "median": 25664,
+    "over100K": 5,
+    "sample": 15,
+    "views": 1164371,
+    "date": "2026-09-29"
+   },
+   "niche": "Machines (combat robots, weapons, tanks)",
+   "formula": "[world]: Most Dangerous [machines] Ever Built Explained",
+   "structure": "A list of named machines, each with what made it dangerous. 25 minutes.",
+   "visual": "A white canvas with the machine's name on top, one photo with a drop shadow, a small icon in the corner.",
+   "visualTag": "Cutouts on a white canvas",
+   "targets": [
+    {
+     "niche": "Race cars",
+     "title": "Group B: Most Dangerous Rally Cars Ever Built Explained",
+     "topic": "most dangerous race cars",
+     "cross": [
+      {
+       "id": "--gfBRgeIZo",
+       "title": "Why This Genius Race Car Was Banned",
+       "views": 5963665,
+       "age": "6mo ago",
+       "handle": "@Driver61",
+       "channel": "Driver61",
+       "subs": null,
+       "length": "22:57"
+      },
+      {
+       "id": "RW9kBdbG5rM",
+       "title": "How Audi Terrorized Europe",
+       "views": 1315094,
+       "age": "6mo ago",
+       "handle": "@337speed",
+       "channel": "337 SPEED",
+       "subs": null,
+       "length": "13:16"
+      },
+      {
+       "id": "aLKr1t5kd08",
+       "title": "Every Banned Race Car Too Dangerous for the Track Explained",
+       "views": 333301,
+       "age": "5mo ago",
+       "handle": "@Rev_Explained",
+       "channel": "Rev Explained",
+       "subs": null,
+       "length": "9:55"
+      },
+      {
+       "id": "d622VilUiR8",
+       "title": "Every Banned Race Car Too Dangerous for the Track Explained",
+       "views": 4389,
+       "age": "4mo ago",
+       "handle": "@CarExplained1988",
+       "channel": "Car Explained",
+       "subs": null,
+       "length": "19:54"
+      }
+     ],
+     "verdict": "Confirmed",
+     "why": "“Every Banned Race Car Too Dangerous for the Track Explained” reached 333K five months ago, and “The Suzuki Built to Win America’s Most Dangerous Race” 379K this month. Use the banned angle. Odd Machines’ plain “Weirdest Cars” list got 4.6K.",
+     "proofId": "aLKr1t5kd08",
+     "numbers": {
+      "videos": 12,
+      "over50K": 2,
+      "over100K": 2,
+      "over1M": 0,
+      "channelsOver50K": 2,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 379381
+     },
+     "year": {
+      "videos": 17,
+      "over50K": 10,
+      "over100K": 8,
+      "over1M": 3,
+      "channelsOver50K": 9,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 0,
+      "topViews": 9467172
+     },
+     "proof": {
+      "id": "aLKr1t5kd08",
+      "title": "Every Banned Race Car Too Dangerous for the Track Explained",
+      "views": 333301,
+      "age": "5mo ago",
+      "handle": "@Rev_Explained",
+      "channel": "Rev Explained",
+      "subs": null,
+      "length": "9:55"
+     }
+    },
+    {
+     "niche": "Fighter jets",
+     "title": "Cold War: Most Dangerous Fighter Jets Ever Built Explained",
+     "topic": "most dangerous fighter jets",
+     "cross": [
+      {
+       "id": "grCjujLBnDs",
+       "title": "Top 5 Most FEARED Fighter Jets on EARTH RIGHT NOW - You Won’t BELIEVE",
+       "views": 1274987,
+       "age": "10mo ago",
+       "handle": "@JetInsight-v9b",
+       "channel": "Jet Insight",
+       "subs": null,
+       "length": "14:29"
+      },
+      {
+       "id": "5loBDHj9tRU",
+       "title": "Top 5 Jet Fighters in 2026 - Did We Get No. 1 Right? | Full Deep Dive",
+       "views": 413277,
+       "age": "10mo ago",
+       "handle": "@FutureWarTech7",
+       "channel": "Future War Tech",
+       "subs": null,
+       "length": "27:41"
+      },
+      {
+       "id": "398jNY6vWpA",
+       "title": "Was this the most evil aircraft ever built?",
+       "views": 292998,
+       "age": "4mo ago",
+       "handle": "@FoundAndExplained",
+       "channel": "Found And Explained",
+       "subs": null,
+       "length": "20:18"
+      },
+      {
+       "id": "5AW4etRlcxQ",
+       "title": "ACE COMBAT: The Complete Story & Timeline Explained (What You Need to Know!)",
+       "views": 97747,
+       "age": "2d ago",
+       "handle": "@SuggestiveGaming",
+       "channel": "Suggestive Gaming",
+       "subs": null,
+       "length": "2:01:44"
+      }
+     ],
+     "verdict": "Crowded",
+     "why": "Military channels with 100K to 500K subscribers own this and the lists are a year old (“Top 5 Most FEARED Fighter Jets”, 1.3M). One on-topic hit this month, from a 129K channel.",
+     "proofId": "grCjujLBnDs",
+     "numbers": {
+      "videos": 25,
+      "over50K": 1,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 252953
+     },
+     "year": {
+      "videos": 18,
+      "over50K": 6,
+      "over100K": 4,
+      "over1M": 1,
+      "channelsOver50K": 6,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 1274987
+     },
+     "proof": {
+      "id": "grCjujLBnDs",
+      "title": "Top 5 Most FEARED Fighter Jets on EARTH RIGHT NOW - You Won’t BELIEVE",
+      "views": 1274987,
+      "age": "10mo ago",
+      "handle": "@JetInsight-v9b",
+      "channel": "Jet Insight",
+      "subs": null,
+      "length": "14:29"
+     }
+    },
+    {
+     "niche": "Submarines",
+     "title": "Cold War: Most Dangerous Submarines Ever Built Explained",
+     "topic": "most dangerous submarines",
+     "cross": [
+      {
+       "id": "j6ttTK8x8ZA",
+       "title": "America’s Nightmare: The 47mph Monster",
+       "views": 3880873,
+       "age": "8mo ago",
+       "handle": "@MustardChannel",
+       "channel": "Mustard",
+       "subs": null,
+       "length": "13:59"
+      },
+      {
+       "id": "SvcEZRIQwFw",
+       "title": "Ohio SSGN - America’s 4 GHOST SUBMARINES Carry 616 Tomahawks",
+       "views": 77823,
+       "age": "4mo ago",
+       "handle": "@FutureWarTech7",
+       "channel": "Future War Tech",
+       "subs": null,
+       "length": "26:32"
+      },
+      {
+       "id": "BRdnJeAaHc0",
+       "title": "How Modern Submarine are Built: Inside the World’s Most Secret War Machine",
+       "views": 27487,
+       "age": "8mo ago",
+       "handle": "@Ababeel",
+       "channel": "Ababeel",
+       "subs": null,
+       "length": "19:29"
+      },
+      {
+       "id": "M23eK2fSm5I",
+       "title": "The 12 New Deadliest & Advanced US Naval Vessels",
+       "views": 6346,
+       "age": "9mo ago",
+       "handle": "@MilitaryIQ",
+       "channel": "Military IQ",
+       "subs": null,
+       "length": "20:16"
+      }
+     ],
+     "verdict": "Crowded",
+     "why": "“The Most Dangerous Submarine America Ever Built” reached 182K this month, from a 547K channel. Small channels on the same subject get under 10K.",
+     "proofId": "B9qJm3s4PDg",
+     "numbers": {
+      "videos": 13,
+      "over50K": 1,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 182233
+     },
+     "year": {
+      "videos": 27,
+      "over50K": 9,
+      "over100K": 8,
+      "over1M": 1,
+      "channelsOver50K": 9,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 1589045
+     },
+     "proof": {
+      "id": "B9qJm3s4PDg",
+      "title": "The Most Dangerous Submarine America Ever Built",
+      "views": 182233,
+      "age": "3w ago",
+      "handle": "@SandboxxApp",
+      "channel": "Sandboxx",
+      "subs": 547000,
+      "length": "7:32"
+     }
+    }
+   ]
+  },
+  {
+   "key": "tore-down",
+   "name": "Engineers tore down a [product]",
+   "source": {
+    "id": "4UsIkTTArMU",
+    "handle": "THE AMERICAN FILES",
+    "name": "The American Files",
+    "title": "American Engineers Tore Down a TOYOTA—What They Found SHOCKED Everyone",
+    "views": 218993,
+    "age": "4 days ago"
+   },
+   "niche": "Cars (teardowns)",
+   "formula": "[country] Engineers Tore Down a [product] — What They Found SHOCKED Everyone",
+   "flags": [
+    "Blowing up this month",
+    "Packaging only: AI presenter inside"
+   ],
+   "structure": "A teardown story: why they opened it, what each part showed, what it means for the home brand.",
+   "visual": "An AI presenter in the corner over stock footage, with one highlighted caption word. That is on our no-go list, so only the title and thumbnail are worth taking.",
+   "visualTag": "AI presenter over footage",
+   "targets": [
+    {
+     "niche": "Electric cars",
+     "title": "American Engineers Tore Down a BYD — What They Found SHOCKED Everyone",
+     "topic": "byd teardown",
+     "cross": [
+      {
+       "id": "HhrOnDZ7998",
+       "title": "Japanese Engineers Tore Down a Chinese Car — What They Found Inside",
+       "views": 898875,
+       "age": "2w ago",
+       "handle": "",
+       "channel": "Forever Engine and 4 more",
+       "subs": null,
+       "length": "18:19"
+      },
+      {
+       "id": "5bGnoEAsnhk",
+       "title": "Japanese Engineers Tore Down a Chinese Car in UK — What They Found Inside",
+       "views": 549426,
+       "age": "2w ago",
+       "handle": "",
+       "channel": "Peter Harrison and Frank Dawson Car",
+       "subs": null,
+       "length": "23:05"
+      },
+      {
+       "id": "szSqMEt2t2s",
+       "title": "Tesla Engineers Tore Down a BYD. What They Found Shocked Them",
+       "views": 296518,
+       "age": "2w ago",
+       "handle": "@AutoAspect-x",
+       "channel": "Auto Aspect",
+       "subs": null,
+       "length": "25:36"
+      },
+      {
+       "id": "IxZeOVnhvjg",
+       "title": "British Engineers Tore Down a BYD — What They Found Shocked Them",
+       "views": 293610,
+       "age": "12d ago",
+       "handle": "",
+       "channel": "Peter Harrison and Frank Dawson Car",
+       "subs": null,
+       "length": "21:01"
+      }
+     ],
+     "verdict": "Crowded",
+     "why": "This is blowing up right now. Four BYD teardown videos passed 100K in the last two weeks (296K, 293K, 273K, 115K), each naming a different country’s engineers. The title is proven and the BYD seat is full.",
+     "proofId": "szSqMEt2t2s",
+     "numbers": {
+      "videos": 17,
+      "over50K": 6,
+      "over100K": 4,
+      "over1M": 0,
+      "channelsOver50K": 6,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 5,
+      "topViews": 296518
+     },
+     "year": {
+      "videos": 17,
+      "over50K": 8,
+      "over100K": 7,
+      "over1M": 1,
+      "channelsOver50K": 6,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 2,
+      "topViews": 6428158
+     },
+     "proof": {
+      "id": "szSqMEt2t2s",
+      "title": "Tesla Engineers Tore Down a BYD. What They Found Shocked Them",
+      "views": 296518,
+      "age": "2w ago",
+      "handle": "@AutoAspect-x",
+      "channel": "Auto Aspect",
+      "subs": 13400,
+      "length": "25:36"
+     }
+    },
+    {
+     "niche": "Tractors and trucks",
+     "title": "American Engineers Tore Down a Chinese Truck — What They Found SHOCKED Everyone",
+     "topic": "engineers tore down",
+     "cross": [
+      {
+       "id": "HhrOnDZ7998",
+       "title": "Japanese Engineers Tore Down a Chinese Car — What They Found Inside",
+       "views": 898875,
+       "age": "2w ago",
+       "handle": "",
+       "channel": "Forever Engine and 4 more",
+       "subs": null,
+       "length": "18:19"
+      },
+      {
+       "id": "QK_KBCNUZB8",
+       "title": "Japanese Engineers Tore Down a Chinese Car — What They Found Inside SHOCKED Everyone",
+       "views": 216831,
+       "age": "11d ago",
+       "handle": "",
+       "channel": "Ray Donnelly and 3 more",
+       "subs": null,
+       "length": "36:04"
+      },
+      {
+       "id": "2_FQQBp3AT4",
+       "title": "Canadian Engineers Tore Down a Chinese Tractor — What They Found Inside",
+       "views": 181955,
+       "age": "6d ago",
+       "handle": "@RobertMacKenzieCA",
+       "channel": "Robert MacKenzie",
+       "subs": null,
+       "length": "28:53"
+      },
+      {
+       "id": "YVUDkSB7fqQ",
+       "title": "Japanese Engineers Tore Down a Chinese Car in Australia — What They Found Inside",
+       "views": 133043,
+       "age": "12d ago",
+       "handle": "",
+       "channel": "Auto Alert Australia and The Sleeper List",
+       "subs": null,
+       "length": "25:28"
+      }
+     ],
+     "verdict": "Confirmed",
+     "why": "The pattern as a whole has 15 videos over 100K this month, led by “Japanese Engineers Tore Down a Chinese Car” at 898K. It has already jumped to another machine: the Chinese tractor version reached 181K in six days.",
+     "proofId": "2_FQQBp3AT4",
+     "niche_label": "Other machines",
+     "numbers": {
+      "videos": 29,
+      "over50K": 17,
+      "over100K": 15,
+      "over1M": 0,
+      "channelsOver50K": 15,
+      "channelsWith2PlusOver50K": 2,
+      "smallChannelHits": 5,
+      "topViews": 898875
+     },
+     "year": {
+      "videos": 27,
+      "over50K": 15,
+      "over100K": 14,
+      "over1M": 0,
+      "channelsOver50K": 14,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 4,
+      "topViews": 898875
+     },
+     "proof": {
+      "id": "2_FQQBp3AT4",
+      "title": "Canadian Engineers Tore Down a Chinese Tractor — What They Found Inside",
+      "views": 181955,
+      "age": "6d ago",
+      "handle": "@RobertMacKenzieCA",
+      "channel": "Robert MacKenzie",
+      "subs": null,
+      "length": "28:53"
+     }
+    },
+    {
+     "niche": "Phones",
+     "title": "American Engineers Tore Down a Huawei — What They Found SHOCKED Everyone",
+     "topic": "huawei teardown",
+     "cross": [
+      {
+       "id": "EnWmuc-J8i8",
+       "title": "I THOUGHT IT WAS FAKE",
+       "views": 4792852,
+       "age": "3w ago",
+       "handle": "@JerryRigEverything",
+       "channel": "JerryRigEverything",
+       "subs": null,
+       "length": "13:31"
+      },
+      {
+       "id": "qGe_fq68x-Q",
+       "title": "China's GPU Competition: 96GB Huawei Atlas 300I Duo Dual-GPU Tear-Down",
+       "views": 642357,
+       "age": "11mo ago",
+       "handle": "@GamersNexus",
+       "channel": "Gamers Nexus",
+       "subs": null,
+       "length": "26:20"
+      },
+      {
+       "id": "ui1X3lcAndg",
+       "title": "This Foldable Looks Like the Future… Until You Repair It - Huawei Pura X Max Teardown",
+       "views": 110241,
+       "age": "4mo ago",
+       "handle": "@iFixitYourself",
+       "channel": "iFixit",
+       "subs": null,
+       "length": "8:02"
+      },
+      {
+       "id": "ALe7M2vvHEg",
+       "title": "[ASMR] Huawei Mate 80 Teardown Review | Full Disassembly & Analysis",
+       "views": 30454,
+       "age": "10mo ago",
+       "handle": "@directorfeng-china",
+       "channel": "DirectorFeng",
+       "subs": null,
+       "length": "18:10"
+      }
+     ],
+     "verdict": "Untested",
+     "why": "The pattern has not reached phones. This month’s Huawei views are hands-on reviews by people on camera. No engineer-teardown story exists to compare with.",
+     "proofId": "HgVpJ5GXbtQ",
+     "numbers": {
+      "videos": 15,
+      "over50K": 3,
+      "over100K": 2,
+      "over1M": 0,
+      "channelsOver50K": 3,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 2,
+      "topViews": 187951
+     },
+     "year": {
+      "videos": 19,
+      "over50K": 2,
+      "over100K": 2,
+      "over1M": 0,
+      "channelsOver50K": 2,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 642357
+     },
+     "proof": {
+      "id": "HgVpJ5GXbtQ",
+      "title": "I Used Huawei's $3,000 Tri-Fold — Mate XT 2 Hands-On",
+      "views": 187951,
+      "age": "3w ago",
+      "handle": "@MatthewMoniz",
+      "channel": "Matthew Moniz",
+      "subs": 2290,
+      "length": "7:35"
+     }
+    }
+   ]
+  },
+  {
+   "key": "most-feared",
+   "name": "The most feared [machine] in [sport] history",
+   "source": {
+    "id": "J6r0-AjVU5A",
+    "handle": "@slipstrmHQ",
+    "title": "The Most FEARED Car In F1 History",
+    "name": "SLIPSTRM.",
+    "subs": 3120,
+    "videoCount": 18,
+    "median": 34623,
+    "over100K": 5,
+    "sample": 15,
+    "views": 373166,
+    "date": "2026-09-07"
+   },
+   "niche": "Formula 1",
+   "formula": "The Most FEARED [machine] In [sport] History",
+   "flags": [
+    "Packaging only: race footage inside"
+   ],
+   "thumbnail": "One F1 car in side view on a plain light background, a red label across the top in white capitals (BANNED FOR LIFE), a hand-drawn black arrow pointing at the part that got it banned.",
+   "structure": "One machine, one question: why rivals feared it, what made it fast, how it was stopped.",
+   "visual": "Archive broadcast footage and podium clips with a channel watermark. Not a look for us. The thumbnail is pure cut-out and label, which we can make.",
+   "visualTag": "Archive race footage",
+   "targets": [
+    {
+     "niche": "Rally",
+     "title": "The Most FEARED Car In Rally History",
+     "topic": "group b rally",
+     "cross": [
+      {
+       "id": "aLKr1t5kd08",
+       "title": "Every Banned Race Car Too Dangerous for the Track Explained",
+       "views": 333301,
+       "age": "5mo ago",
+       "handle": "@Rev_Explained",
+       "channel": "Rev Explained",
+       "subs": null,
+       "length": "9:55"
+      },
+      {
+       "id": "pFngplP42bA",
+       "title": "The Most Dangerous Rally Stages In The World 😳",
+       "views": 95705,
+       "age": "2mo ago",
+       "handle": "@RedlineSyndicate69",
+       "channel": "Redline Syndicate",
+       "subs": null,
+       "length": "11:53"
+      },
+      {
+       "id": "9i2AeVbQlVY",
+       "title": "The Most Advanced Failure in Racing History",
+       "views": 45886,
+       "age": "3mo ago",
+       "handle": "@TheCarNerd",
+       "channel": "The Car Nerd",
+       "subs": null,
+       "length": "19:50"
+      },
+      {
+       "id": "2KJNhIRrrhg",
+       "title": "The Most Dangerous Era in Racing History",
+       "views": 36269,
+       "age": "3mo ago",
+       "handle": "@TheCarNerd",
+       "channel": "The Car Nerd",
+       "subs": null,
+       "length": "32:38"
+      }
+     ],
+     "verdict": "Open",
+     "why": "Group B pulls for small channels this month: 144K on a 15K channel, 58K on a 3K channel. “Every Banned Race Car Too Dangerous for the Track Explained” reached 333K. Nobody has used this title for rally.",
+     "proofId": "JMP2LTM07gA",
+     "numbers": {
+      "videos": 18,
+      "over50K": 2,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 2,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 2,
+      "topViews": 144242
+     },
+     "year": {
+      "videos": 19,
+      "over50K": 10,
+      "over100K": 5,
+      "over1M": 0,
+      "channelsOver50K": 9,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 0,
+      "topViews": 350104
+     },
+     "proof": {
+      "id": "JMP2LTM07gA",
+      "title": "We traveled to Galicia… and found a workshop that builds Group B cars",
+      "views": 144242,
+      "age": "1mo ago",
+      "handle": "@DynastyMotorsValls",
+      "channel": "Dynasty Motors",
+      "subs": 15700,
+      "length": "48:29"
+     }
+    },
+    {
+     "niche": "Le Mans",
+     "title": "The Most FEARED Car In Le Mans History",
+     "topic": "le mans history",
+     "cross": [
+      {
+       "id": "aLKr1t5kd08",
+       "title": "Every Banned Race Car Too Dangerous for the Track Explained",
+       "views": 333301,
+       "age": "5mo ago",
+       "handle": "@Rev_Explained",
+       "channel": "Rev Explained",
+       "subs": null,
+       "length": "9:55"
+      },
+      {
+       "id": "b2ZwSNbIYzM",
+       "title": "The Deadly Ford J Car That Killed Racing Legend Ken Miles #KenMiles #FordJCar1966 #FordGT40",
+       "views": 24910,
+       "age": "9mo ago",
+       "handle": "@EnginesofTime-u6i",
+       "channel": "Engines of Time",
+       "subs": null,
+       "length": "7:23"
+      },
+      {
+       "id": "vze-ry6kVtY",
+       "title": "The Deadliest Crash In Racing History.",
+       "views": 8620,
+       "age": "4w ago",
+       "handle": "@weareRAFATV",
+       "channel": "RAFA TV",
+       "subs": null,
+       "length": "6:00"
+      },
+      {
+       "id": "x3b2AEJECYs",
+       "title": "The 1955 Le Mans Disaster: The DEADLIEST Crash in Motor Racing History | BBC Documentary",
+       "views": 8318,
+       "age": "10mo ago",
+       "handle": "@AbsoluteDocumentaries",
+       "channel": "Absolute Documentaries",
+       "subs": null,
+       "length": "58:16"
+      }
+     ],
+     "verdict": "Open",
+     "why": "“The 271-HP ‘Joke’ That Stole a Championship — Then Got a Secret Le Mans…” reached 107K in five days on a 36K channel. Single-car Le Mans stories work; this title is unused.",
+     "proofId": "3xfjbaHeH1I",
+     "numbers": {
+      "videos": 17,
+      "over50K": 2,
+      "over100K": 2,
+      "over1M": 0,
+      "channelsOver50K": 2,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 1,
+      "topViews": 226206
+     },
+     "year": {
+      "videos": 18,
+      "over50K": 9,
+      "over100K": 8,
+      "over1M": 0,
+      "channelsOver50K": 8,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 0,
+      "topViews": 915253
+     },
+     "proof": {
+      "id": "3xfjbaHeH1I",
+      "title": "The 271-HP “Joke” That Stole a Championship — Then Got a Secret Le Mans Engine",
+      "views": 107036,
+      "age": "5d ago",
+      "handle": "@rarecarstorys",
+      "channel": "Rare Car Storys",
+      "subs": 36400,
+      "length": "37:23"
+     }
+    },
+    {
+     "niche": "MotoGP",
+     "title": "The Most FEARED Bike In MotoGP History",
+     "topic": "motogp history",
+     "cross": [
+      {
+       "id": "NTufMDgtpmk",
+       "title": "The Absolute Insanity of the Isle of Man TT",
+       "views": 1572784,
+       "age": "8mo ago",
+       "handle": "@OnTheLimitYT",
+       "channel": "OnTheLimit",
+       "subs": null,
+       "length": "14:28"
+      },
+      {
+       "id": "BBvt9zSNRlI",
+       "title": "Most WTF MotoGP Moments of All Time",
+       "views": 1448467,
+       "age": "10mo ago",
+       "handle": "@OnTheLimitYT",
+       "channel": "OnTheLimit",
+       "subs": null,
+       "length": "17:48"
+      },
+      {
+       "id": "2Bty4yE2Xsk",
+       "title": "The Most Deranged Champion In Motorsports",
+       "views": 814310,
+       "age": "1mo ago",
+       "handle": "@NTMShortsF1",
+       "channel": "NTMShorts",
+       "subs": null,
+       "length": "23:32"
+      },
+      {
+       "id": "5KcDtrPT2BU",
+       "title": "The Most FEARED Motorcycle Racer Of All Time (\"KING\" Kenny Roberts)",
+       "views": 255808,
+       "age": "5mo ago",
+       "handle": "@TechMotorShow",
+       "channel": "Tech Motor Show",
+       "subs": null,
+       "length": "16:30"
+      }
+     ],
+     "verdict": "Untested",
+     "why": "One small-channel hit this month, a chart race at 136K. The story videos that work are from large channels. Too thin to call.",
+     "proofId": "410vwD9teZI",
+     "numbers": {
+      "videos": 21,
+      "over50K": 4,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 4,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 2,
+      "topViews": 136650
+     },
+     "year": {
+      "videos": 16,
+      "over50K": 7,
+      "over100K": 3,
+      "over1M": 1,
+      "channelsOver50K": 5,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 0,
+      "topViews": 1448467
+     },
+     "proof": {
+      "id": "410vwD9teZI",
+      "title": "MotoGP Riders with the Most Grand Prix Starts | 1949 - 2026",
+      "views": 136650,
+      "age": "2w ago",
+      "handle": "@100Ranking",
+      "channel": "100% Ranking",
+      "subs": 6780,
+      "length": "6:57"
+     }
+    }
+   ]
+  },
+  {
+   "key": "killed-its-inventor",
+   "name": "The machine that killed its inventor",
+   "source": {
+    "id": "ge1nQviq-7g",
+    "handle": "@FarmingtoFactory",
+    "title": "The Machine That Killed Its Inventor | The Untold Story of Rudolf Diesel",
+    "name": "Farming2Factory",
+    "subs": 12500,
+    "videoCount": 30,
+    "median": 2757,
+    "over100K": 1,
+    "sample": 15,
+    "views": 474162,
+    "date": "2026-09-22"
+   },
+   "niche": "Invention history (engines)",
+   "formula": "The Machine That Killed Its Inventor | The Untold Story of [name]",
+   "flags": [
+    "One hit on this channel"
+   ],
+   "thumbnail": "Sepia: the inventor's portrait on the left, his engine in the middle with a tag reading INVENTOR, a harbour behind, and a serif title on the right (History of Diesel Engine).",
+   "structure": "A biography with a dark hook: the invention, the fight to sell it, the inventor's death.",
+   "visual": "Generated period scenes that look like film stills: the inventor's face in close-up, crowds, ship corridors, warm lamps. The same look as Hidden Genius.",
+   "visualTag": "Generated cinematic stills",
+   "targets": [
+    {
+     "niche": "Aviation",
+     "title": "The Machine That Killed Its Inventor | The Untold Story of Otto Lilienthal",
+     "topic": "otto lilienthal",
+     "cross": [
+      {
+       "id": "QbDMNVUzYRI",
+       "title": "Inventors That Were Killed By Their Own Inventions",
+       "views": 1932252,
+       "age": "6mo ago",
+       "handle": "@ChatHistory",
+       "channel": "Chat History",
+       "subs": null,
+       "length": "20:43"
+      },
+      {
+       "id": "ge1nQviq-7g",
+       "title": "The Machine That Killed Its Inventor | The Untold Story of Rudolf Diesel",
+       "views": 474297,
+       "age": "12d ago",
+       "handle": "@FarmingtoFactory",
+       "channel": "Farming2Factory",
+       "subs": null,
+       "length": "15:16"
+      },
+      {
+       "id": "jcgqQuoFbKU",
+       "title": "The History of the Diesel Engine — The Machine That Killed Its Inventor",
+       "views": 356417,
+       "age": "1mo ago",
+       "handle": "@ConstructionLegends",
+       "channel": "Construction Legends",
+       "subs": null,
+       "length": "33:40"
+      },
+      {
+       "id": "9d6bNEkPFqg",
+       "title": "How Every Legendary Inventor Died",
+       "views": 295149,
+       "age": "6mo ago",
+       "handle": "@TheScribbleScholarOfficial",
+       "channel": "The Scribble Scholar",
+       "subs": null,
+       "length": "16:04"
+      }
+     ],
+     "verdict": "Untested",
+     "why": "Nobody searches for Lilienthal: this month’s videos on him have under 200 views, all in German or French. The hook would have to carry it, as it did for Diesel twice in a month (474K and 356K).",
+     "proofId": "ge1nQviq-7g",
+     "numbers": {
+      "videos": 3,
+      "over50K": 0,
+      "over100K": 0,
+      "over1M": 0,
+      "channelsOver50K": 0,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 152
+     },
+     "year": {
+      "videos": 9,
+      "over50K": 0,
+      "over100K": 0,
+      "over1M": 0,
+      "channelsOver50K": 0,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 4785
+     },
+     "proof": {
+      "id": "ge1nQviq-7g",
+      "title": "The Machine That Killed Its Inventor | The Untold Story of Rudolf Diesel",
+      "views": 474297,
+      "age": "12d ago",
+      "handle": "@FarmingtoFactory",
+      "channel": "Farming2Factory",
+      "subs": null,
+      "length": "15:16"
+     }
+    },
+    {
+     "niche": "Rockets",
+     "title": "The Machine That Killed Its Inventor | The Untold Story of Max Valier",
+     "topic": "rocket pioneer",
+     "cross": [
+      {
+       "id": "tkKTDnPVitQ",
+       "title": "The Disturbing Pattern of Dead & Missing Scientists- WHAT IS GOING ON????",
+       "views": 1014225,
+       "age": "5mo ago",
+       "handle": "@StephanieHarlowe",
+       "channel": "Stephanie Harlowe",
+       "subs": null,
+       "length": "2:18:59"
+      },
+      {
+       "id": "ZejxEZwfgyo",
+       "title": "Mysterious Cases of Dead and Missing NASA Scientists Unveils Chilling Pattern",
+       "views": 48611,
+       "age": "5mo ago",
+       "handle": "@nypost",
+       "channel": "New York Post",
+       "subs": null,
+       "length": "3:16"
+      },
+      {
+       "id": "t2dMIjF7krY",
+       "title": "We Built the INSANE WWII Rocket Wheel of Death! (Panjandrum Explodes!) | The Re-Inventors",
+       "views": 5836,
+       "age": "1mo ago",
+       "handle": "@TheRe-Inventors",
+       "channel": "The Re-Inventors",
+       "subs": null,
+       "length": "23:07"
+      },
+      {
+       "id": "zGEt7g2T8C8",
+       "title": "7 Inventions That Killed Their Inventors!",
+       "views": 3246,
+       "age": "8d ago",
+       "handle": "@StickAndStoneHD",
+       "channel": "Stick & Stone",
+       "subs": null,
+       "length": "13:39"
+      }
+     ],
+     "verdict": "Untested",
+     "why": "The search returns nothing usable on rocket pioneers this month. The list version of the hook, “Inventors That Were Killed By Their Own Inventions”, reached 1.9M six months ago.",
+     "proofId": "QbDMNVUzYRI",
+     "numbers": {
+      "videos": 18,
+      "over50K": 1,
+      "over100K": 1,
+      "over1M": 1,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 3749502
+     },
+     "year": {
+      "videos": 16,
+      "over50K": 1,
+      "over100K": 0,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 55127
+     },
+     "proof": null
+    },
+    {
+     "niche": "Cars",
+     "title": "The Car That Ruined Its Inventor | The Untold Story of Preston Tucker",
+     "topic": "preston tucker",
+     "cross": [
+      {
+       "id": "98syxABbUPk",
+       "title": "AI Whistleblower: OpenAI Scandal, AI Cults, Neuralink & Our Last Chance to Stop the Tech Oligarchs",
+       "views": 1421676,
+       "age": "3w ago",
+       "handle": "",
+       "channel": "Tucker Carlson and Nate Soares",
+       "subs": null,
+       "length": "1:57:11"
+      },
+      {
+       "id": "LX1gHgnvgHA",
+       "title": "8 BANNED CARS THAT MANUFACTURERS WERE AFRAID TO SHOW",
+       "views": 580841,
+       "age": "5mo ago",
+       "handle": "@Tommy_CARS",
+       "channel": "Tommy CARS",
+       "subs": null,
+       "length": "29:07"
+      },
+      {
+       "id": "GMTAsRS7868",
+       "title": "10 Engines That Never Broke Down And Were Destroyed",
+       "views": 10709,
+       "age": "9mo ago",
+       "handle": "@WeirdWhy1",
+       "channel": "Weird Why",
+       "subs": null,
+       "length": "37:34"
+      },
+      {
+       "id": "5V7njjkz4nc",
+       "title": "This \"Car of the Future\" Had Only One Front Wheel — And Its Creator Was a Convicted Fraud",
+       "views": 4442,
+       "age": "13d ago",
+       "handle": "@MechanicalMyths",
+       "channel": "Mechanical Myths",
+       "subs": null,
+       "length": "16:22"
+      }
+     ],
+     "verdict": "Weak",
+     "why": "Two Preston Tucker videos this month: 87 views and 6 views. The name does not pull by itself, and the title had to change its verb to stay true.",
+     "proofId": "VVloyH_WsSw",
+     "numbers": {
+      "videos": 2,
+      "over50K": 0,
+      "over100K": 0,
+      "over1M": 0,
+      "channelsOver50K": 0,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 87
+     },
+     "year": {
+      "videos": 11,
+      "over50K": 2,
+      "over100K": 0,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 2,
+      "topViews": 76615
+     },
+     "proof": {
+      "id": "VVloyH_WsSw",
+      "title": "Preston Tucker Beat Every Fraud Charge - He Still Lost the Company",
+      "views": 87,
+      "age": "3w ago",
+      "handle": "@theempireautopsy",
+      "channel": "Empire Autopsy",
+      "subs": 9,
+      "length": "48:10"
+     }
+    }
+   ]
+  }
+ ],
+ "headline": "What works, and <b>where else</b> it can go",
+ "lede": "Eight videos that are working now, each taken apart the same way, and three merges. Plus an answer to your question about cars. Everything under <b>D</b> was checked against this month’s on-topic uploads.",
+ "question": {
+  "question": "“The entire history of X” works as a 2D cartoon in history: Animated History at 1.2M views, Unknown Frequencies at 1.5M. If we make it about cars in the same animation style, does it still hold?",
+  "verdict": "Not as it is. Keep the car story, change the angle.",
+  "points": [
+   "<b>The look is not in use there.</b> Of the 24 strongest on-topic car history and car brand videos of the last year, none is a flat cartoon timeline. Nine have a presenter on camera. One is drawn (SimplePaint, a 520K channel that brings its own audience) and one is a children’s cartoon.",
+   "<b>The crossing has been tried, and it failed.</b> A dozen small channels posted an “entire” or “complete history” of a car brand in the last year. Nearly all are under 1,000 views. The best, “Evolution of Ferrari (1947–2026)”, reached 60K. I did not look inside those attempts, so this speaks against the title more than against the cartoon look.",
+   "<b>The same audience does watch faceless videos from small channels</b>, in three other looks: a ladder on a white canvas (Kitty Explains Cars, 28K subscribers, 924K and 889K), an inventor story in generated period stills (Hidden Genius, 16K subscribers, 536K), a company exposé in illustrated stills (Low Volume Capital, 13K subscribers, 375K).",
+   "<b>What that means.</b> In this sample a car viewer clicks on a person, an accusation or a ranking. “The whole history of a brand” asks no question. A drawn car video would be the first of its kind with this audience: an open lane and an unproven one. If we draw it, tie it to an angle that already pulls."
+  ],
+  "stylesTitle": "What the 24 strongest car-history videos of the last year look like inside",
+  "styles": [
+   {
+    "style": "Presenter on camera",
+    "videos": 9,
+    "medianViews": 1009044,
+    "ours": false,
+    "no": true
+   },
+   {
+    "style": "Generated cinematic stills",
+    "videos": 2,
+    "medianViews": 730719,
+    "ours": true,
+    "no": false
+   },
+   {
+    "style": "Cutouts on a white canvas",
+    "videos": 2,
+    "medianViews": 906510,
+    "ours": true,
+    "no": false
+   },
+   {
+    "style": "Car photos and footage, narrated",
+    "videos": 2,
+    "medianViews": 602658,
+    "ours": false,
+    "no": false
+   },
+   {
+    "style": "Chart race",
+    "videos": 2,
+    "medianViews": 559953,
+    "ours": true,
+    "no": false
+   },
+   {
+    "style": "Footage and 3D documentary (big channel)",
+    "videos": 1,
+    "medianViews": 5650617,
+    "ours": false,
+    "no": false
+   },
+   {
+    "style": "Car photos with labels",
+    "videos": 1,
+    "medianViews": 2010179,
+    "ours": true,
+    "no": false
+   },
+   {
+    "style": "3D car renders",
+    "videos": 1,
+    "medianViews": 1321052,
+    "ours": false,
+    "no": false
+   },
+   {
+    "style": "Drawn (paint-explainer cartoon)",
+    "videos": 1,
+    "medianViews": 954310,
+    "ours": true,
+    "no": false
+   },
+   {
+    "style": "2D cartoon for children",
+    "videos": 1,
+    "medianViews": 787459,
+    "ours": false,
+    "no": false
+   },
+   {
+    "style": "Meme collage",
+    "videos": 1,
+    "medianViews": 731771,
+    "ours": false,
+    "no": false
+   },
+   {
+    "style": "AI morph timeline",
+    "videos": 1,
+    "medianViews": 649788,
+    "ours": true,
+    "no": false
+   },
+   {
+    "style": "Illustrated stills with captions",
+    "videos": 1,
+    "medianViews": 375005,
+    "ours": true,
+    "no": false
+   }
+  ],
+  "attemptsTitle": "“The entire history of [car brand]”: what happened to the attempts",
+  "attempts": [
+   {
+    "title": "Evolution of Ferrari (NEW) (1947-2026)",
+    "views": 60305,
+    "by": "@Flatlife",
+    "age": "11 months ago"
+   },
+   {
+    "title": "The History of Cars — The Machine That Changed the World",
+    "views": 12699,
+    "by": "@HowItStartedOffical",
+    "age": "11 days ago"
+   },
+   {
+    "title": "every ferrari model explained, i guess",
+    "views": 2817,
+    "by": "@carsexplained.123",
+    "age": "7 months ago"
+   },
+   {
+    "title": "Every Ferrari Model Explained From 298 GTO to 296 GTB",
+    "views": 1969,
+    "by": "@VehicleAtlas",
+    "age": "6 months ago"
+   },
+   {
+    "title": "Car Evolution: The Complete History of Cars",
+    "views": 666,
+    "by": "@HistoryArchivesByYRD",
+    "age": "1 month ago"
+   },
+   {
+    "title": "Lamborghini Complete History: Every Model Explained",
+    "views": 637,
+    "by": "@Auto.Graphy",
+    "age": "8 months ago"
+   },
+   {
+    "title": "The Evolution of Lamborghini (1963 - 2026) | Complete History",
+    "views": 219,
+    "by": "@FlawlessEvolve",
+    "age": "5 months ago"
+   },
+   {
+    "title": "ENTIRE History of Lamborghini Ep 4 - The 350GT & 400GT",
+    "views": 182,
+    "by": "@knowwithjoe",
+    "age": "10 months ago"
+   },
+   {
+    "title": "The Entire History of BMW in 6 Minutes",
+    "views": 138,
+    "by": "unnamed channel",
+    "age": "6 days ago"
+   },
+   {
+    "title": "The Entire History of Automobili Lamborghini",
+    "views": 122,
+    "by": "@OldLuxury",
+    "age": "13 days ago"
+   },
+   {
+    "title": "The Entire History of Cars | From Horses to Self-Driving AI",
+    "views": 74,
+    "by": "@OriginsOf_Everything",
+    "age": "5 months ago"
+   }
+  ],
+  "evidenceTitle": "What the car audience does watch from small faceless channels",
+  "evidence": [
+   {
+    "id": "yZZqdPpvXdY",
+    "title": "How a Fearless Engineer Built the World’s First Car",
+    "views": 535991,
+    "subs": 16200,
+    "by": "Hidden Genius",
+    "age": "14 Aug 2026",
+    "style": "Generated cinematic stills",
+    "note": "The strongest proof on this page. The channel’s median is 94K across its last 15 uploads and 7 of them passed 100K. Its best is the first steam train at 1.1M."
+   },
+   {
+    "id": "bKy31Sxd5mw",
+    "title": "The 7 Levels of Audi Explained In 10 Minutes",
+    "views": 924158,
+    "subs": 28400,
+    "by": "Kitty Explains Cars",
+    "age": "6 months ago",
+    "style": "Cutouts on a white canvas",
+    "note": "A ladder, not a history. It worked twice (Audi, Mercedes) and stopped: the channel’s median is now 3.8K."
+   },
+   {
+    "id": "Ol7iG-4S0KU",
+    "title": "BYD: The Chinese Car Company That’s Fooling the Entire World?",
+    "views": 375005,
+    "subs": 12900,
+    "by": "Low Volume Capital",
+    "age": "5 months ago",
+    "style": "Illustrated stills with captions",
+    "note": "An accusation in the title, a comic-like look inside. One hit: the channel’s median is 5.6K. Its Geely video reached 147K on 24 Sep."
+   },
+   {
+    "id": "pWfIp80ffK0",
+    "title": "The Chinese Company That Bought Europe’s Most Iconic Car Brands One By One!",
+    "views": 520544,
+    "subs": 27600,
+    "by": "driverpm",
+    "age": "1 month ago",
+    "style": "Car footage, narrated",
+    "note": "Advert and stock footage, so not a look for us. The angle is proven twice in a month: a company quietly buying up brands."
+   },
+   {
+    "id": "jICGW3BgjyA",
+    "title": "The Worst Car Crash Deaths From Every Major Car Brand",
+    "views": 954310,
+    "subs": 520000,
+    "by": "SimplePaint",
+    "age": "7 months ago",
+    "style": "Drawn (paint-explainer)",
+    "note": "The only drawn video in the sample. The channel is big, so it proves less than the number suggests."
+   }
+  ]
+ },
+ "merges": [
+  {
+   "key": "idiot-title-period-stills",
+   "title": "Everyone Called Him an Idiot. He Was Right Every Time. | [inventor]",
+   "niche": "Invention stories",
+   "verdict": "Open",
+   "packaging": {
+    "id": "mFiZG43v_4A",
+    "title": "Everyone Called Him an Idiot. He Got Richer Every Time. | Timothy Dexter",
+    "by": "MonteLago",
+    "views": 986005
+   },
+   "look": {
+    "id": "yZZqdPpvXdY",
+    "title": "How a Fearless Engineer Built the World’s First Car",
+    "by": "Hidden Genius",
+    "views": 535991
+   },
+   "audience": "People who watch invention stories. They gave Hidden Genius a 94K median, and the Diesel story 474K and 356K on two channels this month, all in this look.",
+   "proven": "The title (986K on a 4K channel). The look and the structure with this audience, on three channels.",
+   "unproven": "It needs a real inventor whose life fits: mocked, then proved right more than once. The source thumbnail is a cartoon crowd laughing at one man, so that layout has to be redrawn as a period scene."
+  },
+  {
+   "key": "feared-car-on-canvas",
+   "title": "The Most FEARED Car In Rally History",
+   "niche": "Motorsport history",
+   "verdict": "Untested",
+   "packaging": {
+    "id": "J6r0-AjVU5A",
+    "title": "The Most FEARED Car In F1 History",
+    "by": "SLIPSTRM",
+    "views": 373154
+   },
+   "look": {
+    "id": "hJQV-5XhMDs",
+    "title": "Robot Wars: Most Dangerous BattleBots Ever Built Explained",
+    "by": "Odd Machines",
+    "views": 1164371
+   },
+   "audience": "Motorsport-history viewers. Today they watch archive race footage (SLIPSTRM, 3K subscribers, five videos over 100K). Group B pulled 144K and 58K for small channels this month.",
+   "proven": "The title and the thumbnail: one car in side view, a red label, an arrow at the part that got it banned. The subject.",
+   "unproven": "The look. A canvas of cut-outs and labels has not been shown to this audience. Odd Machines’ own car list got 4.6K. The closest proof is Kitty Explains Cars, 900K twice, six months ago."
+  },
+  {
+   "key": "teardown-illustrated",
+   "title": "German Engineers Tore Down a Chinese Car — What They Found Inside",
+   "niche": "Car business",
+   "verdict": "Crowded",
+   "packaging": {
+    "id": "HhrOnDZ7998",
+    "title": "Japanese Engineers Tore Down a Chinese Car — What They Found Inside",
+    "by": "Forever Engine",
+    "views": 898000
+   },
+   "look": {
+    "id": "Ol7iG-4S0KU",
+    "title": "BYD: The Chinese Car Company That’s Fooling the Entire World?",
+    "by": "Low Volume Capital",
+    "views": 375005
+   },
+   "audience": "The same people on both sides: viewers following Chinese cars against Western and Japanese makers. They gave the teardown titles 15 videos over 100K this month and the illustrated BYD exposé 375K.",
+   "proven": "The title, right now. The subject. An illustrated faceless look on this subject, once.",
+   "unproven": "Whether the click survives without the engineer-presenter the copies all use. I have not checked whether the teardowns in those videos are real; ours would need a documented one. The window is short: the pattern is two to four weeks old and already on about 15 channels."
+  }
+ ]
+}

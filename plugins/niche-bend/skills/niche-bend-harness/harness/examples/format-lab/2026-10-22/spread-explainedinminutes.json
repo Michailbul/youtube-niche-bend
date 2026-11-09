@@ -1,0 +1,232 @@
+{
+ "formula": "explained in _ minutes",
+ "mustContain": [
+  "explained",
+  "minutes"
+ ],
+ "month": {
+  "videos": 22,
+  "channels": 18,
+  "over100K": 12,
+  "views": 7886196
+ },
+ "restOfYear": {
+  "videos": 20,
+  "channels": 13,
+  "over100K": 19,
+  "views": 32797236
+ },
+ "monthShare": 0.19,
+ "reading": "past its peak: the views came earlier in the year, this month is mostly copies",
+ "examples": [
+  {
+   "id": "NnY1Blo0f-g",
+   "title": "Every Black Hole That Shouldn’t Exist Explained in 14 Minutes",
+   "views": 1410095,
+   "age": "1mo ago",
+   "handle": "@BluntlyExplained",
+   "channel": "Bluntly Explained",
+   "length": "13:51"
+  },
+  {
+   "id": "B9LIlZQyJVY",
+   "title": "All 18 Street Fighter Movie Characters Explained In 16 Minutes",
+   "views": 1091477,
+   "age": "3w ago",
+   "handle": "@Looper",
+   "channel": "Looper",
+   "length": "16:26"
+  },
+  {
+   "id": "z6Aw3vlHe2Y",
+   "title": "Creepiest Deep Sea Monsters Explained in 8 Minutes",
+   "views": 1053757,
+   "age": "2w ago",
+   "handle": "@MSimplifiedx",
+   "channel": "M Simplified",
+   "length": "8:27"
+  },
+  {
+   "id": "n95ibeDtHhs",
+   "title": "Every Way Man City Cheated Explained In 9 Minutes",
+   "views": 958249,
+   "age": "3w ago",
+   "handle": "@football0larper",
+   "channel": "Football Larper",
+   "length": "8:52"
+  },
+  {
+   "id": "lKCTJp3PQX0",
+   "title": "Ancient City of Rome Explained in 25 Minutes",
+   "views": 955891,
+   "age": "11d ago",
+   "handle": "@LostInTimeVids",
+   "channel": "Lost in Time",
+   "length": "25:21"
+  },
+  {
+   "id": "zkeEwMW5eeI",
+   "title": "The Most Traumatizing Flash Games Explained In 9 Minutes (Pt. 2)",
+   "views": 535840,
+   "age": "11d ago",
+   "handle": "@TheNetExplainer",
+   "channel": "The Net Explainer",
+   "length": "9:01"
+  },
+  {
+   "id": "07wJAuQTMuc",
+   "title": "How Every Marvel Hero Got Their Powers Explained in 19 Minutes 😳",
+   "views": 437503,
+   "age": "11d ago",
+   "handle": "@spidy_rajj",
+   "channel": "Spidy Raj",
+   "length": "19:02"
+  },
+  {
+   "id": "t7zjiFULuUc",
+   "title": "Greek Mythology Explained In 15 Minutes",
+   "views": 290665,
+   "age": "5d ago",
+   "handle": "@Kelevins",
+   "channel": "Kelevin",
+   "length": "15:06"
+  },
+  {
+   "id": "QLZ6EMpFTRg",
+   "title": "Every Electric Motor Explained in 9 Minutes",
+   "views": 238512,
+   "age": "11d ago",
+   "handle": "@TechsExplained",
+   "channel": "Techs Explained",
+   "length": "9:12"
+  },
+  {
+   "id": "4TAqK0_TQ8Q",
+   "title": "Every Gen Z Childhood Trauma Explained in 8 Minutes (Pt.2)",
+   "views": 189494,
+   "age": "3w ago",
+   "handle": "@FinestExplainerr",
+   "channel": "Finest Explainer",
+   "length": "8:14"
+  },
+  {
+   "id": "sfm8V2awxZE",
+   "title": "The Parallel Most DISTURBING Moments Explained in 9 Minutes",
+   "views": 177586,
+   "age": "12d ago",
+   "handle": "@DarklyExplained",
+   "channel": "Darkly",
+   "length": "9:28"
+  },
+  {
+   "id": "Hw-otomwkMI",
+   "title": "How Speedrunners Beat Scooby-Doo in under 13 Minutes | Speedrun Explained",
+   "views": 132300,
+   "age": "5d ago",
+   "handle": "@WaifuRuns",
+   "channel": "WaifuRuns",
+   "length": "30:50"
+  },
+  {
+   "id": "hOV0PbEM-tk",
+   "title": "The Most Traumatizing Flash Animations Explained In 9 Minutes",
+   "views": 97694,
+   "age": "4d ago",
+   "handle": "@TheNetExplainer",
+   "channel": "The Net Explainer",
+   "length": "9:20"
+  },
+  {
+   "id": "hlfwOWdLmLw",
+   "title": "The MCU After Avengers: Endgame Explained In 47 Minutes",
+   "views": 92778,
+   "age": "13d ago",
+   "handle": "@Looper",
+   "channel": "Looper",
+   "length": "46:52"
+  },
+  {
+   "id": "mOfWjc3SP6A",
+   "title": "Every React Concept Explained in 12 Minutes",
+   "views": 67114,
+   "age": "8d ago",
+   "handle": "@coding2go",
+   "channel": "Coding2GO",
+   "length": "11:57"
+  }
+ ],
+ "olderExamples": [
+  {
+   "id": "zzH0tiIoBBA",
+   "title": "The Most Dangerous Computer Viruses Explained In 8 Minutes (Pt.1)",
+   "views": 5810312,
+   "age": "8mo ago",
+   "handle": "@FinestExplainerr",
+   "channel": "Finest Explainer",
+   "length": "8:34"
+  },
+  {
+   "id": "VSjX4Qm-RYg",
+   "title": "Every Drug & It's Effect Explained in 17 Minutes",
+   "views": 5416853,
+   "age": "11mo ago",
+   "handle": "@EverythingProfessor",
+   "channel": "EverythingProfessor",
+   "length": "16:52"
+  },
+  {
+   "id": "Bf5K4fpWMA4",
+   "title": "Every Free App You Actually Need Explained in 20 Minutes",
+   "views": 2379766,
+   "age": "4mo ago",
+   "handle": "",
+   "channel": "Explainer Chris and explainerguy01",
+   "length": "20:20"
+  },
+  {
+   "id": "HQ_WRDrKWX4",
+   "title": "Every RARE Tornado Shape Explained In 16 Minutes",
+   "views": 2304406,
+   "age": "7mo ago",
+   "handle": "@the.escalist",
+   "channel": "The Escalist",
+   "length": "16:04"
+  },
+  {
+   "id": "j9k2HLHC0to",
+   "title": "Every Rare Drug & Its Effects Explained in 21 Minutes",
+   "views": 2246089,
+   "age": "10mo ago",
+   "handle": "@EverythingProfessor",
+   "channel": "EverythingProfessor",
+   "length": "20:59"
+  },
+  {
+   "id": "jJv4dX-5pp8",
+   "title": "Every SHARK TYPE Explained in 9 Minutes",
+   "views": 2024236,
+   "age": "9mo ago",
+   "handle": "",
+   "channel": "Wildlife Professor and EverythingProfessor",
+   "length": "8:55"
+  },
+  {
+   "id": "LTSFVmfDI3E",
+   "title": "Sunni and Shia Explained In 8 Minutes",
+   "views": 1928845,
+   "age": "8mo ago",
+   "handle": "@BrotherAbdouOfficial",
+   "channel": "Brother Abdou",
+   "length": "8:02"
+  },
+  {
+   "id": "Nhk6lSyqJhs",
+   "title": "Every Screen Resolution Explained in 8 Minutes",
+   "views": 1878367,
+   "age": "9mo ago",
+   "handle": "@bytesizedexplainer",
+   "channel": "Byte Sized Explainer",
+   "length": "8:16"
+  }
+ ]
+}

@@ -1,0 +1,535 @@
+{
+  "version": 1,
+  "sample": true,
+  "round": "2026-10-22",
+  "generatedAt": "2026-10-22T20:54:20",
+  "note": "SAMPLE for the 3D board. Built by board/make_sample.py from SPEC.md section 4 and format-lab/2026-10-22/lab.json. Fit and saturation are hand readings; verdicts are the round-2 proposer's, not reconciled. Do not keep from this file.",
+  "points": [
+    {
+      "id": "you-wouldnt-last-f1",
+      "format": "How Long You'd Last in Every [X]",
+      "niche": "Formula 1 eras",
+      "ourTitle": "How Long You'd Last in Every Era of Formula 1",
+      "demand": 72,
+      "saturation": 18,
+      "fit": 81,
+      "freshness": 0.9,
+      "verdict": "open",
+      "confidence": 0.8,
+      "source": {
+        "id": "qrfhhZ-Wvmk",
+        "title": "How Long You'd Last in Every Prehistoric Ocean",
+        "views": 2945558,
+        "checkedAt": "2026-10-22"
+      },
+      "proof": {
+        "id": "7ROJfkaewpc",
+        "title": "Evolution of Formula 1 Cars (1950–2026)",
+        "views": 316084
+      },
+      "query": "formula 1 history",
+      "evidence": [
+        "https://youtu.be/qrfhhZ-Wvmk",
+        "https://youtu.be/7ROJfkaewpc"
+      ],
+      "notes": "9 on-topic, 4 over 100K; no F1 video uses the ladder.",
+      "round": "2026-10-22",
+      "sample": true,
+      "axisNotes": "SPEC.md section 4 example values, copied verbatim."
+    },
+    {
+      "id": "you-wouldnt-last-group-b-rally",
+      "round": "2026-10-22",
+      "sample": true,
+      "format": "How Long You'd Last in Every [X]",
+      "niche": "Group B rally",
+      "ourTitle": "How Long You'd Last in Every Group B Rally Car",
+      "demand": 41,
+      "saturation": 8,
+      "fit": 70,
+      "freshness": 0.67,
+      "verdict": "untested",
+      "confidence": 0.3,
+      "source": {
+        "id": "qrfhhZ-Wvmk",
+        "title": "How Long You'd Last in Every Prehistoric Ocean",
+        "views": 2945558,
+        "checkedAt": "2026-10-22"
+      },
+      "proof": {
+        "id": "ChwpTZmn4YQ",
+        "title": "NEVER HEARD OF THIS TIL NOW?! | The Absolute INSANITY of Group B Rally First Reaction",
+        "views": 123391
+      },
+      "query": "group b rally",
+      "numbers": {
+        "videos": 15,
+        "over50K": 2,
+        "over100K": 1,
+        "over1M": 0,
+        "channelsOver50K": 2,
+        "channelsWith2PlusOver50K": 0,
+        "smallChannelHits": 1,
+        "topViews": 123391
+      },
+      "evidence": [
+        "https://youtu.be/qrfhhZ-Wvmk",
+        "https://youtu.be/ChwpTZmn4YQ"
+      ],
+      "notes": "Thin this month: 15 uploads, one over 100K (123K, a reaction). The 133K in the crossing search is a simulator video, not the format. The topic carries old story videos but not this month.",
+      "axisNotes": "Hand-derived sample: demand from the dated query numbers; saturation from the round notes; fit is a builder estimate, not measured."
+    },
+    {
+      "id": "you-wouldnt-last-le-mans",
+      "round": "2026-10-22",
+      "sample": true,
+      "format": "How Long You'd Last in Every [X]",
+      "niche": "Le Mans",
+      "ourTitle": "How Long You'd Last in Every Decade of Le Mans",
+      "demand": 44,
+      "saturation": null,
+      "fit": 72,
+      "freshness": 0.67,
+      "verdict": "untested",
+      "confidence": 0.3,
+      "source": {
+        "id": "qrfhhZ-Wvmk",
+        "title": "How Long You'd Last in Every Prehistoric Ocean",
+        "views": 2945558,
+        "checkedAt": "2026-10-22"
+      },
+      "proof": {
+        "id": "3xfjbaHeH1I",
+        "title": "The 271-HP “Joke” That Stole a Championship — Then Got a Secret Le Mans Engine",
+        "views": 153522
+      },
+      "query": "le mans 24 hours history",
+      "numbers": {
+        "videos": 26,
+        "over50K": 2,
+        "over100K": 1,
+        "over1M": 0,
+        "channelsOver50K": 2,
+        "channelsWith2PlusOver50K": 0,
+        "smallChannelHits": 1,
+        "topViews": 153522
+      },
+      "evidence": [
+        "https://youtu.be/qrfhhZ-Wvmk",
+        "https://youtu.be/3xfjbaHeH1I"
+      ],
+      "notes": "Twenty-six uploads this month, one over 100K (153K, rarecarstorys). The search for the bent title drifts back to prehistoric videos, so there is no crossing to read. Open and unproven.",
+      "axisNotes": "Hand-derived sample: demand from the dated query numbers; saturation from the round notes; fit is a builder estimate, not measured. Saturation not read: the crossing search drifted."
+    },
+    {
+      "id": "overdue-collapse-ev-startups",
+      "round": "2026-10-22",
+      "sample": true,
+      "format": "The (Overdue) Collapse of [X]",
+      "niche": "EV startups",
+      "ourTitle": "The (Overdue) Collapse of Fisker",
+      "demand": 39,
+      "saturation": 40,
+      "fit": 60,
+      "freshness": 0.48,
+      "verdict": "weak",
+      "confidence": 0.7,
+      "source": {
+        "id": "67W-gnrCvo0",
+        "title": "The (Overdue) Collapse of Oracle's $900B Empire",
+        "views": 400587,
+        "checkedAt": "2026-10-22"
+      },
+      "proof": {
+        "id": "TIYrpSRiQPo",
+        "title": "This 100% Electric SUV RECHARGES While Driving! (Fisker Ocean)",
+        "views": 112800
+      },
+      "query": "fisker",
+      "numbers": {
+        "videos": 18,
+        "over50K": 1,
+        "over100K": 1,
+        "over1M": 0,
+        "channelsOver50K": 1,
+        "channelsWith2PlusOver50K": 0,
+        "smallChannelHits": 0,
+        "topViews": 112800
+      },
+      "evidence": [
+        "https://youtu.be/67W-gnrCvo0",
+        "https://youtu.be/TIYrpSRiQPo"
+      ],
+      "notes": "Fisker gets no pull: the best on-topic video (112K) is an EV review, and the only collapse attempt (fully charged, 102K) is ten months old. Do not put the collapse promise on a dead startup.",
+      "axisNotes": "Hand-derived sample: demand from the dated query numbers; saturation from the round notes; fit is a builder estimate, not measured."
+    },
+    {
+      "id": "overdue-collapse-car-dealerships",
+      "round": "2026-10-22",
+      "sample": true,
+      "format": "The (Overdue) Collapse of [X]",
+      "niche": "Car dealerships",
+      "ourTitle": "The (Overdue) Collapse of Car Dealerships",
+      "demand": 74,
+      "saturation": 15,
+      "fit": 75,
+      "freshness": 0.48,
+      "verdict": "open",
+      "confidence": 0.7,
+      "source": {
+        "id": "67W-gnrCvo0",
+        "title": "The (Overdue) Collapse of Oracle's $900B Empire",
+        "views": 400587,
+        "checkedAt": "2026-10-22"
+      },
+      "proof": {
+        "id": "-Xl_j8LMTmE",
+        "title": "This Is Why Nobody Want To Buy From Car Dealerships",
+        "views": 913418
+      },
+      "query": "car dealerships",
+      "numbers": {
+        "videos": 20,
+        "over50K": 7,
+        "over100K": 2,
+        "over1M": 0,
+        "channelsOver50K": 7,
+        "channelsWith2PlusOver50K": 0,
+        "smallChannelHits": 2,
+        "topViews": 913418
+      },
+      "evidence": [
+        "https://youtu.be/67W-gnrCvo0",
+        "https://youtu.be/-Xl_j8LMTmE"
+      ],
+      "notes": "Small channels are getting the views: Zac-Rios, 913K in 13 days, on why nobody wants to buy from dealers. Damon Cassidy proves the business audience will watch the car market (243K). No one has put the collapse formula on dealers.",
+      "axisNotes": "Hand-derived sample: demand from the dated query numbers; saturation from the round notes; fit is a builder estimate, not measured."
+    },
+    {
+      "id": "overdue-collapse-hypercar-market",
+      "round": "2026-10-22",
+      "sample": true,
+      "format": "The (Overdue) Collapse of [X]",
+      "niche": "Hypercar market",
+      "ourTitle": "The (Overdue) Collapse of the Hypercar Market",
+      "demand": 54,
+      "saturation": 20,
+      "fit": 65,
+      "freshness": 0.48,
+      "verdict": "weak",
+      "confidence": 0.7,
+      "source": {
+        "id": "67W-gnrCvo0",
+        "title": "The (Overdue) Collapse of Oracle's $900B Empire",
+        "views": 400587,
+        "checkedAt": "2026-10-22"
+      },
+      "proof": {
+        "id": "YMToDdY2pZQ",
+        "title": "This Is Where Billionaires Buy Supercars and Hypercars",
+        "views": 290726
+      },
+      "query": "hypercar market",
+      "numbers": {
+        "videos": 8,
+        "over50K": 1,
+        "over100K": 1,
+        "over1M": 0,
+        "channelsOver50K": 1,
+        "channelsWith2PlusOver50K": 0,
+        "smallChannelHits": 0,
+        "topViews": 290726
+      },
+      "evidence": [
+        "https://youtu.be/67W-gnrCvo0",
+        "https://youtu.be/YMToDdY2pZQ"
+      ],
+      "notes": "Eight uploads, one over 100K, and the two attempts at a car collapse in this lane did 2.4K and 2.3K. The topic is thin and the crossing has already failed.",
+      "axisNotes": "Hand-derived sample: demand from the dated query numbers; saturation from the round notes; fit is a builder estimate, not measured."
+    },
+    {
+      "id": "shouldnt-exist-engines",
+      "round": "2026-10-22",
+      "sample": true,
+      "format": "The [X] That Shouldn't Exist",
+      "niche": "Engines",
+      "ourTitle": "The Engine That Shouldn't Exist",
+      "demand": 12,
+      "saturation": 55,
+      "fit": 78,
+      "freshness": 0.53,
+      "verdict": "confirmed",
+      "confidence": 0.8,
+      "source": {
+        "id": "AA15WabSxzw",
+        "title": "History's Biggest Glitches: 8 Objects That Shouldn't Exist",
+        "views": 975131,
+        "checkedAt": "2026-10-22"
+      },
+      "proof": {
+        "id": "QtxVdC7pBQM",
+        "title": "The Ridiculous Engineering Of Jet Engines",
+        "views": 16635411
+      },
+      "query": "strange engines",
+      "numbers": {
+        "videos": 4,
+        "over50K": 0,
+        "over100K": 0,
+        "over1M": 0,
+        "channelsOver50K": 0,
+        "channelsWith2PlusOver50K": 0,
+        "smallChannelHits": 0,
+        "topViews": 21322
+      },
+      "evidence": [
+        "https://youtu.be/AA15WabSxzw",
+        "https://youtu.be/QtxVdC7pBQM"
+      ],
+      "notes": "The crossing exists: The Engine That Should NOT Exist, 256K, three months ago. The niche is cold this month (nothing over 50K), so the format is proven and the timing is the risk.",
+      "axisNotes": "Hand-derived sample: demand from the dated query numbers; saturation from the round notes; fit is a builder estimate, not measured."
+    },
+    {
+      "id": "shouldnt-exist-racetracks",
+      "round": "2026-10-22",
+      "sample": true,
+      "format": "The [X] That Shouldn't Exist",
+      "niche": "Racetracks",
+      "ourTitle": "The Racetrack That Shouldn't Exist",
+      "demand": 59,
+      "saturation": 12,
+      "fit": 70,
+      "freshness": 0.53,
+      "verdict": "open",
+      "confidence": 0.7,
+      "source": {
+        "id": "AA15WabSxzw",
+        "title": "History's Biggest Glitches: 8 Objects That Shouldn't Exist",
+        "views": 975131,
+        "checkedAt": "2026-10-22"
+      },
+      "proof": {
+        "id": "82mjA6hbOSQ",
+        "title": "We Bought 2 1,500HP Cars & Raced at America's Most Dangerous Track!",
+        "views": 420412
+      },
+      "query": "dangerous racetracks",
+      "numbers": {
+        "videos": 10,
+        "over50K": 3,
+        "over100K": 1,
+        "over1M": 0,
+        "channelsOver50K": 3,
+        "channelsWith2PlusOver50K": 0,
+        "smallChannelHits": 0,
+        "topViews": 420412
+      },
+      "evidence": [
+        "https://youtu.be/AA15WabSxzw",
+        "https://youtu.be/82mjA6hbOSQ"
+      ],
+      "notes": "Race-track danger sells (DomTracy 420K; banned race cars 353K), and nobody has applied the impossibility claim to a track. Open.",
+      "axisNotes": "Hand-derived sample: demand from the dated query numbers; saturation from the round notes; fit is a builder estimate, not measured."
+    },
+    {
+      "id": "shouldnt-exist-concept-cars",
+      "round": "2026-10-22",
+      "sample": true,
+      "format": "The [X] That Shouldn't Exist",
+      "niche": "Concept cars",
+      "ourTitle": "The Car That Shouldn't Exist",
+      "demand": 61,
+      "saturation": 70,
+      "fit": 55,
+      "freshness": 0.53,
+      "verdict": "contested",
+      "confidence": 0.5,
+      "source": {
+        "id": "AA15WabSxzw",
+        "title": "History's Biggest Glitches: 8 Objects That Shouldn't Exist",
+        "views": 975131,
+        "checkedAt": "2026-10-22"
+      },
+      "proof": {
+        "id": "EPcVjRe_SG4",
+        "title": "I Took Delivery of a CAR That Shouldn’t Exist…",
+        "views": 579640
+      },
+      "query": "concept cars",
+      "numbers": {
+        "videos": 6,
+        "over50K": 2,
+        "over100K": 2,
+        "over1M": 0,
+        "channelsOver50K": 2,
+        "channelsWith2PlusOver50K": 0,
+        "smallChannelHits": 0,
+        "topViews": 388751
+      },
+      "evidence": [
+        "https://youtu.be/AA15WabSxzw",
+        "https://youtu.be/EPcVjRe_SG4"
+      ],
+      "notes": "The claim is taken, but by presenter and vlog formats: I Took Delivery of a CAR That Shouldn’t Exist (579K). A faceless version would compete on look, not on title.",
+      "axisNotes": "Hand-derived sample: demand from the dated query numbers; saturation from the round notes; fit is a builder estimate, not measured."
+    },
+    {
+      "id": "worse-than-thought-dieselgate",
+      "round": "2026-10-22",
+      "sample": true,
+      "format": "[X] Is Worse Than You Think",
+      "niche": "Dieselgate",
+      "ourTitle": "Dieselgate Is Worse Than You Think",
+      "demand": 40,
+      "saturation": 25,
+      "fit": 70,
+      "freshness": 0.57,
+      "verdict": "weak",
+      "confidence": 0.7,
+      "source": {
+        "id": "YJnW5F_kQJ8",
+        "title": "The Last Hours of the Dinosaurs Were Worse Than We Thought",
+        "views": 930073,
+        "checkedAt": "2026-10-22"
+      },
+      "proof": {
+        "id": "gRUs4j2lODA",
+        "title": "Dieselgate scandal | Investigation into the heart of the biggest car fraud",
+        "views": 115928
+      },
+      "query": "dieselgate volkswagen",
+      "numbers": {
+        "videos": 13,
+        "over50K": 1,
+        "over100K": 1,
+        "over1M": 0,
+        "channelsOver50K": 1,
+        "channelsWith2PlusOver50K": 0,
+        "smallChannelHits": 0,
+        "topViews": 115928
+      },
+      "evidence": [
+        "https://youtu.be/YJnW5F_kQJ8",
+        "https://youtu.be/gRUs4j2lODA"
+      ],
+      "notes": "Two faceless attempts this month did 358 and 138 views while the topic itself gets 115K. The formula and the subject are both proven separately, and together they died twice.",
+      "axisNotes": "Hand-derived sample: demand from the dated query numbers; saturation from the round notes; fit is a builder estimate, not measured."
+    },
+    {
+      "id": "worse-than-thought-car-insurance",
+      "round": "2026-10-22",
+      "sample": true,
+      "format": "[X] Is Worse Than You Think",
+      "niche": "Car insurance",
+      "ourTitle": "Car Insurance Is Worse Than You Think",
+      "demand": 68,
+      "saturation": 22,
+      "fit": 68,
+      "freshness": 0.57,
+      "verdict": "open",
+      "confidence": 0.7,
+      "source": {
+        "id": "YJnW5F_kQJ8",
+        "title": "The Last Hours of the Dinosaurs Were Worse Than We Thought",
+        "views": 930073,
+        "checkedAt": "2026-10-22"
+      },
+      "proof": {
+        "id": "BqoyIeXmrsw",
+        "title": "Why are cars with only minor damage being written off? | 7.30",
+        "views": 630178
+      },
+      "query": "car insurance",
+      "numbers": {
+        "videos": 20,
+        "over50K": 3,
+        "over100K": 2,
+        "over1M": 0,
+        "channelsOver50K": 3,
+        "channelsWith2PlusOver50K": 0,
+        "smallChannelHits": 1,
+        "topViews": 630178
+      },
+      "evidence": [
+        "https://youtu.be/YJnW5F_kQJ8",
+        "https://youtu.be/BqoyIeXmrsw"
+      ],
+      "notes": "Insurance gets real views from small channels (ABC 630K, Money9 276K) and the only bent attempt did 19K. Open, and evergreen.",
+      "axisNotes": "Hand-derived sample: demand from the dated query numbers; saturation from the round notes; fit is a builder estimate, not measured."
+    },
+    {
+      "id": "worse-than-thought-used-cars",
+      "round": "2026-10-22",
+      "sample": true,
+      "format": "[X] Is Worse Than You Think",
+      "niche": "Used cars",
+      "ourTitle": "The Used Car Market Is Worse Than You Think",
+      "demand": 87,
+      "saturation": 35,
+      "fit": 72,
+      "freshness": 0.57,
+      "verdict": "open",
+      "confidence": 0.7,
+      "source": {
+        "id": "YJnW5F_kQJ8",
+        "title": "The Last Hours of the Dinosaurs Were Worse Than We Thought",
+        "views": 930073,
+        "checkedAt": "2026-10-22"
+      },
+      "proof": {
+        "id": "rZou9p30_Q0",
+        "title": "CarMax New Warning - \"People Stopped Buying Used Cars\"",
+        "views": 491814
+      },
+      "query": "used car prices",
+      "numbers": {
+        "videos": 20,
+        "over50K": 13,
+        "over100K": 11,
+        "over1M": 0,
+        "channelsOver50K": 12,
+        "channelsWith2PlusOver50K": 1,
+        "smallChannelHits": 3,
+        "topViews": 491814
+      },
+      "evidence": [
+        "https://youtu.be/YJnW5F_kQJ8",
+        "https://youtu.be/rZou9p30_Q0"
+      ],
+      "notes": "Eleven of twenty on-topic uploads passed 100K this month, from channels like Michael Bordenaro (491K). Adjacent claims work (Overpriced Used Car Epidemic 889K) and the exact title is free.",
+      "axisNotes": "Hand-derived sample: demand from the dated query numbers; saturation from the round notes; fit is a builder estimate, not measured."
+    },
+    {
+      "id": "f1-1994-worse",
+      "round": "2026-10-22",
+      "sample": true,
+      "format": "Merge",
+      "niche": "Formula 1 / hidden truth",
+      "ourTitle": "The 1994 Formula 1 Season Was Worse Than You Think",
+      "demand": null,
+      "saturation": null,
+      "fit": null,
+      "freshness": 0.6,
+      "verdict": "untested",
+      "confidence": 0.2,
+      "source": {
+        "id": "YJnW5F_kQJ8",
+        "title": "The Last Hours of the Dinosaurs Were Worse Than We Thought",
+        "views": 930073,
+        "checkedAt": "2026-10-22"
+      },
+      "proof": {
+        "id": "qrfhhZ-Wvmk",
+        "title": "How Long You'd Last in Every Prehistoric Ocean",
+        "views": 2963124
+      },
+      "query": null,
+      "evidence": [
+        "https://youtu.be/YJnW5F_kQJ8",
+        "https://youtu.be/qrfhhZ-Wvmk"
+      ],
+      "notes": "What is proven: The claim formula is established and still working: 23 of 29 videos over 100K this month, including one from a 15K-subscriber channel at 930K. The diagram look carries 2.9M in the same month. What is not: No F1 video uses either half together. The 1994 facts are the film's risk: every claim must be sourced before the script is written.",
+      "axisNotes": "Merge: no crossing query was run, so no axis is measured."
+    }
+  ]
+}

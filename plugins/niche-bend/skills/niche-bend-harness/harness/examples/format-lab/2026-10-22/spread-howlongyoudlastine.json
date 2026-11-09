@@ -1,0 +1,170 @@
+{
+ "formula": "how long you'd last in every _",
+ "mustContain": [
+  "long",
+  "you'd",
+  "last"
+ ],
+ "month": {
+  "videos": 14,
+  "channels": 14,
+  "over100K": 4,
+  "views": 3831903
+ },
+ "restOfYear": {
+  "videos": 2,
+  "channels": 2,
+  "over100K": 1,
+  "views": 170867
+ },
+ "monthShare": 0.96,
+ "reading": "new and spreading: most of what this formula ever got came in the last month",
+ "examples": [
+  {
+   "id": "qrfhhZ-Wvmk",
+   "title": "How Long You'd Last in Every Prehistoric Ocean",
+   "views": 2945558,
+   "age": "2w ago",
+   "handle": "@OfficialBeyondTheBlue",
+   "channel": "BeyondTheBlue",
+   "length": "17:37"
+  },
+  {
+   "id": "cGRsDZ0hWP8",
+   "title": "How Long You'd Last on Every Ice Age Continent",
+   "views": 377389,
+   "age": "3w ago",
+   "handle": "@FossilVideos",
+   "channel": "Fossil",
+   "length": "16:07"
+  },
+  {
+   "id": "Mm93jwF9lCs",
+   "title": "How Long You'd Last in Every Century With the iPhone Duo",
+   "views": 231551,
+   "age": "3w ago",
+   "handle": "@SantiCantt",
+   "channel": "Santi Can't",
+   "length": "15:27"
+  },
+  {
+   "id": "fbt83LPkfAo",
+   "title": "How Long You'd Last in Every FNAF Game...",
+   "views": 210642,
+   "age": "3w ago",
+   "handle": "@BreezyByte",
+   "channel": "BreezyByte",
+   "length": "11:18"
+  },
+  {
+   "id": "G3gj1vHadeg",
+   "title": "How Long You'd Last In EVERY Prehistoric Era..",
+   "views": 39103,
+   "age": "4d ago",
+   "handle": "@RAWsteek",
+   "channel": "raw steak",
+   "length": "23:43"
+  },
+  {
+   "id": "97aUa5PncJk",
+   "title": "Every Zombie Apocalypse Hideout Ranked by How Long You'd Last",
+   "views": 12395,
+   "age": "9d ago",
+   "handle": "@BrainGlitchChannel",
+   "channel": "Brain Glitch",
+   "length": "11:22"
+  },
+  {
+   "id": "zY1N_7ihi_8",
+   "title": "How Long You'd Last in Each Dinosaur's Territory?",
+   "views": 6635,
+   "age": "11d ago",
+   "handle": "@ancestralis-en",
+   "channel": "Ancestralis EN",
+   "length": "12:06"
+  },
+  {
+   "id": "j7abR5B-HmE",
+   "title": "How Long You'd Last in Every ACOTAR Court",
+   "views": 5287,
+   "age": "6d ago",
+   "handle": "@LoreofMaasverse",
+   "channel": "Lore of Maasverse",
+   "length": "30:52"
+  },
+  {
+   "id": "VFwuq3RBskg",
+   "title": "How Long You'd Last in Every Prehistoric Era",
+   "views": 2662,
+   "age": "2w ago",
+   "handle": "@WildlifeProfessor",
+   "channel": "Wildlife Professor",
+   "length": "19:04"
+  },
+  {
+   "id": "ZW_Z0th2wt0",
+   "title": "How Long You'd Last In Every Prehistoric Era",
+   "views": 602,
+   "age": "2w ago",
+   "handle": "@bunnieyexplains",
+   "channel": "Bunniey Explains",
+   "length": "11:09"
+  },
+  {
+   "id": "vDYz3v2VhJ0",
+   "title": "How Long You'd Last in EVERY Prehistoric Era (All 4.6 Billion Years)",
+   "views": 31,
+   "age": "9d ago",
+   "handle": "@OriginRelics01",
+   "channel": "Origin Relics",
+   "length": "14:52"
+  },
+  {
+   "id": "T3aHggq-x-s",
+   "title": "How Long You'd Last in Every Prehistoric Era",
+   "views": 28,
+   "age": "2w ago",
+   "handle": "@Fossil-Files",
+   "channel": "Fossil Files",
+   "length": "15:45"
+  },
+  {
+   "id": "8IGaHgwWVxU",
+   "title": "How Long You'd Last in Every Prehistoric Era (Reaction)",
+   "views": 14,
+   "age": "12h ago",
+   "handle": "@GabeGrimm",
+   "channel": "Gabe Grimm",
+   "length": "24:19"
+  },
+  {
+   "id": "VpTwy5yPIyQ",
+   "title": "How Long You'd Last in Every Prehistoric Era",
+   "views": 6,
+   "age": "10d ago",
+   "handle": "@historystory-m9r",
+   "channel": "history story",
+   "length": "16:11"
+  }
+ ],
+ "olderExamples": [
+  {
+   "id": "m8PRJc3euLg",
+   "title": "Joe Bartolozzi Reacts to How long You'd last in Every Preihstoric Era",
+   "views": 151124,
+   "age": "1mo ago",
+   "handle": "@RedIdkY",
+   "channel": "RedIdkY",
+   "length": "46:40"
+  },
+  {
+   "id": "nHzTyJGiV4U",
+   "title": "How Long You'd Last Inside Every Animal That Could Swallow You",
+   "views": 19743,
+   "age": "1mo ago",
+   "handle": "@OccamHQ",
+   "channel": "Occam",
+   "length": "8:50"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "niche-bend",
+  "version": "1.0.0",
+  "description": "Michael's niche-bending method for faceless animated YouTube channels: decide what video to make and how to package it. Four skills (method, research kit, proposals, optional harness), six research subagents, slash commands, local boards. No API keys.",
+  "author": {
+    "name": "Michael (laniameda)"
+  },
+  "keywords": ["youtube", "niche-bending", "packaging", "research", "thumbnails", "titles"]
+}

@@ -1,0 +1,23 @@
+{
+ "_note": "What the format watch sweeps each round. 'niches' are broad words per niche: each video found is tagged with that niche, which is how a formula's reach across niches is counted. 'shapes' are title formulas with a gap (_). Edit freely: add a niche Michael cares about, add a shape when a kept format uses one that is missing.",
+ "niches": {
+  "history": ["history explained", "ancient history", "war history"],
+  "science": ["science explained", "space", "physics explained"],
+  "nature": ["animals", "prehistoric", "nature documentary"],
+  "engineering": ["engineering", "how it works", "machines"],
+  "business": ["business story", "company collapse", "billionaire"],
+  "money": ["money explained", "wealth", "economy explained"],
+  "technology": ["tech explained", "ai explained", "gadgets"],
+  "military": ["weapons", "tanks", "fighter jets"],
+  "psychology": ["psychology", "philosophy", "self improvement"],
+  "sport": ["football", "formula 1", "boxing"],
+  "crime": ["true crime", "heist", "scam"],
+  "geography": ["countries explained", "geography", "maps explained"],
+  "cars": ["cars", "car history", "supercar"]
+ },
+ "shapes": [
+  "every _ explained", "explained in _ minutes", "the _ levels of _", "the entire history of _", "how _ actually works",
+  "is worse than you think", "why _ failed", "the _ that killed _", "everyone called him _", "how long you'd last in _",
+  "engineers tore down _ what they found", "the most _ in history", "what's inside a _", "the man who _", "_ that shouldn't exist"
+ ]
+}

@@ -1,0 +1,1093 @@
+{
+ "date": "2026-10-22",
+ "sources": "Format watch (yt_scout formulas, 1116 videos over 100K from 54 searches) + spread on the survivors + this month's car/engineering/F1 searches. Numbers read 22 Oct 2026.",
+ "headline": "The survival ladder just crossed six niches in three weeks. Cars have not touched it.",
+ "lede": "Round 2 of the format lab. The headline is one format, not ten: <b>How Long You'd Last in Every [X]</b> put 96% of its lifetime views inside the last month, across prehistoric oceans, ice ages, dinosaurs, iPhones, FNAF and ACOTAR. No car video uses it. Three established formats follow as backups, each with its car crossing checked.",
+ "formats": [
+  {
+   "key": "you-wouldnt-last",
+   "name": "How Long You'd Last in Every…",
+   "flags": [
+    "new: 96% of views in the last month",
+    "2D version already does 2.9M",
+    "source channel is 247K subs: outlier packaging gene only, not a model"
+   ],
+   "source": {
+    "id": "qrfhhZ-Wvmk",
+    "handle": "@OfficialBeyondTheBlue",
+    "title": "How Long You'd Last in Every Prehistoric Ocean",
+    "views": 2945558,
+    "age": "2w ago",
+    "name": "BeyondTheBlue",
+    "subs": 247000,
+    "videoCount": 98,
+    "median": 293628,
+    "over100K": 13,
+    "sample": 15,
+    "date": "2026-10-02"
+   },
+   "niche": "Nature / survival. Copied within three weeks into ice ages, dinosaurs, FNAF, an iPhone century and ACOTAR courts.",
+   "formula": "How Long You'd Last in Every [place / era / set]",
+   "thumbnail": "One creature or vehicle on a flat coloured ground, the title across the top in heavy caps with the survival time as the promise; no face, no arrow, no red circle.",
+   "structure": "A ladder of entries. Each entry: name it, place the viewer in it, count the seconds or hours you survive, move on. A running score makes the next entry inevitable.",
+   "visual": "Flat 2D diagrams on a single colour field: silhouettes, cutaway anatomy, a scale object (a bus) next to the animal. Simple shape tweening, no footage, no presenter.",
+   "visualTag": "flat 2D diagram ladder",
+   "targets": [
+    {
+     "niche": "Formula 1",
+     "title": "How Long You'd Last in Every Era of Formula 1",
+     "topic": "formula 1 history",
+     "cross": [
+      {
+       "id": "ERIjcNtISH0",
+       "title": "So You Think You Know F1 Drivers?",
+       "views": 1331028,
+       "age": "6mo ago",
+       "handle": "@Formula1",
+       "channel": "FORMULA 1",
+       "subs": null,
+       "length": "24:47"
+      },
+      {
+       "id": "yN50l85iDdo",
+       "title": "What If F1 Had No Suspension Rules?",
+       "views": 449369,
+       "age": "9mo ago",
+       "handle": "@Driver61",
+       "channel": "Driver61",
+       "subs": null,
+       "length": "18:29"
+      },
+      {
+       "id": "2SDrh0P2pGk",
+       "title": "How is this LEGAL?! Driving the Discommon SVF1 Eagle | Henry Catchpole - The Driver’s Seat",
+       "views": 380592,
+       "age": "9mo ago",
+       "handle": "@Hagerty",
+       "channel": "Hagerty",
+       "subs": null,
+       "length": "17:44"
+      },
+      {
+       "id": "rM9RdY-y75M",
+       "title": "F1 26 at Singapore with DLSS 5 looks ALMOST REAL!",
+       "views": 123138,
+       "age": "12d ago",
+       "handle": "@ProjectSimRacing",
+       "channel": "Project Sim Racing",
+       "subs": null,
+       "length": "5:29"
+      }
+     ],
+     "verdict": "Open",
+     "why": "Nine on-topic uploads this month, four over 100K, and the best (Evolution of Formula 1 Cars, 316K) comes from a small channel. No video uses the survival ladder on F1: the crossing is empty.",
+     "proofId": "7ROJfkaewpc",
+     "numbers": {
+      "videos": 9,
+      "over50K": 4,
+      "over100K": 4,
+      "over1M": 0,
+      "channelsOver50K": 4,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 465256
+     },
+     "year": {
+      "videos": 7,
+      "over50K": 6,
+      "over100K": 4,
+      "over1M": 3,
+      "channelsOver50K": 5,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 0,
+      "topViews": 5267800
+     },
+     "proof": {
+      "id": "7ROJfkaewpc",
+      "title": "Evolution of Formula 1 Cars (1950–2026)",
+      "views": 316084,
+      "age": "13d ago",
+      "handle": "@nerd_cassette",
+      "channel": "Nerd Cassette",
+      "subs": 110000,
+      "length": "4:03"
+     }
+    },
+    {
+     "niche": "Group B rally",
+     "title": "How Long You'd Last in Every Group B Rally Car",
+     "topic": "group b rally",
+     "cross": [
+      {
+       "id": "tOu1iic35DA",
+       "title": "AC Rally Greece - This is PEAK Simulation!",
+       "views": 133742,
+       "age": "3mo ago",
+       "handle": "@ProjectSimRacing",
+       "channel": "Project Sim Racing",
+       "subs": null,
+       "length": "7:06"
+      },
+      {
+       "id": "a2VHHX1vYlk",
+       "title": "Fighting a Group B Monster in the Rain on a French Stage! | AC Rally",
+       "views": 77242,
+       "age": "10mo ago",
+       "handle": "@ProjectSimRacing",
+       "channel": "Project Sim Racing",
+       "subs": null,
+       "length": "7:04"
+      },
+      {
+       "id": "fvZOXXtKoBA",
+       "title": "The Worst Group B Car? Restomodding a Majorette Citroën BX 4TC",
+       "views": 9025,
+       "age": "2mo ago",
+       "handle": "@DieCastRestos",
+       "channel": "DieCastRestos",
+       "subs": null,
+       "length": "16:54"
+      },
+      {
+       "id": "c95lj41j0cU",
+       "title": "These QUIRKY Cars NOBODY Wanted In 1986 NOW Cost More Than A FERRARI",
+       "views": 8115,
+       "age": "4mo ago",
+       "handle": "@4wheelsfuel",
+       "channel": "4Wheels&Fuel",
+       "subs": null,
+       "length": "23:15"
+      }
+     ],
+     "verdict": "Untested",
+     "why": "Thin this month: 15 uploads, one over 100K (123K, a reaction). The 133K in the crossing search is a simulator video, not the format. The topic carries old story videos but not this month.",
+     "proofId": "ChwpTZmn4YQ",
+     "numbers": {
+      "videos": 15,
+      "over50K": 2,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 2,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 1,
+      "topViews": 123391
+     },
+     "year": {
+      "videos": 22,
+      "over50K": 12,
+      "over100K": 7,
+      "over1M": 0,
+      "channelsOver50K": 10,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 1,
+      "topViews": 407108
+     },
+     "proof": {
+      "id": "ChwpTZmn4YQ",
+      "title": "NEVER HEARD OF THIS TIL NOW?! | The Absolute INSANITY of Group B Rally First Reaction",
+      "views": 123391,
+      "age": "2w ago",
+      "handle": "@CassiaCeylon",
+      "channel": "Cassia Ceylon",
+      "subs": 39400,
+      "length": "25:35"
+     }
+    },
+    {
+     "niche": "Le Mans",
+     "title": "How Long You'd Last in Every Decade of Le Mans",
+     "topic": "le mans 24 hours history",
+     "cross": [
+      {
+       "id": "nAWpLtG-kNs",
+       "title": "How Long You’d Last in Every Prehistoric Era",
+       "views": 11900573,
+       "age": "2mo ago",
+       "handle": "@FossilVideos",
+       "channel": "Fossil",
+       "subs": null,
+       "length": "16:11"
+      },
+      {
+       "id": "szoM2gwNt5Q",
+       "title": "They Didn't Like Her Look, But Then She Sang Like a Star! 🤩",
+       "views": 8707270,
+       "age": "7mo ago",
+       "handle": "@top10talent",
+       "channel": "Top 10 Talent",
+       "subs": null,
+       "length": "8:58"
+      },
+      {
+       "id": "eWu92oXtxsw",
+       "title": "The Deadliest Sea Animal From Every Single Period",
+       "views": 3040058,
+       "age": "3mo ago",
+       "handle": "@ExtinctZoo",
+       "channel": "ExtinctZoo ",
+       "subs": null,
+       "length": "41:20"
+      },
+      {
+       "id": "zW7RTQqgQB0",
+       "title": "How It Feels Like To Die In Every Prehistoric Era",
+       "views": 2765338,
+       "age": "8mo ago",
+       "handle": "@Spinosnack",
+       "channel": "Spinosnack",
+       "subs": null,
+       "length": "26:49"
+      }
+     ],
+     "verdict": "Untested",
+     "why": "Twenty-six uploads this month, one over 100K (153K, rarecarstorys). The search for the bent title drifts back to prehistoric videos, so there is no crossing to read. Open and unproven.",
+     "proofId": "3xfjbaHeH1I",
+     "numbers": {
+      "videos": 26,
+      "over50K": 2,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 2,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 1,
+      "topViews": 153522
+     },
+     "year": {
+      "videos": 25,
+      "over50K": 13,
+      "over100K": 12,
+      "over1M": 0,
+      "channelsOver50K": 11,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 0,
+      "topViews": 958638
+     },
+     "proof": {
+      "id": "3xfjbaHeH1I",
+      "title": "The 271-HP “Joke” That Stole a Championship — Then Got a Secret Le Mans Engine",
+      "views": 153522,
+      "age": "3w ago",
+      "handle": "@rarecarstorys",
+      "channel": "Rare Car Storys",
+      "subs": 39600,
+      "length": "37:23"
+     }
+    }
+   ]
+  },
+  {
+   "key": "overdue-collapse",
+   "name": "The (Overdue) Collapse of…",
+   "flags": [
+    "established, 28% of views this month",
+    "car crossing already attempted: Audi, 13K",
+    "source channel 5.5K subs; the inside is photos and footage of real people, so the gene is the title and thumbnail only"
+   ],
+   "source": {
+    "id": "67W-gnrCvo0",
+    "handle": "@InnovationUncovered",
+    "title": "The (Overdue) Collapse of Oracle's $900B Empire",
+    "views": 400587,
+    "age": "1mo ago",
+    "name": "Innovation Uncovered",
+    "subs": 5580,
+    "videoCount": 62,
+    "median": 20786,
+    "over100K": 2,
+    "sample": 15,
+    "date": "2026-09-21"
+   },
+   "niche": "Business and technology. Now on Oracle, Saudi megaprojects, dating apps, Nike, VMware, Klarna, antivirus and Audi.",
+   "formula": "The (Overdue) Collapse of [company / market]",
+   "thumbnail": "A burning or crumbling logo on a dark field, the word COLLAPSE large, a number in the corner for scale. Presenter-led inside.",
+   "structure": "One thesis, then the receipts: the number that does not add up, the people who kept buying, the moment it turns. Ends on who pays.",
+   "visual": "Event photographs, boardroom stills and archive clips of the named people, with charts cut in. No reconstruction, no drawings: the proof is the real faces.",
+   "visualTag": "archive photos + charts",
+   "targets": [
+    {
+     "niche": "EV startups",
+     "title": "The (Overdue) Collapse of Fisker",
+     "topic": "fisker",
+     "cross": [
+      {
+       "id": "08GDCqlKPKI",
+       "title": "EVERY New EV Coming In 2026 - 27 | Tesla's Real Competition",
+       "views": 315734,
+       "age": "5mo ago",
+       "handle": "@RyanShawtech",
+       "channel": "Ryan Shaw",
+       "subs": null,
+       "length": "36:48"
+      },
+      {
+       "id": "mdx6dv9hN5c",
+       "title": "Behind Closed Doors | DRAMA, THRILLER | Full Movie in English",
+       "views": 263142,
+       "age": "9d ago",
+       "handle": "@BoxofficeTVMovies",
+       "channel": "Boxoffice | TV Movies in English",
+       "subs": null,
+       "length": "1:31:10"
+      },
+      {
+       "id": "m8cJGmFeu4U",
+       "title": "【最新】王云云❤️黃宥天《大渝籌算師：我和皇子定下 AA 婚約》不搞雌競也不戀愛腦，女主專心搞籌算，連婚約都要和皇子 AA！#甜寵 #輕喜 #短劇 #全集 #cdrama",
+       "views": 158741,
+       "age": "6d ago",
+       "handle": "@xiaoshuiduanju",
+       "channel": "小水短剧",
+       "subs": null,
+       "length": "2:12:56"
+      },
+      {
+       "id": "hD0HOUCqLJo",
+       "title": "Fisker Failed. Now Owners Are Finishing The Car Themselves.",
+       "views": 102765,
+       "age": "10mo ago",
+       "handle": "@fullychargedshow",
+       "channel": "Everything Electric CARS",
+       "subs": null,
+       "length": "23:00"
+      }
+     ],
+     "verdict": "Weak",
+     "why": "Fisker gets no pull: the best on-topic video (112K) is an EV review, and the only collapse attempt (fully charged, 102K) is ten months old. Do not put the collapse promise on a dead startup.",
+     "proofId": "TIYrpSRiQPo",
+     "numbers": {
+      "videos": 18,
+      "over50K": 1,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 112800
+     },
+     "year": {
+      "videos": 17,
+      "over50K": 4,
+      "over100K": 4,
+      "over1M": 1,
+      "channelsOver50K": 4,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 1661637
+     },
+     "proof": {
+      "id": "TIYrpSRiQPo",
+      "title": "This 100% Electric SUV RECHARGES While Driving! (Fisker Ocean)",
+      "views": 112800,
+      "age": "12d ago",
+      "handle": "@Xavier_csn",
+      "channel": "Xavier",
+      "subs": 129000,
+      "length": "18:39"
+     }
+    },
+    {
+     "niche": "Car dealerships",
+     "title": "The (Overdue) Collapse of Car Dealerships",
+     "topic": "car dealerships",
+     "cross": [
+      {
+       "id": "tS_fJJxMjn4",
+       "title": "🚗 BYD : The biggest SCAM of the car industry ?",
+       "views": 9825121,
+       "age": "6mo ago",
+       "handle": "@Statrys",
+       "channel": "Statrys",
+       "subs": null,
+       "length": "15:16"
+      },
+      {
+       "id": "Xj-IdfNnV08",
+       "title": "WTF Is Happening To The Housing Market",
+       "views": 1397027,
+       "age": "1mo ago",
+       "handle": "@DamonCassidy",
+       "channel": "Damon Cassidy",
+       "subs": null,
+       "length": "23:32"
+      },
+      {
+       "id": "EOXle1B_dZs",
+       "title": "This is What “Always” Happens Before a Market Crash",
+       "views": 667805,
+       "age": "1mo ago",
+       "handle": "@TheInfographicsShow",
+       "channel": "The Infographics Show",
+       "subs": null,
+       "length": "14:56"
+      },
+      {
+       "id": "DJo10_q4J-E",
+       "title": "WTF Is Happening To The Car Market",
+       "views": 243335,
+       "age": "7d ago",
+       "handle": "@DamonCassidy",
+       "channel": "Damon Cassidy",
+       "subs": null,
+       "length": "23:33"
+      }
+     ],
+     "verdict": "Open",
+     "why": "Small channels are getting the views: Zac-Rios, 913K in 13 days, on why nobody wants to buy from dealers. Damon Cassidy proves the business audience will watch the car market (243K). No one has put the collapse formula on dealers.",
+     "proofId": "-Xl_j8LMTmE",
+     "numbers": {
+      "videos": 20,
+      "over50K": 7,
+      "over100K": 2,
+      "over1M": 0,
+      "channelsOver50K": 7,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 2,
+      "topViews": 913418
+     },
+     "year": {
+      "videos": 21,
+      "over50K": 11,
+      "over100K": 8,
+      "over1M": 2,
+      "channelsOver50K": 8,
+      "channelsWith2PlusOver50K": 2,
+      "smallChannelHits": 3,
+      "topViews": 1759556
+     },
+     "proof": {
+      "id": "-Xl_j8LMTmE",
+      "title": "This Is Why Nobody Want To Buy From Car Dealerships",
+      "views": 913418,
+      "age": "13d ago",
+      "handle": "@Zac-Rios",
+      "channel": "Zac Rios",
+      "subs": null,
+      "length": "22:36"
+     }
+    },
+    {
+     "niche": "Hypercar market",
+     "title": "The (Overdue) Collapse of the Hypercar Market",
+     "topic": "hypercar market",
+     "cross": [
+      {
+       "id": "coleTS4z8WI",
+       "title": "Porsche Ignored the Warnings. It Backfired.",
+       "views": 2436,
+       "age": "9mo ago",
+       "handle": "@Catalyst-Tech",
+       "channel": "Catalyst",
+       "subs": null,
+       "length": "8:13"
+      },
+      {
+       "id": "4_R_ii2gTiY",
+       "title": "The Jaguar Situation is Worse Than You Think",
+       "views": 2277,
+       "age": "2w ago",
+       "handle": "@TheFinancialRevolution",
+       "channel": "The Financial Revolution",
+       "subs": null,
+       "length": "12:30"
+      }
+     ],
+     "verdict": "Weak",
+     "why": "Eight uploads, one over 100K, and the two attempts at a car collapse in this lane did 2.4K and 2.3K. The topic is thin and the crossing has already failed.",
+     "proofId": "YMToDdY2pZQ",
+     "numbers": {
+      "videos": 8,
+      "over50K": 1,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 290726
+     },
+     "year": {
+      "videos": 10,
+      "over50K": 4,
+      "over100K": 3,
+      "over1M": 0,
+      "channelsOver50K": 4,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 872330
+     },
+     "proof": {
+      "id": "YMToDdY2pZQ",
+      "title": "This Is Where Billionaires Buy Supercars and Hypercars",
+      "views": 290726,
+      "age": "11d ago",
+      "handle": "",
+      "channel": "Enes Yilmazer and F1RST MOTORS",
+      "subs": null,
+      "length": "1:12:46"
+     }
+    }
+   ]
+  },
+  {
+   "key": "shouldnt-exist",
+   "name": "The [X] That Shouldn't Exist",
+   "flags": [
+    "established, 31% of views this month",
+    "13 of 22 videos over 100K this month"
+   ],
+   "source": {
+    "id": "AA15WabSxzw",
+    "handle": "@DiscoveriesUnexplained",
+    "title": "History's Biggest Glitches: 8 Objects That Shouldn't Exist",
+    "views": 975131,
+    "age": "4w ago",
+    "name": "Discoveries Unexplained",
+    "subs": 91100,
+    "videoCount": 280,
+    "median": 86270,
+    "over100K": 0,
+    "sample": 4
+   },
+   "niche": "Science, discovery, mystery. The same claim now carries deep-sea waves, creatures, tree houses and grocery stores.",
+   "formula": "The [object] That Shouldn't Exist",
+   "thumbnail": "One impossible object photographed straight on, dark surround, a single line of caps naming the contradiction. No face.",
+   "structure": "A numbered set of anomalies, each opened with the physical reason it cannot exist, then the explanation that lets it exist anyway.",
+   "visual": "Archive photographs and captions with slow zoom. Cheap, and it is where the format is weakest visually.",
+   "visualTag": "archive stills",
+   "targets": [
+    {
+     "niche": "Engines",
+     "title": "The Engine That Shouldn't Exist",
+     "topic": "strange engines",
+     "cross": [
+      {
+       "id": "QtxVdC7pBQM",
+       "title": "The Ridiculous Engineering Of Jet Engines",
+       "views": 16635411,
+       "age": "11mo ago",
+       "handle": "@veritasium",
+       "channel": "Veritasium",
+       "subs": null,
+       "length": "39:34"
+      },
+      {
+       "id": "6Xx1GXjRbMk",
+       "title": "This ROCKET ENGINE WASN'T DESIGNED BY HUMANS",
+       "views": 6756079,
+       "age": "10mo ago",
+       "handle": "@integza",
+       "channel": "Integza",
+       "subs": null,
+       "length": "11:07"
+      },
+      {
+       "id": "JPIoKeW4808",
+       "title": "The 19th-Century Submarine That Simply Shouldn’t Exist",
+       "views": 2066289,
+       "age": "2mo ago",
+       "handle": "@Deconstructed_Animations",
+       "channel": "Deconstructed",
+       "subs": null,
+       "length": "17:07"
+      },
+      {
+       "id": "By1SjhM2jjA",
+       "title": "The Engine That Should NOT Exist",
+       "views": 256683,
+       "age": "3mo ago",
+       "handle": "@MettleUK",
+       "channel": "METTLE",
+       "subs": null,
+       "length": "33:22"
+      }
+     ],
+     "verdict": "Confirmed",
+     "why": "The crossing exists: The Engine That Should NOT Exist, 256K, three months ago. The niche is cold this month (nothing over 50K), so the format is proven and the timing is the risk.",
+     "proofId": "QtxVdC7pBQM",
+     "numbers": {
+      "videos": 4,
+      "over50K": 0,
+      "over100K": 0,
+      "over1M": 0,
+      "channelsOver50K": 0,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 21322
+     },
+     "year": {
+      "videos": 6,
+      "over50K": 4,
+      "over100K": 3,
+      "over1M": 0,
+      "channelsOver50K": 4,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 3,
+      "topViews": 459820
+     },
+     "proof": {
+      "id": "QtxVdC7pBQM",
+      "title": "The Ridiculous Engineering Of Jet Engines",
+      "views": 16635411,
+      "age": "11mo ago",
+      "handle": "@veritasium",
+      "channel": "Veritasium",
+      "subs": null,
+      "length": "39:34"
+     }
+    },
+    {
+     "niche": "Racetracks",
+     "title": "The Racetrack That Shouldn't Exist",
+     "topic": "dangerous racetracks",
+     "cross": [
+      {
+       "id": "kV-86k-j9Eg",
+       "title": "Impossible Places | World's Most Dangerous Roads & Railroads Shouldn't Exist | 4K Travel Documentary",
+       "views": 1266846,
+       "age": "8mo ago",
+       "handle": "",
+       "channel": "Hider Planet and 2 more",
+       "subs": null,
+       "length": "3:08:39"
+      },
+      {
+       "id": "blvyV5-n-tc",
+       "title": "The Suzuki Built to Win America’s Most Dangerous Race",
+       "views": 446046,
+       "age": "1mo ago",
+       "handle": "@automobilistic",
+       "channel": "automobilistic",
+       "subs": null,
+       "length": "10:21"
+      },
+      {
+       "id": "aLKr1t5kd08",
+       "title": "Every Banned Race Car Too Dangerous for the Track Explained",
+       "views": 353680,
+       "age": "6mo ago",
+       "handle": "@Rev_Explained",
+       "channel": "Rev Explained",
+       "subs": null,
+       "length": "9:55"
+      },
+      {
+       "id": "BzmT6xq1udI",
+       "title": "Places On Earth Where Reality Stops Making Sense",
+       "views": 147331,
+       "age": "10mo ago",
+       "handle": "@ChillDudeExplains",
+       "channel": "Chill Dude Explains",
+       "subs": null,
+       "length": "11:41"
+      }
+     ],
+     "verdict": "Open",
+     "why": "Race-track danger sells (DomTracy 420K; banned race cars 353K), and nobody has applied the impossibility claim to a track. Open.",
+     "proofId": "82mjA6hbOSQ",
+     "numbers": {
+      "videos": 10,
+      "over50K": 3,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 3,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 420412
+     },
+     "year": {
+      "videos": 15,
+      "over50K": 7,
+      "over100K": 4,
+      "over1M": 3,
+      "channelsOver50K": 5,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 0,
+      "topViews": 8703770
+     },
+     "proof": {
+      "id": "82mjA6hbOSQ",
+      "title": "We Bought 2 1,500HP Cars & Raced at America's Most Dangerous Track!",
+      "views": 420412,
+      "age": "3w ago",
+      "handle": "@DomTracy",
+      "channel": "Dom Tracy",
+      "subs": 3150000,
+      "length": "17:35"
+     }
+    },
+    {
+     "niche": "Concept cars",
+     "title": "The Car That Shouldn't Exist",
+     "topic": "concept cars",
+     "cross": [
+      {
+       "id": "HauQtcj7UTM",
+       "title": "The Dumb Design of Modern Cars",
+       "views": 5781658,
+       "age": "11mo ago",
+       "handle": "@fern-tv",
+       "channel": "fern",
+       "subs": null,
+       "length": "25:12"
+      },
+      {
+       "id": "e5vGY4uDfZE",
+       "title": "The Deep Sea Wave That Shouldn't Exist",
+       "views": 612558,
+       "age": "9d ago",
+       "handle": "@AstrumEarth",
+       "channel": "Astrum Earth",
+       "subs": null,
+       "length": "37:03"
+      },
+      {
+       "id": "EPcVjRe_SG4",
+       "title": "I Took Delivery of a CAR That Shouldn’t Exist…",
+       "views": 579640,
+       "age": "10mo ago",
+       "handle": "@EmeliaHartford",
+       "channel": "EmeliaHartford",
+       "subs": null,
+       "length": "20:37"
+      },
+      {
+       "id": "78RNF4Wm4U8",
+       "title": "The Car Brand That Shouldn't Exist — How AITO Outsold BMW and Porsche In One Year",
+       "views": 17977,
+       "age": "1mo ago",
+       "handle": "@driverpm",
+       "channel": "drive&rpm",
+       "subs": null,
+       "length": "15:15"
+      }
+     ],
+     "verdict": "Contested",
+     "why": "The claim is taken, but by presenter and vlog formats: I Took Delivery of a CAR That Shouldn’t Exist (579K). A faceless version would compete on look, not on title.",
+     "proofId": "EPcVjRe_SG4",
+     "numbers": {
+      "videos": 6,
+      "over50K": 2,
+      "over100K": 2,
+      "over1M": 0,
+      "channelsOver50K": 2,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 388751
+     },
+     "year": {
+      "videos": 11,
+      "over50K": 5,
+      "over100K": 5,
+      "over1M": 2,
+      "channelsOver50K": 5,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 1802747
+     },
+     "proof": {
+      "id": "EPcVjRe_SG4",
+      "title": "I Took Delivery of a CAR That Shouldn’t Exist…",
+      "views": 579640,
+      "age": "10mo ago",
+      "handle": "@EmeliaHartford",
+      "channel": "EmeliaHartford",
+      "subs": null,
+      "length": "20:37"
+     }
+    }
+   ]
+  },
+  {
+   "key": "worse-than-thought",
+   "name": "[X] Is Worse Than You Think",
+   "flags": [
+    "established: 23 of 29 videos over 100K this month",
+    "owned by news and presenter channels",
+    "source channel 15K subs, median 4.5K: one-gene outlier at 207× subscribers"
+   ],
+   "source": {
+    "id": "YJnW5F_kQJ8",
+    "handle": "@primordiaorigins",
+    "title": "The Last Hours of the Dinosaurs Were Worse Than We Thought",
+    "views": 930073,
+    "age": "3w ago",
+    "name": "Primordia",
+    "subs": 15400,
+    "videoCount": 26,
+    "median": 4493,
+    "over100K": 5,
+    "sample": 15,
+    "date": "2026-09-26"
+   },
+   "niche": "Business, technology, news, nature. Ubisoft, an AI bubble, a snake invasion, AI cloning, the dinosaurs.",
+   "formula": "[Company / situation] Is Worse Than You Think",
+   "thumbnail": "A known face or logo mid-reaction, two or three words of the title, the rest of the claim withheld. Meme grammar.",
+   "structure": "A claim that contradicts what the viewer believes, then evidence stacked until the scale is undeniable, then the consequence.",
+   "visual": "Generated natural-history stills with slow parallax, one archive black-and-white photograph with a name label, no presenter. The formula survives without a face.",
+   "visualTag": "generated stills + labels",
+   "targets": [
+    {
+     "niche": "Dieselgate",
+     "title": "Dieselgate Is Worse Than You Think",
+     "topic": "dieselgate volkswagen",
+     "cross": [
+      {
+       "id": "-oFNTjsBZUc",
+       "title": "穷小伙相亲被羞辱，岂料下一秒觉醒神瞳，股市驰骋豪赚千亿，殊不知小伙凭借游戏结识金融大佬，凭借神瞳随手一点就狂赚千亿，迎娶美女千金，助小伙开启逆袭人生。",
+       "views": 253918,
+       "age": "1mo ago",
+       "handle": "@QingYun-short-drama",
+       "channel": "青云剧场short-drama",
+       "subs": null,
+       "length": "2:24:12"
+      },
+      {
+       "id": "FVoAFdJ_INg",
+       "title": "The Hidden Reason Diesels Produce Too Much Soot",
+       "views": 103526,
+       "age": "3mo ago",
+       "handle": "@AdditiveGeek",
+       "channel": "Additive Geek",
+       "subs": null,
+       "length": "12:39"
+      },
+      {
+       "id": "ntqTbAt3TZw",
+       "title": "Never Buy This 2.0 TDi 👨‍🔧 Get This Version Instead It's So Much Better.",
+       "views": 49658,
+       "age": "9mo ago",
+       "handle": "@torquecars",
+       "channel": "TorqueCars",
+       "subs": null,
+       "length": "6:22"
+      },
+      {
+       "id": "ETTlV0Dz89Q",
+       "title": "The END of Volkswagen? (The bitter truth!)",
+       "views": 35890,
+       "age": "8mo ago",
+       "handle": "@autocheckerde",
+       "channel": "AutoChecker DE",
+       "subs": null,
+       "length": "12:46"
+      }
+     ],
+     "verdict": "Weak",
+     "why": "Two faceless attempts this month did 358 and 138 views while the topic itself gets 115K. The formula and the subject are both proven separately, and together they died twice.",
+     "proofId": "gRUs4j2lODA",
+     "numbers": {
+      "videos": 13,
+      "over50K": 1,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 1,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 115928
+     },
+     "year": {
+      "videos": 16,
+      "over50K": 2,
+      "over100K": 2,
+      "over1M": 0,
+      "channelsOver50K": 2,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 843139
+     },
+     "proof": {
+      "id": "gRUs4j2lODA",
+      "title": "Dieselgate scandal | Investigation into the heart of the biggest car fraud",
+      "views": 115928,
+      "age": "3w ago",
+      "handle": "@DocumentaireSoci%C3%A9t%C3%A9",
+      "channel": "Documentaire Société",
+      "subs": 1920000,
+      "length": "54:59"
+     }
+    },
+    {
+     "niche": "Car insurance",
+     "title": "Car Insurance Is Worse Than You Think",
+     "topic": "car insurance",
+     "cross": [
+      {
+       "id": "tLIgmEibBL0",
+       "title": "We Investigated Uber Again. It’s Worse Than Last Time.",
+       "views": 1493141,
+       "age": "2mo ago",
+       "handle": "@moreperfectunion",
+       "channel": "More Perfect Union",
+       "subs": null,
+       "length": "13:42"
+      },
+      {
+       "id": "dx5tRnPlpAo",
+       "title": "Modern Cars Are Junk Now and Here’s Why",
+       "views": 495027,
+       "age": "9mo ago",
+       "handle": "@Marissa-Van",
+       "channel": "Marissa Van",
+       "subs": null,
+       "length": "32:17"
+      },
+      {
+       "id": "uWXug4XwAUc",
+       "title": "The Real Cost of Range Rover Ownership (It's Worse Than You Think)",
+       "views": 19349,
+       "age": "1mo ago",
+       "handle": "@Carisma365",
+       "channel": "Carisma",
+       "subs": null,
+       "length": "15:00"
+      },
+      {
+       "id": "D1NeuVd09X0",
+       "title": "Your Car Is Costing You WAY More Than You Think",
+       "views": 269,
+       "age": "2mo ago",
+       "handle": "@moneylogic21",
+       "channel": "Money Logic",
+       "subs": null,
+       "length": "11:49"
+      }
+     ],
+     "verdict": "Open",
+     "why": "Insurance gets real views from small channels (ABC 630K, Money9 276K) and the only bent attempt did 19K. Open, and evergreen.",
+     "proofId": "BqoyIeXmrsw",
+     "numbers": {
+      "videos": 20,
+      "over50K": 3,
+      "over100K": 2,
+      "over1M": 0,
+      "channelsOver50K": 3,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 1,
+      "topViews": 630178
+     },
+     "year": {
+      "videos": 13,
+      "over50K": 2,
+      "over100K": 1,
+      "over1M": 0,
+      "channelsOver50K": 2,
+      "channelsWith2PlusOver50K": 0,
+      "smallChannelHits": 0,
+      "topViews": 630178
+     },
+     "proof": {
+      "id": "BqoyIeXmrsw",
+      "title": "Why are cars with only minor damage being written off? | 7.30",
+      "views": 630178,
+      "age": "4w ago",
+      "handle": "@ABCNewsIndepth",
+      "channel": "ABC News In-depth",
+      "subs": 2460000,
+      "length": "7:07"
+     }
+    },
+    {
+     "niche": "Used cars",
+     "title": "The Used Car Market Is Worse Than You Think",
+     "topic": "used car prices",
+     "cross": [
+      {
+       "id": "Um4mFvfZG8g",
+       "title": "The Overpriced Used Car Epidemic",
+       "views": 889688,
+       "age": "3mo ago",
+       "handle": "@BladedAngel",
+       "channel": "Bladed Angel",
+       "subs": null,
+       "length": "22:18"
+      },
+      {
+       "id": "b6z-KxnXJt8",
+       "title": "Why Millions of Americans Are RETURNING Their New Cars in 2026 - It's Worse Than You Think",
+       "views": 711221,
+       "age": "2mo ago",
+       "handle": "@FlopGears",
+       "channel": "Flop Gear",
+       "subs": null,
+       "length": "21:43"
+      },
+      {
+       "id": "8ShbKwolOIA",
+       "title": "The 2027 Car Market Crash Has Begun - 3.2 Million Cars Unsold!",
+       "views": 508782,
+       "age": "1mo ago",
+       "handle": "@Autotrends5",
+       "channel": "Autotrends",
+       "subs": null,
+       "length": "16:31"
+      },
+      {
+       "id": "dx5tRnPlpAo",
+       "title": "Modern Cars Are Junk Now and Here’s Why",
+       "views": 495027,
+       "age": "9mo ago",
+       "handle": "@Marissa-Van",
+       "channel": "Marissa Van",
+       "subs": null,
+       "length": "32:17"
+      }
+     ],
+     "verdict": "Open",
+     "why": "Eleven of twenty on-topic uploads passed 100K this month, from channels like Michael Bordenaro (491K). Adjacent claims work (Overpriced Used Car Epidemic 889K) and the exact title is free.",
+     "proofId": "rZou9p30_Q0",
+     "numbers": {
+      "videos": 20,
+      "over50K": 13,
+      "over100K": 11,
+      "over1M": 0,
+      "channelsOver50K": 12,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 3,
+      "topViews": 491814
+     },
+     "year": {
+      "videos": 17,
+      "over50K": 12,
+      "over100K": 8,
+      "over1M": 1,
+      "channelsOver50K": 10,
+      "channelsWith2PlusOver50K": 1,
+      "smallChannelHits": 0,
+      "topViews": 1900446
+     },
+     "proof": {
+      "id": "rZou9p30_Q0",
+      "title": "CarMax New Warning - \"People Stopped Buying Used Cars\"",
+      "views": 491814,
+      "age": "3w ago",
+      "handle": "@MichaelBordenaro",
+      "channel": "Michael Bordenaro",
+      "subs": 413000,
+      "length": "23:31"
+     }
+    }
+   ]
+  }
+ ],
+ "merges": [
+  {
+   "key": "f1-1994-worse",
+   "title": "The 1994 Formula 1 Season Was Worse Than You Think",
+   "niche": "Formula 1 / hidden truth",
+   "verdict": "Untested",
+   "packaging": {
+    "id": "YJnW5F_kQJ8",
+    "title": "The Last Hours of the Dinosaurs Were Worse Than We Thought",
+    "by": "@primordiaorigins",
+    "views": 930073
+   },
+   "look": {
+    "id": "qrfhhZ-Wvmk",
+    "title": "How Long You'd Last in Every Prehistoric Ocean",
+    "by": "@OfficialBeyondTheBlue",
+    "views": 2963124
+   },
+   "audience": "F1 story viewers and explainer viewers. F1 story videos clear 300K to 900K this month from small channels (Evolution of F1 Cars 316K, Disrespectful Moments 465K), and the diagram look is the proven look of the format we are borrowing.",
+   "proven": "The claim formula is established and still working: 23 of 29 videos over 100K this month, including one from a 15K-subscriber channel at 930K. The diagram look carries 2.9M in the same month.",
+   "unproven": "No F1 video uses either half together. The 1994 facts are the film's risk: every claim must be sourced before the script is written."
+  }
+ ]
+}

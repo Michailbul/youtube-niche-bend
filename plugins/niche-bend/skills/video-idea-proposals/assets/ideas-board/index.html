@@ -1,0 +1,86 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>What to make next</title>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0A0805;--panel:#14110D;--panel2:#1D1915;--line:rgba(255,244,234,.12);--line2:rgba(255,244,234,.22);--linen:#FFF4EA;--mute:rgba(255,244,234,.7);--faint:rgba(255,244,234,.42);--coral:#F26157;--ember:#FF8C42;--teal:#79B791;--amber:#E8A838}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--linen);font:400 15px/1.5 Inter,system-ui,sans-serif;padding-bottom:110px;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1400px;margin:0 auto;padding:0 28px}
+h1,h2,h3,.ch{font-family:'Chakra Petch',sans-serif;text-transform:uppercase;letter-spacing:.02em;margin:0}
+.mono{font:500 11px 'JetBrains Mono',monospace;letter-spacing:.08em;text-transform:uppercase}
+header{padding:44px 0 26px;border-bottom:1px solid var(--line)}
+header h1{font-size:44px;line-height:1;margin-top:12px}header h1 b{color:var(--ember);font-weight:700}
+header p{max-width:860px;color:var(--mute);margin:16px 0 0;font-size:16px}
+.rule{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);margin-top:26px}
+.rule div{background:var(--panel);padding:16px 18px}.rule b{display:block;font:600 15px 'Chakra Petch';text-transform:uppercase;margin:6px 0 4px}.rule span{color:var(--mute);font-size:13.5px}
+h2{font-size:24px;margin:54px 0 6px}h2+p{color:var(--mute);margin:0 0 20px;max-width:820px}
+.idea{display:grid;grid-template-columns:330px 1fr;background:var(--panel);border:1px solid var(--line);margin-bottom:16px;cursor:pointer;transition:border-color .15s}
+.idea:hover{border-color:var(--line2)}.idea.kept{border-color:var(--teal);box-shadow:0 0 0 1px var(--teal)}
+.src{background:var(--panel2);padding:14px;border-right:1px solid var(--line)}
+.src img.t{width:100%;aspect-ratio:16/9;object-fit:cover;display:block}
+.fr{display:grid;grid-template-columns:repeat(3,1fr);gap:4px;margin-top:4px}.fr img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;opacity:.85}
+.src .st{font-size:13px;line-height:1.35;margin:10px 0 4px;color:var(--mute)}
+.body{padding:18px 22px 16px;min-width:0}
+.tags{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.tag{padding:3px 8px;border:1px solid var(--line2);color:var(--mute)}.tag.teal{color:var(--teal);border-color:var(--teal)}.tag.ember{color:var(--ember);border-color:var(--ember)}.tag.coral{color:var(--coral);border-color:var(--coral)}.tag.fill{background:var(--ember);color:var(--bg);border-color:var(--ember)}
+.ours{font:700 27px/1.12 'Chakra Petch';text-transform:none;letter-spacing:0;margin:12px 0 4px}
+.from{color:var(--faint);font-size:13px;margin-bottom:12px}.from i{font-style:normal;color:var(--mute)}
+dl{display:grid;grid-template-columns:104px 1fr;gap:7px 14px;margin:0;font-size:14px}dt{color:var(--faint);padding-top:3px}dd{margin:0;color:var(--mute)}dd.w{color:var(--linen)}
+.keep{float:right;font:600 12px 'Chakra Petch';text-transform:uppercase;letter-spacing:.08em;padding:8px 14px;border:1px solid var(--line2);color:var(--mute)}.kept .keep{background:var(--teal);color:var(--bg);border-color:var(--teal)}
+textarea{width:100%;margin-top:12px;background:rgba(255,244,234,.04);border:1px solid var(--line);color:var(--linen);font:400 13px Inter;padding:9px 11px;height:38px;resize:none;outline:none}textarea:focus{border-color:var(--ember)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:16px}
+.card{background:var(--panel);border:1px solid var(--line);padding:18px;cursor:pointer}.card.kept{border-color:var(--teal);box-shadow:0 0 0 1px var(--teal)}.card.served{opacity:.72}
+.card h3{font-size:19px}.stats{display:flex;gap:16px;margin:8px 0 10px;color:var(--mute);font-size:13px}.stats b{color:var(--linen);font-weight:600}
+.card p{margin:8px 0;font-size:13.5px;color:var(--mute)}.card p b{color:var(--faint);font:500 10.5px 'JetBrains Mono';letter-spacing:.08em;text-transform:uppercase;display:block;margin-bottom:2px}
+.vid{display:grid;grid-template-columns:150px 1fr;gap:10px;margin-top:12px;align-items:start}.vid img{width:100%;aspect-ratio:16/9;object-fit:cover}.vid .vt{font-size:13.5px;line-height:1.3}.vid .vn{color:var(--ember);margin-top:4px}
+.vid .fr{grid-column:1/3;margin-top:0}
+.re{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px}.re .card .ours{font-size:21px}
+.bar{position:fixed;left:0;right:0;bottom:0;background:rgba(10,8,5,.94);backdrop-filter:blur(10px);border-top:1px solid var(--line)}.bar .wrap{display:flex;gap:20px;align-items:center;padding-top:14px;padding-bottom:14px}
+.bar span{flex:1;color:var(--faint);font-size:13px}.bar button{font:700 14px 'Chakra Petch';text-transform:uppercase;letter-spacing:.08em;background:var(--ember);color:var(--bg);border:0;padding:13px 26px;cursor:pointer}
+@media(max-width:900px){.idea{grid-template-columns:1fr}.src{border-right:0;border-bottom:1px solid var(--line)}.rule,.re{grid-template-columns:1fr}header h1{font-size:30px}.wrap{padding:0 16px}.grid{grid-template-columns:1fr}}
+.ev{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}.ev a{width:150px;text-decoration:none;color:var(--mute);font-size:11.5px;line-height:1.25;display:block}.ev a:hover{color:var(--linen)}.ev img{width:150px;aspect-ratio:16/9;object-fit:cover;display:block;border:1px solid var(--line);margin-bottom:4px}.ev b{display:block;color:var(--ember);font:500 10.5px 'JetBrains Mono';margin-top:2px}.ev .none{color:var(--faint);font-size:12px;border:1px dashed var(--line2);padding:6px 10px}
+</style></head><body>
+<header><div class="wrap">
+<div class="mono" style="color:var(--ember)"><span id="kicker"></span> · <span id="date"></span></div>
+<h1>What we make <b>next</b></h1>
+<p>Each row is a title that already won clicks in another niche, with our car version written as close to it as the facts allow. Click a row to keep it. Facts not yet checked are in [brackets].</p>
+<div class="rule" id="findings"></div></div></div></header>
+<div class="wrap">
+<h2>Ideas</h2><p id="ideasIntro"></p>
+<div class="rule" style="margin:0 0 20px;grid-template-columns:1fr 1fr"><div><span class="mono" style="color:var(--teal)">Demand</span><b>Do people watch this topic at all</b><span>Videos on the subject, in any format, that reached 50K to 100K or more. The thumbnails under the line are those videos.</span></div><div><span class="mono" style="color:var(--coral)">Saturation</span><b>Is someone already serving it our way</b><span>Channels that already make this and get views. Many uploads with no views is a different thing: it means the plain retelling was tried and YouTube did not show it, so the packaging has to change. The thumbnails under the line are the uploads I mean.</span></div></div><div id="ideas"></div>
+<h2 id="reH">Titles for a film we already have</h2><p id="reP"></p>
+<div class="re" id="re"></div>
+<h2>Sources</h2><p>Each channel with its numbers today, what the video looks like inside (written from the three frames), and its thumbnail layout.</p>
+<div class="grid" id="sources"></div>
+</div>
+<div class="bar"><div class="wrap"><span id="msg">Saves to keeps.json next to this board.</span><button id="save">Save keeps</button></div></div>
+<script src="data.js"></script><script src="evidence.js"></script>
+<script>
+const B=window.BOARD,S={ideas:new Set(),channels:new Set(),retitles:new Set(),notes:{}};
+const $=(s,e=document)=>e.querySelector(s),esc=s=>String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+$('#date').textContent=B.date;$('#kicker').textContent=B.kicker||'Idea first';$('#ideasIntro').textContent=B.ideasIntro||'';$('#reP').textContent=B.retitleIntro||'';if(!(B.retitles||[]).length){$('#reH').style.display='none';$('#reP').style.display='none'}
+$('#findings').innerHTML=(B.findings||[]).map(f=>`<div><span class="mono" style="color:var(--${f.tone||'teal'})">${esc(f.label)}</span><b>${esc(f.head)}</b><span>${esc(f.text)}</span></div>`).join('');const src=Object.fromEntries(B.sources.map(s=>[s.id,s]));
+const ev=(id,k)=>{const l=((window.EVIDENCE||{})[id]||{})[k]||[];return `<div class="ev">${l.length?l.map(x=>`<a href="https://www.youtube.com/watch?v=${x.id}" target="_blank" onclick="event.stopPropagation()"><img loading="lazy" src="img/ev/${x.id}.jpg">${esc(x.t)}<b>${x.n} · ${esc(x.a||'')} · ${esc(decodeURIComponent(x.h||'').slice(0,22))}</b></a>`).join(''):(k==='s'&&id==='last-f1'?'<span class="none">No video found on this wording.</span>':'')}</div>`};
+const fr=v=>`<div class="fr">${[1,2,3].map(n=>`<img loading="lazy" src="img/${v}_${n}.jpg">`).join('')}</div>`;
+function draw(){
+$('#ideas').innerHTML=B.ideas.map(i=>{const s=src[i.src],v=s.videos.find(x=>x.v===i.srcVid)||s.videos[0];return `
+<article class="idea" data-k="ideas" data-id="${i.id}"><div class="src"><img class="t" src="img/${i.srcVid}.jpg">${fr(i.srcVid)}
+<div class="st">${esc(i.from)}</div><div class="mono" style="color:var(--ember)">${v.n} · ${esc(v.a)}</div><div class="mono" style="color:var(--faint);margin-top:4px">${esc(s.name)} · ${s.subs} subs · ${esc(s.niche)}</div></div>
+<div class="body"><span class="keep">Keep</span><div class="tags mono"><span class="tag">Round ${i.round}</span>${i.pick?'<span class="tag fill">My pick</span>':''}${i.merge?'<span class="tag ember">Merge</span>':''}<span class="tag ${i.served?'coral':'teal'}">${i.served?'From a car channel: already served':'From '+esc(s.niche)}</span><span class="tag">${esc(i.story)}</span></div>
+<div class="ours">${esc(i.title)}</div><div class="from">from: <i>${esc(i.from)}</i></div>
+<dl>${i.tension?`<dt class="mono" style="color:var(--ember)">Tension</dt><dd class="w">${esc(i.tension)}</dd><dt class="mono" style="color:var(--ember)">Urgency</dt><dd>${esc(i.urgency)}</dd>`:''}<dt class="mono">Subject</dt><dd class="w">${esc(i.subject)}</dd><dt class="mono">Thumbnail</dt><dd>${esc(i.thumb)}</dd><dt class="mono">Opens on</dt><dd>${esc(i.open)}</dd><dt class="mono">Structure</dt><dd>${esc(i.structure)}</dd>
+<dt class="mono" style="color:var(--teal)">Demand</dt><dd>${esc(i.demand)}${ev(i.id,'d')}</dd><dt class="mono" style="color:var(--coral)">Saturation</dt><dd>${esc(i.sat)}${ev(i.id,'s')}</dd><dt class="mono">To check</dt><dd>${esc(i.check)}</dd><dt class="mono">Reuses</dt><dd>${esc(i.reuse)}</dd></dl>
+<textarea placeholder="Note"></textarea></div></article>`}).join('');
+$('#re').innerHTML=(B.retitles||[]).map(r=>`<div class="card" data-k="retitles" data-id="${r.id}"><span class="keep">Keep</span><div class="mono" style="color:var(--faint)">${esc(r.src)}</div><div class="ours">${esc(r.title)}</div><div class="from">from: <i>${esc(r.from)}</i></div></div>`).join('');
+$('#sources').innerHTML=B.sources.map(s=>`<div class="card ${s.served?'served':''}" data-k="channels" data-id="${s.id}"><span class="keep">Keep</span>
+<div class="tags mono"><span class="tag ${s.tone}">${esc(s.verdict)}</span><span class="tag">${esc(s.niche)}</span></div><h3 style="margin-top:10px">${esc(s.name)}</h3>
+<div class="stats"><span>${esc(s.handle)}</span><span><b>${s.subs}</b> subs</span><span><b>${s.median}</b> median</span></div>
+<p><b>Checks</b>${esc(s.checks)}</p><p><b>Inside the video</b>${esc(s.inside)}</p><p><b>Thumbnail layout</b>${esc(s.thumb)}</p>
+${s.videos.map(v=>`<div class="vid"><img loading="lazy" src="img/${v.v}.jpg"><div><div class="vt">${esc(v.t)}</div><div class="vn mono">${v.n} · ${esc(v.a)}</div></div>${fr(v.v)}</div>`).join('')}</div>`).join('');
+document.querySelectorAll('[data-k]').forEach(el=>{const k=el.dataset.k,id=el.dataset.id,t=$('textarea',el);
+const p=()=>{el.classList.toggle('kept',S[k].has(id));$('.keep',el).textContent=S[k].has(id)?'Kept':'Keep'};p();
+el.onclick=()=>{S[k].has(id)?S[k].delete(id):S[k].add(id);p();$('#msg').textContent='Not saved yet.'};
+if(t){t.value=S.notes[id]||'';t.onclick=e=>e.stopPropagation();t.oninput=()=>S.notes[id]=t.value}});}
+$('#save').onclick=async()=>{const body={saved:new Date().toISOString(),ideas:[...S.ideas],channels:[...S.channels],retitles:[...S.retitles],notes:S.notes};
+try{const r=await fetch('save',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});$('#msg').textContent=r.ok?`Saved: ${S.ideas.size} ideas, ${S.retitles.size} titles, ${S.channels.size} channels.`:'Save failed.'}catch(e){$('#msg').textContent='Save failed.'}};
+fetch('keeps.json').then(r=>r.ok?r.json():null).then(k=>{if(k){['ideas','channels','retitles'].forEach(x=>S[x]=new Set(k[x]||[]));S.notes=k.notes||{}}}).catch(()=>{}).finally(draw);
+</script></body></html>

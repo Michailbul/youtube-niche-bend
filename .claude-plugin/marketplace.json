@@ -1,0 +1,20 @@
+{
+  "name": "youtube-niche-bend",
+  "owner": {
+    "name": "Michael (laniameda)"
+  },
+  "metadata": {
+    "description": "Our YouTube channel toolkit: the niche-bending method, the research kit and the opportunity harness.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "niche-bend",
+      "source": "./plugins/niche-bend",
+      "description": "Decide what YouTube video to make and how to package it: find formats that took off this month in other niches, check them, bend them into ours, write the title and thumbnail. Research scripts, boards, six research subagents and slash commands.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["youtube", "niche-bending", "packaging", "research", "thumbnails", "titles"]
+    }
+  ]
+}

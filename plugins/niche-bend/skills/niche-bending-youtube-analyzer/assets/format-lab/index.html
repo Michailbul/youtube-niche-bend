@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Format lab</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0A0805;--panel:#14110D;--panel2:#1D1915;--line:rgba(255,244,234,.12);--line2:rgba(255,244,234,.22);--linen:#FFF4EA;--mute:rgba(255,244,234,.7);--faint:rgba(255,244,234,.42);--coral:#F26157;--ember:#FF8C42;--teal:#79B791;--amber:#E8A838}
+*{box-sizing:border-box}html{scroll-padding-top:70px}
+body{margin:0;background:var(--bg);color:var(--linen);font:15px/1.55 Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}img{display:block}
+.mono{font:500 10.5px/1.4 'JetBrains Mono',ui-monospace,monospace;letter-spacing:.06em;text-transform:uppercase;color:var(--faint)}
+.mono b{color:var(--linen);font-weight:500}
+.bar{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:18px;padding:12px 28px;background:rgba(10,8,5,.93);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.bar .t{font:700 14px 'Chakra Petch';letter-spacing:.12em;text-transform:uppercase;white-space:nowrap}.bar .t b{color:var(--coral)}
+.bar nav{display:flex;gap:16px;flex:1;min-width:0;overflow:auto}
+.bar nav a{font:600 11px 'Chakra Petch';letter-spacing:.14em;text-transform:uppercase;color:var(--mute);white-space:nowrap}.bar nav a:hover{color:var(--linen)}
+.count{font:500 11px 'JetBrains Mono';color:var(--mute);white-space:nowrap}.count b{color:var(--teal)}
+.save{font:700 11px 'Chakra Petch';letter-spacing:.16em;text-transform:uppercase;color:#190b09;background:var(--coral);border:0;padding:10px 16px;border-radius:3px;cursor:pointer}.save.ok{background:var(--teal)}
+.wrap{max-width:1500px;margin:0 auto;padding:0 28px 160px}
+.round>header{padding:44px 0 26px;border-bottom:2px solid var(--linen)}
+h1{margin:8px 0 12px;font:700 clamp(28px,3.4vw,48px)/1.03 'Chakra Petch';letter-spacing:.02em;text-transform:uppercase;max-width:1100px}h1 b{color:var(--coral)}
+.lede{font-size:16.5px;color:var(--mute);max-width:860px;margin:0}.lede b{color:var(--linen);font-weight:600}
+.legend{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin-top:22px;border:1px solid var(--line);border-radius:6px;max-width:980px}
+.legend div{padding:12px 16px;border-right:1px solid var(--line);font-size:13.5px;color:var(--mute);line-height:1.4}.legend div:last-child{border:0}
+.L{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:3px;background:var(--coral);color:#190b09;font:700 13px 'Chakra Petch';margin-right:8px;flex:none}
+.legend b{display:flex;align-items:center;color:var(--linen);font:600 12px 'Chakra Petch';letter-spacing:.12em;text-transform:uppercase;margin-bottom:6px}
+section{padding-top:56px}
+.n{font:500 11px 'JetBrains Mono';color:var(--coral);letter-spacing:.08em}
+h2{margin:6px 0 8px;font:700 26px/1.1 'Chakra Petch';letter-spacing:.03em;text-transform:uppercase}
+.sub{color:var(--mute);max-width:860px;margin:0 0 20px}.sub b{color:var(--linen);font-weight:600}
+.b{display:inline-block;font:500 9.5px 'JetBrains Mono';letter-spacing:.06em;text-transform:uppercase;padding:3px 6px;border-radius:2px;border:1px solid var(--line2);color:var(--mute);white-space:nowrap}
+.b.g{border-color:transparent;background:var(--teal);color:#0b1a11}.b.y{border-color:transparent;background:var(--amber);color:#1a1204}.b.r{border-color:transparent;background:var(--coral);color:#190b09}.b.m{border-color:transparent;background:var(--panel2);color:var(--linen)}
+.b.k{background:var(--teal);border-color:var(--teal);color:#0b1a11;display:none}.on>.hd .b.k,.on>.b.k,.on .kk{display:inline-block}
+/* question */
+.verdict{border-left:3px solid var(--coral);background:var(--panel);padding:18px 22px;border-radius:0 6px 6px 0;max-width:980px}
+.verdict .v{font:700 22px/1.15 'Chakra Petch';letter-spacing:.03em;text-transform:uppercase;margin:0 0 8px}
+.verdict p{margin:0 0 8px;color:var(--mute)}.verdict p:last-child{margin:0}.verdict b{color:var(--linen);font-weight:600}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;margin-top:18px}
+.box{border:1px solid var(--line);border-radius:6px;padding:16px 18px;background:var(--panel)}
+.box h3{margin:0 0 12px;font:600 13px 'Chakra Petch';letter-spacing:.12em;text-transform:uppercase;color:var(--teal)}
+.bars{display:grid;gap:7px}.bar2{display:grid;grid-template-columns:minmax(120px,230px) 1fr 64px;gap:10px;align-items:center;font-size:13px;color:var(--mute)}
+.bar2 i{display:block;height:12px;background:var(--linen);border-radius:2px;min-width:3px}.bar2.hi i{background:var(--teal)}.bar2.lo i{background:var(--faint)}
+.bar2 em{font:500 11px 'JetBrains Mono';font-style:normal;color:var(--linen);text-align:right}
+.att{display:grid;gap:5px;margin:0;padding:0;list-style:none}.att li{display:grid;grid-template-columns:62px 1fr;gap:10px;font-size:13px;color:var(--mute);line-height:1.35}.att b{font:500 11.5px 'JetBrains Mono';color:var(--coral);text-align:right}.att li.ok b{color:var(--teal)}
+.ev{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:14px;margin-top:16px}
+.vc{background:var(--panel);border:1px solid var(--line);border-radius:6px;overflow:hidden}
+.vc .th{width:100%;aspect-ratio:16/9;object-fit:cover;background:#000}
+.fr{display:grid;grid-template-columns:repeat(3,1fr);gap:3px;padding-top:3px}.fr img{width:100%;aspect-ratio:16/9;object-fit:cover;background:#0f0c09}
+.vc .bd{padding:11px 14px 13px}.vc .ttl{font-weight:600;font-size:14.5px;line-height:1.35;margin:6px 0 6px}.vc p{margin:6px 0 0;font-size:13px;color:var(--mute);line-height:1.45}
+/* format card */
+.fc{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin-bottom:22px;overflow:hidden;cursor:pointer}
+.fc.on{border-color:var(--teal);box-shadow:0 0 0 1px var(--teal)}
+.fc .hd{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;padding:12px 18px;border-bottom:1px solid var(--line);background:var(--panel2)}
+.fc .hd .f{font:700 17px 'Chakra Petch';letter-spacing:.04em;text-transform:uppercase;margin-right:6px}
+.abc{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:0}
+.abc>div{padding:16px 18px}.abc>div+div{border-left:1px solid var(--line)}
+.lab{display:flex;align-items:center;font:600 11px 'Chakra Petch';letter-spacing:.14em;text-transform:uppercase;color:var(--mute);margin:0 0 10px}
+.A .th{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:4px;background:#000}
+.A .ttl{font:600 18px/1.3 Inter;margin:12px 0 6px}.A .fm{font:500 12.5px 'JetBrains Mono';color:var(--ember);background:#0f0c09;border:1px solid var(--line);padding:6px 9px;border-radius:3px;display:inline-block;margin:2px 0 10px;line-height:1.4}
+.stats{display:flex;flex-wrap:wrap;gap:4px 12px}
+.C p{margin:0 0 10px;color:var(--mute);font-size:14.5px}.C p b{color:var(--linen);font-weight:600}
+.C .fr{gap:6px;padding:0;margin-top:4px}.C .fr img{border-radius:3px}
+.B{margin-bottom:16px}.B .nm{font:700 20px 'Chakra Petch';letter-spacing:.03em;text-transform:uppercase}
+.D{border-top:1px solid var(--line);padding:16px 18px 18px}
+.tg{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.trg{border:1px solid var(--line2);border-radius:5px;padding:12px 13px;background:var(--panel2);cursor:pointer;display:flex;flex-direction:column;gap:8px}
+.trg:hover{border-color:var(--linen)}.trg.on{border-color:var(--teal);box-shadow:0 0 0 1px var(--teal)}
+.trg .top{display:flex;flex-wrap:wrap;align-items:center;gap:6px}
+.trg .nn{font:700 14px 'Chakra Petch';letter-spacing:.08em;text-transform:uppercase;color:var(--coral);margin-right:auto}
+.trg .tt{font:600 15px/1.3 Inter}
+.trg .why{font-size:13px;color:var(--mute);line-height:1.45;margin:0}
+.trg .num{display:flex;flex-wrap:wrap;gap:3px 10px}
+.trg .pf{display:grid;grid-template-columns:96px 1fr;gap:9px;align-items:start;border-top:1px solid var(--line);padding-top:8px;margin-top:auto}
+.trg .pf img{width:96px;aspect-ratio:16/9;object-fit:cover;border-radius:2px;background:#000}
+.trg .pf span{font-size:12px;line-height:1.35;color:var(--mute)}.trg .pf i{display:block;font:500 10px 'JetBrains Mono';font-style:normal;color:var(--faint);text-transform:uppercase;letter-spacing:.04em;margin-top:3px}
+/* merges */
+.mg{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin-bottom:18px;cursor:pointer;overflow:hidden}
+.mg.on{border-color:var(--teal);box-shadow:0 0 0 1px var(--teal)}
+.mg .hd{padding:14px 18px;border-bottom:1px solid var(--line);background:var(--panel2);display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center}
+.mg .hd .tt{font:600 19px/1.3 Inter;flex:1 1 420px}
+.mg .pp{display:grid;grid-template-columns:minmax(0,1fr) 40px minmax(0,1fr);align-items:stretch}
+.mg .pp>div{padding:14px 18px}.mg .plus{display:flex;align-items:center;justify-content:center;font:700 26px 'Chakra Petch';color:var(--coral);padding:0!important}
+.mg .th{width:100%;max-width:360px;aspect-ratio:16/9;object-fit:cover;border-radius:4px;background:#000}
+.mg .cap{font-size:13px;color:var(--mute);margin:8px 0 0;line-height:1.4}.mg .cap b{color:var(--linen);font-weight:600}
+.mg .ft{border-top:1px solid var(--line);padding:14px 18px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.mg .ft p{margin:0;font-size:13.5px;color:var(--mute);line-height:1.5}.mg .ft b{display:block;font:600 11px 'Chakra Petch';letter-spacing:.14em;text-transform:uppercase;color:var(--linen);margin-bottom:5px}
+@media (max-width:980px){.wrap{padding:0 16px 120px}.bar{padding:10px 16px;gap:10px}.bar nav{display:none}.legend{grid-template-columns:1fr 1fr}.legend div:nth-child(2){border-right:0}.legend div:nth-child(-n+2){border-bottom:1px solid var(--line)}.cols{grid-template-columns:1fr}.abc{grid-template-columns:1fr}.abc>div+div{border-left:0;border-top:1px solid var(--line)}.tg{grid-template-columns:1fr}.mg .pp{grid-template-columns:1fr}.mg .plus{padding:4px 0!important}.mg .ft{grid-template-columns:1fr}.bar2{grid-template-columns:120px 1fr 54px}}
+</style></head><body>
+<div class="bar"><div class="t">Format <b>Lab</b></div><nav id="nav"></nav><div class="count" id="count"></div><button class="save" id="save">Save keeps</button></div>
+<div class="wrap" id="rounds"></div>
+<script>
+const $=s=>document.querySelector(s),keeps={formats:new Set(),bends:new Set(),merges:new Set()};
+const fmt=n=>n==null?'?':n>=1e6?(n/1e6).toFixed(1).replace('.0','')+'M':n>=1e3?Math.round(n/1e3)+'K':''+n;
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const VC={'Open':'g','Confirmed':'g','Contested':'y','Crowded':'r','Weak':'r','Untested':'y'};
+const frames=(r,id)=>`<div class="fr">${[1,2,3].map(n=>`<img loading="lazy" src="${r}/img/${id}_${n}.jpg" alt="" onerror="this.style.visibility='hidden'">`).join('')}</div>`;
+const yt=id=>`https://www.youtube.com/watch?v=${id}`;
+function question(r,q){if(!q)return'';const mx=Math.max(...q.styles.map(s=>s.videos));
+ return `<section id="q${r}"><span class="n">01</span><h2>The question</h2><p class="sub">${esc(q.question)}</p>
+ <div class="verdict"><p class="v">${esc(q.verdict)}</p>${q.points.map(p=>`<p>${p}</p>`).join('')}</div>
+ <div class="cols"><div class="box"><h3>${esc(q.stylesTitle)}</h3><div class="bars">${q.styles.map(s=>`<div class="bar2 ${s.ours?'hi':''} ${s.no?'lo':''}"><span>${esc(s.style)}</span><i style="width:${Math.round(s.videos/mx*100)}%"></i><em>${s.videos} · ${fmt(s.medianViews)}</em></div>`).join('')}</div><p class="mono" style="margin:12px 0 0">Videos · median views. Green: a look we could make.</p></div>
+ <div class="box"><h3>${esc(q.attemptsTitle)}</h3><ul class="att">${q.attempts.map(a=>`<li class="${a.views>=50000?'ok':''}"><b>${fmt(a.views)}</b><span>${esc(a.title)} <span class="mono">· ${esc(a.by)} · ${esc(a.age)}</span></span></li>`).join('')}</ul></div></div>
+ <h3 class="lab" style="margin:26px 0 0">${esc(q.evidenceTitle)}</h3>
+ <div class="ev">${q.evidence.map(e=>`<div class="vc"><a href="${yt(e.id)}" target="_blank" rel="noopener"><img class="th" loading="lazy" src="${r}/img/${e.id}.jpg" alt=""></a>${frames(r,e.id)}<div class="bd"><span class="b m">${esc(e.style)}</span><div class="ttl">${esc(e.title)}</div><div class="mono"><b>${fmt(e.views)}</b> views · ${esc(e.by)} · <b>${fmt(e.subs)}</b> subs · ${esc(e.age)}</div><p>${esc(e.note)}</p></div></div>`).join('')}</div></section>`}
+function fcard(r,f){const s=f.source;
+ return `<article class="fc" data-kind="formats" data-key="${esc(f.key)}"><div class="hd"><span class="f">${esc(f.name)}</span><span class="b m">${esc(f.visualTag)}</span>${(f.flags||[]).map(x=>`<span class="b y">${esc(x)}</span>`).join('')}<span class="b k">Kept</span></div>
+ <div class="abc"><div class="A"><div class="lab"><span class="L">A</span>Thumbnail and title</div><a href="${yt(s.id)}" target="_blank" rel="noopener"><img class="th" loading="lazy" src="${r}/img/${s.id}.jpg" alt=""></a>
+   <div class="ttl">${esc(s.title)}</div><div class="fm">${esc(f.formula)}</div>
+   <div class="stats mono"><span><b>${fmt(s.views)}</b> views</span><span>${esc(s.date||s.age||'')}</span><span>${esc(s.name||s.handle)}</span><span><b>${fmt(s.subs)}</b> subs</span>${s.median!=null?`<span><b>${fmt(s.median)}</b> median of last ${s.sample}</span>`:''}</div>
+   ${f.thumbnail?`<p style="margin:10px 0 0;font-size:13.5px;color:var(--mute);line-height:1.45">${esc(f.thumbnail)}</p>`:''}</div>
+  <div class="C"><div class="B"><div class="lab"><span class="L">B</span>Niche</div><div class="nm">${esc(f.niche)}</div></div>
+   <div class="lab"><span class="L">C</span>Format of the video</div><p><b>Structure.</b> ${esc(f.structure)}</p><p><b>What is on screen.</b> ${esc(f.visual)}</p>${frames(r,s.id)}<p class="mono" style="margin-top:8px">Three frames from inside the video</p></div></div>
+ <div class="D"><div class="lab"><span class="L">D</span>Other niches it could go to, with the title it would ship with</div><div class="tg">${f.targets.map(t=>{const n=t.numbers||{};
+   return `<div class="trg" data-kind="bends" data-key="${esc(f.key+' → '+t.niche)}"><div class="top"><span class="nn">${esc(t.niche)}</span><span class="b ${VC[t.verdict]||''}">${esc(t.verdict||'Not judged')}</span><span class="b k kk">Kept</span></div>
+    <div class="tt">${esc(t.title)}</div><p class="why">${esc(t.why||'')}</p>
+    <div class="num mono"><span>This month in the niche: <b>${n.over100K??'?'}</b> videos over 100K</span><span><b>${n.smallChannelHits??'?'}</b> from channels under 100K subs</span><span>top <b>${fmt(n.topViews)}</b></span></div>
+    ${t.proof?`<a class="pf" href="${yt(t.proof.id)}" target="_blank" rel="noopener"><img loading="lazy" src="${r}/img/${t.proof.id}.jpg" alt=""><span>${esc(t.proof.title)}<i>${esc(t.proof.handle||t.proof.channel||'')} · ${fmt(t.proof.views)} · ${esc(t.proof.age)}</i></span></a>`:''}</div>`}).join('')}</div></div></article>`}
+function merge(r,m){return `<article class="mg" data-kind="merges" data-key="${esc(m.key)}"><div class="hd"><span class="tt">${esc(m.title)}</span><span class="b m">${esc(m.niche)}</span><span class="b ${VC[m.verdict]||''}">${esc(m.verdict)}</span><span class="b k">Kept</span></div>
+ <div class="pp"><div><div class="lab"><span class="L">A</span>Title and thumbnail from</div><a href="${yt(m.packaging.id)}" target="_blank" rel="noopener"><img class="th" loading="lazy" src="${r}/img/${m.packaging.id}.jpg" alt=""></a><p class="cap"><b>${esc(m.packaging.title)}</b><br>${esc(m.packaging.by)} · ${fmt(m.packaging.views)} views</p></div>
+  <div class="plus">+</div><div><div class="lab"><span class="L">C</span>Look and structure from</div>${frames(r,m.look.id)}<p class="cap"><b>${esc(m.look.title)}</b><br>${esc(m.look.by)} · ${fmt(m.look.views)} views</p></div></div>
+ <div class="ft"><p><b>Who watches it</b>${esc(m.audience)}</p><p><b>What is proven</b>${esc(m.proven)}</p><p><b>What is not</b>${esc(m.unproven)}</p></div></article>`}
+function round(r,d,i){return `<div class="round" id="r${r}"><header><span class="mono">Round ${esc(r)} · ${esc(d.sources||'')}</span><h1>${d.headline||'What works, and <b>where else</b> it can go'}</h1><p class="lede">${d.lede||''}</p>
+ <div class="legend"><div><b><span class="L">A</span>Packaging</b>The thumbnail and the title that won the click.</div><div><b><span class="L">B</span>Niche</b>The subject and audience it worked on.</div><div><b><span class="L">C</span>Format</b>How the video is built and what is on screen inside.</div><div><b><span class="L">D</span>Where else</b>Other niches that already get views, with our title.</div></div></header>
+ ${question(r,d.question)}
+ <section id="f${r}"><span class="n">${d.question?'02':'01'}</span><h2>Format cards</h2><p class="sub">Click a card to keep the format. Click a niche under <b>D</b> to keep that bend. Unclicked is dropped.</p>${d.formats.map(f=>fcard(r,f)).join('')}</section>
+ ${(d.merges||[]).length?`<section id="m${r}"><span class="n">${d.question?'03':'02'}</span><h2>Merges</h2><p class="sub">One new format from two proven ones: the packaging of one, the look and structure of another, checked against the audience that would watch it.</p>${d.merges.map(m=>merge(r,m)).join('')}</section>`:''}</div>`}
+function paint(){document.querySelectorAll('[data-kind]').forEach(e=>e.classList.toggle('on',keeps[e.dataset.kind].has(e.dataset.key)));$('#count').innerHTML=`<b>${keeps.formats.size}</b> formats · <b>${keeps.bends.size}</b> bends · <b>${keeps.merges.size}</b> merges`}
+async function save(){try{const r=await fetch('/save',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({formats:[...keeps.formats],bends:[...keeps.bends],merges:[...keeps.merges]})});if(!r.ok)throw 0;const b=$('#save');b.textContent='Saved';b.classList.add('ok');setTimeout(()=>{b.textContent='Save keeps';b.classList.remove('ok')},1200)}catch(e){$('#save').textContent='Save failed'}}
+document.addEventListener('click',e=>{if(e.target.closest('a'))return;const k=e.target.closest('[data-kind]');if(!k)return;const s=keeps[k.dataset.kind];s.has(k.dataset.key)?s.delete(k.dataset.key):s.add(k.dataset.key);paint();save()});
+$('#save').onclick=save;
+(async()=>{try{const k=await (await fetch('keeps.json')).json();for(const x of ['formats','bends','merges'])(k[x]||[]).forEach(v=>keeps[x].add(v))}catch(e){}
+ const rounds=await (await fetch('rounds.json')).json();const r0=rounds[0];
+ $('#nav').innerHTML=`<a href="#q${r0}">The question</a><a href="#f${r0}">Formats</a><a href="#m${r0}">Merges</a>`+rounds.slice(1).map(r=>`<a href="#r${r}">${r}</a>`).join('');
+ let html='';for(const r of rounds){try{html+=round(r,await (await fetch(r+'/lab.json')).json())}catch(e){console.error(r,e)}}$('#rounds').innerHTML=html;paint()})();
+</script><script>/* missing local image (example rounds ship without img/): fall back to YouTube's own thumbnail and frames */
+document.addEventListener('error',e=>{const i=e.target;if(!i||i.tagName!=='IMG'||i.dataset.fb)return;const m=(i.getAttribute('src')||'').match(/img\/([\w-]{11})(?:_(\d))?\.jpg$/);if(!m)return;i.dataset.fb=1;i.onerror=null;i.onload=()=>{i.style.visibility=''};i.src=m[2]?`https://i.ytimg.com/vi/${m[1]}/${m[2]}.jpg`:`https://i.ytimg.com/vi/${m[1]}/hqdefault.jpg`},true);</script>
+</body></html>

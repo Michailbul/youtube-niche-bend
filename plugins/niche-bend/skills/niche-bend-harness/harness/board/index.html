@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Opportunity space · Niche-bend harness</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"}}</script>
+</head><body>
+<header class="bar">
+  <div class="t">Niche-bend <b>Opportunity space</b></div>
+  <span class="b" id="src">Loading</span>
+  <div class="count" id="count"></div>
+  <div class="filters" role="group" aria-label="Filters">
+    <label><span>Round</span><select id="f-round"></select></label>
+    <label><span>Verdict</span><select id="f-verdict"></select></label>
+    <label><span>Niche</span><select id="f-niche"></select></label>
+  </div>
+</header>
+
+<div class="head">
+  <div>
+    <span class="mono" id="kicker">Harness board · demand × saturation × fit</span>
+    <h1>Where the <b>best opportunity</b> sits</h1>
+    <p class="lede">Each point is one format bent into one niche. Right is more demand, down is fewer successful copies, front is easier for us to make. The teal shell marks the corner we want. Every number carries its query and the day it was read.</p>
+  </div>
+  <div class="note" id="note" hidden></div>
+</div>
+
+<main class="grid">
+  <section class="stage" id="stage" aria-label="3D opportunity space">
+    <canvas id="gl" aria-hidden="true"></canvas>
+    <div class="views" role="group" aria-label="Camera">
+      <button data-view="iso" class="on">3D</button>
+      <button data-view="ds">Demand × Saturation</button>
+      <button data-view="df">Demand × Fit</button>
+      <button data-view="spin" aria-pressed="false">Turn</button>
+    </div>
+    <div class="legend">
+      <div class="lg-row"><i class="dot g"></i>Open / confirmed<i class="dot y"></i>Untested / format only<i class="dot r"></i>Pass / weak</div>
+      <div class="lg-row"><span class="sz"><i></i><i></i><i></i></span>Size = freshness<span class="sep"></span>Brightness = confidence</div>
+      <div class="lg-row"><i class="shell"></i>Frontier: within 55 of high demand · empty · makeable</div>
+    </div>
+    <div class="hover" id="hover" hidden></div>
+    <div class="empty" id="empty" hidden></div>
+  </section>
+
+  <aside class="side">
+    <div class="panel" id="detail">
+      <div class="placeholder">
+        <span class="n">Detail</span>
+        <p>Hover a point to read it. Click to pin it here with the evidence, the copy-ID button and the keep gate.</p>
+      </div>
+    </div>
+    <div class="panel tray">
+      <div class="tray-h"><span class="n">Not measured</span><span class="mono" id="tray-n"></span></div>
+      <p class="sub">A point with a missing axis stays off the chart. It is never drawn at zero.</p>
+      <ul id="tray"></ul>
+    </div>
+  </aside>
+</main>
+
+<section class="list wrap">
+  <div class="list-h"><span class="n">All points</span><h2>Ranked by distance to the corner</h2><p class="sub">The same data as the space above, for reading and keyboard use. Press Enter on a row to pin it.</p></div>
+  <div class="table-wrap"><table id="table">
+    <thead><tr><th>ID</th><th>Our title</th><th>Niche</th><th>Verdict</th><th class="r">Demand</th><th class="r">Saturation</th><th class="r">Fit</th><th class="r">Fresh</th><th class="r">To corner</th><th>Query · read</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+</section>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script type="module" src="board.js"></script>
+</body></html>

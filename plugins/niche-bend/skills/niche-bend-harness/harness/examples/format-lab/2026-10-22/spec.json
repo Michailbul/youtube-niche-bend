@@ -1,0 +1,234 @@
+{
+ "date": "2026-10-22",
+ "sources": "Format watch (yt_scout formulas, 1116 videos over 100K from 54 searches) + spread on the survivors + this month's car/engineering/F1 searches. Numbers read 22 Oct 2026.",
+ "headline": "The survival ladder just crossed six niches in three weeks. Cars have not touched it.",
+ "lede": "Round 2 of the format lab. The headline is one format, not ten: <b>How Long You'd Last in Every [X]</b> put 96% of its lifetime views inside the last month, across prehistoric oceans, ice ages, dinosaurs, iPhones, FNAF and ACOTAR. No car video uses it. Three established formats follow as backups, each with its car crossing checked.",
+ "formats": [
+  {
+   "key": "you-wouldnt-last",
+   "name": "How Long You'd Last in Every…",
+   "flags": [
+    "new: 96% of views in the last month",
+    "2D version already does 2.9M",
+    "source channel is 247K subs: outlier packaging gene only, not a model"
+   ],
+   "source": {
+    "id": "qrfhhZ-Wvmk",
+    "handle": "@OfficialBeyondTheBlue",
+    "title": "How Long You'd Last in Every Prehistoric Ocean",
+    "views": 2963124,
+    "age": "2w ago"
+   },
+   "niche": "Nature / survival. Copied within three weeks into ice ages, dinosaurs, FNAF, an iPhone century and ACOTAR courts.",
+   "formula": "How Long You'd Last in Every [place / era / set]",
+   "thumbnail": "One creature or vehicle on a flat coloured ground, the title across the top in heavy caps with the survival time as the promise; no face, no arrow, no red circle.",
+   "structure": "A ladder of entries. Each entry: name it, place the viewer in it, count the seconds or hours you survive, move on. A running score makes the next entry inevitable.",
+   "visual": "Flat 2D diagrams on a single colour field: silhouettes, cutaway anatomy, a scale object (a bus) next to the animal. Simple shape tweening, no footage, no presenter.",
+   "visualTag": "flat 2D diagram ladder",
+   "targets": [
+    {
+     "niche": "Formula 1",
+     "title": "How Long You'd Last in Every Era of Formula 1",
+     "topic": "formula 1 history",
+     "cross": "how long you'd last in every era of formula 1",
+     "verdict": "Open",
+     "why": "Nine on-topic uploads this month, four over 100K, and the best (Evolution of Formula 1 Cars, 316K) comes from a small channel. No video uses the survival ladder on F1: the crossing is empty.",
+     "proofId": "7ROJfkaewpc"
+    },
+    {
+     "niche": "Group B rally",
+     "title": "How Long You'd Last in Every Group B Rally Car",
+     "topic": "group b rally",
+     "cross": "how long you'd last in every group b rally car",
+     "verdict": "Untested",
+     "why": "Thin this month: 15 uploads, one over 100K (123K, a reaction). The 133K in the crossing search is a simulator video, not the format. The topic carries old story videos but not this month.",
+     "proofId": "ChwpTZmn4YQ"
+    },
+    {
+     "niche": "Le Mans",
+     "title": "How Long You'd Last in Every Decade of Le Mans",
+     "topic": "le mans 24 hours history",
+     "cross": "how long you'd last in every decade of le mans",
+     "verdict": "Untested",
+     "why": "Twenty-six uploads this month, one over 100K (153K, rarecarstorys). The search for the bent title drifts back to prehistoric videos, so there is no crossing to read. Open and unproven.",
+     "proofId": "3xfjbaHeH1I"
+    }
+   ]
+  },
+  {
+   "key": "overdue-collapse",
+   "name": "The (Overdue) Collapse of…",
+   "flags": [
+    "established, 28% of views this month",
+    "car crossing already attempted: Audi, 13K",
+    "source channel 5.5K subs; the inside is photos and footage of real people, so the gene is the title and thumbnail only"
+   ],
+   "source": {
+    "id": "67W-gnrCvo0",
+    "handle": "@InnovationUncovered",
+    "title": "The (Overdue) Collapse of Oracle's $900B Empire",
+    "views": 400587,
+    "age": "1mo ago"
+   },
+   "niche": "Business and technology. Now on Oracle, Saudi megaprojects, dating apps, Nike, VMware, Klarna, antivirus and Audi.",
+   "formula": "The (Overdue) Collapse of [company / market]",
+   "thumbnail": "A burning or crumbling logo on a dark field, the word COLLAPSE large, a number in the corner for scale. Presenter-led inside.",
+   "structure": "One thesis, then the receipts: the number that does not add up, the people who kept buying, the moment it turns. Ends on who pays.",
+   "visual": "Event photographs, boardroom stills and archive clips of the named people, with charts cut in. No reconstruction, no drawings: the proof is the real faces.",
+   "visualTag": "archive photos + charts",
+   "targets": [
+    {
+     "niche": "EV startups",
+     "title": "The (Overdue) Collapse of Fisker",
+     "topic": "fisker",
+     "cross": "the overdue collapse of fisker",
+     "verdict": "Weak",
+     "why": "Fisker gets no pull: the best on-topic video (112K) is an EV review, and the only collapse attempt (fully charged, 102K) is ten months old. Do not put the collapse promise on a dead startup.",
+     "proofId": "TIYrpSRiQPo"
+    },
+    {
+     "niche": "Car dealerships",
+     "title": "The (Overdue) Collapse of Car Dealerships",
+     "topic": "car dealerships",
+     "cross": "the overdue collapse of car dealerships",
+     "verdict": "Open",
+     "why": "Small channels are getting the views: Zac-Rios, 913K in 13 days, on why nobody wants to buy from dealers. Damon Cassidy proves the business audience will watch the car market (243K). No one has put the collapse formula on dealers.",
+     "proofId": "-Xl_j8LMTmE"
+    },
+    {
+     "niche": "Hypercar market",
+     "title": "The (Overdue) Collapse of the Hypercar Market",
+     "topic": "hypercar market",
+     "cross": "the overdue collapse of the hypercar market",
+     "verdict": "Weak",
+     "why": "Eight uploads, one over 100K, and the two attempts at a car collapse in this lane did 2.4K and 2.3K. The topic is thin and the crossing has already failed.",
+     "proofId": "YMToDdY2pZQ"
+    }
+   ]
+  },
+  {
+   "key": "shouldnt-exist",
+   "name": "The [X] That Shouldn't Exist",
+   "flags": [
+    "established, 31% of views this month",
+    "13 of 22 videos over 100K this month"
+   ],
+   "source": {
+    "id": "AA15WabSxzw",
+    "handle": "@DiscoveriesUnexplained",
+    "title": "History's Biggest Glitches: 8 Objects That Shouldn't Exist",
+    "views": 975131,
+    "age": "4w ago"
+   },
+   "niche": "Science, discovery, mystery. The same claim now carries deep-sea waves, creatures, tree houses and grocery stores.",
+   "formula": "The [object] That Shouldn't Exist",
+   "thumbnail": "One impossible object photographed straight on, dark surround, a single line of caps naming the contradiction. No face.",
+   "structure": "A numbered set of anomalies, each opened with the physical reason it cannot exist, then the explanation that lets it exist anyway.",
+   "visual": "Archive photographs and captions with slow zoom. Cheap, and it is where the format is weakest visually.",
+   "visualTag": "archive stills",
+   "targets": [
+    {
+     "niche": "Engines",
+     "title": "The Engine That Shouldn't Exist",
+     "topic": "strange engines",
+     "cross": "the engine that shouldn't exist",
+     "verdict": "Confirmed",
+     "why": "The crossing exists: The Engine That Should NOT Exist, 256K, three months ago. The niche is cold this month (nothing over 50K), so the format is proven and the timing is the risk.",
+     "proofId": "QtxVdC7pBQM"
+    },
+    {
+     "niche": "Racetracks",
+     "title": "The Racetrack That Shouldn't Exist",
+     "topic": "dangerous racetracks",
+     "cross": "the racetrack that shouldn't exist",
+     "verdict": "Open",
+     "why": "Race-track danger sells (DomTracy 420K; banned race cars 353K), and nobody has applied the impossibility claim to a track. Open.",
+     "proofId": "82mjA6hbOSQ"
+    },
+    {
+     "niche": "Concept cars",
+     "title": "The Car That Shouldn't Exist",
+     "topic": "concept cars",
+     "cross": "the car that shouldn't exist",
+     "verdict": "Contested",
+     "why": "The claim is taken, but by presenter and vlog formats: I Took Delivery of a CAR That Shouldn’t Exist (579K). A faceless version would compete on look, not on title.",
+     "proofId": "EPcVjRe_SG4"
+    }
+   ]
+  },
+  {
+   "key": "worse-than-thought",
+   "name": "[X] Is Worse Than You Think",
+   "flags": [
+    "established: 23 of 29 videos over 100K this month",
+    "owned by news and presenter channels",
+    "source channel 15K subs, median 4.5K: one-gene outlier at 207× subscribers"
+   ],
+   "source": {
+    "id": "YJnW5F_kQJ8",
+    "handle": "@primordiaorigins",
+    "title": "The Last Hours of the Dinosaurs Were Worse Than We Thought",
+    "views": 930073,
+    "age": "3w ago"
+   },
+   "niche": "Business, technology, news, nature. Ubisoft, an AI bubble, a snake invasion, AI cloning, the dinosaurs.",
+   "formula": "[Company / situation] Is Worse Than You Think",
+   "thumbnail": "A known face or logo mid-reaction, two or three words of the title, the rest of the claim withheld. Meme grammar.",
+   "structure": "A claim that contradicts what the viewer believes, then evidence stacked until the scale is undeniable, then the consequence.",
+   "visual": "Generated natural-history stills with slow parallax, one archive black-and-white photograph with a name label, no presenter. The formula survives without a face.",
+   "visualTag": "generated stills + labels",
+   "targets": [
+    {
+     "niche": "Dieselgate",
+     "title": "Dieselgate Is Worse Than You Think",
+     "topic": "dieselgate volkswagen",
+     "cross": "dieselgate is worse than you think",
+     "verdict": "Weak",
+     "why": "Two faceless attempts this month did 358 and 138 views while the topic itself gets 115K. The formula and the subject are both proven separately, and together they died twice.",
+     "proofId": "gRUs4j2lODA"
+    },
+    {
+     "niche": "Car insurance",
+     "title": "Car Insurance Is Worse Than You Think",
+     "topic": "car insurance",
+     "cross": "car insurance is worse than you think",
+     "verdict": "Open",
+     "why": "Insurance gets real views from small channels (ABC 630K, Money9 276K) and the only bent attempt did 19K. Open, and evergreen.",
+     "proofId": "BqoyIeXmrsw"
+    },
+    {
+     "niche": "Used cars",
+     "title": "The Used Car Market Is Worse Than You Think",
+     "topic": "used car prices",
+     "cross": "the used car market is worse than you think",
+     "verdict": "Open",
+     "why": "Eleven of twenty on-topic uploads passed 100K this month, from channels like Michael Bordenaro (491K). Adjacent claims work (Overpriced Used Car Epidemic 889K) and the exact title is free.",
+     "proofId": "rZou9p30_Q0"
+    }
+   ]
+  }
+ ],
+ "merges": [
+  {
+   "key": "f1-1994-worse",
+   "title": "The 1994 Formula 1 Season Was Worse Than You Think",
+   "niche": "Formula 1 / hidden truth",
+   "verdict": "Untested",
+   "packaging": {
+    "id": "YJnW5F_kQJ8",
+    "title": "The Last Hours of the Dinosaurs Were Worse Than We Thought",
+    "by": "@primordiaorigins",
+    "views": 930073
+   },
+   "look": {
+    "id": "qrfhhZ-Wvmk",
+    "title": "How Long You'd Last in Every Prehistoric Ocean",
+    "by": "@OfficialBeyondTheBlue",
+    "views": 2963124
+   },
+   "audience": "F1 story viewers and explainer viewers. F1 story videos clear 300K to 900K this month from small channels (Evolution of F1 Cars 316K, Disrespectful Moments 465K), and the diagram look is the proven look of the format we are borrowing.",
+   "proven": "The claim formula is established and still working: 23 of 29 videos over 100K this month, including one from a 15K-subscriber channel at 930K. The diagram look carries 2.9M in the same month.",
+   "unproven": "No F1 video uses either half together. The 1994 facts are the film's risk: every claim must be sourced before the script is written."
+  }
+ ]
+}

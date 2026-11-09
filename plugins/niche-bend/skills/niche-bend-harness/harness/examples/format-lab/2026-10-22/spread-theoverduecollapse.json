@@ -1,0 +1,232 @@
+{
+ "formula": "the overdue collapse of _",
+ "mustContain": [
+  "overdue",
+  "collapse"
+ ],
+ "month": {
+  "videos": 26,
+  "channels": 20,
+  "over100K": 3,
+  "views": 3448792
+ },
+ "restOfYear": {
+  "videos": 17,
+  "channels": 10,
+  "over100K": 16,
+  "views": 8877871
+ },
+ "monthShare": 0.28,
+ "reading": "established and still working: it was getting views before this month too",
+ "examples": [
+  {
+   "id": "XEMvG2vulKg",
+   "title": "The (Overdue) Collapse Of The AI Bubble",
+   "views": 2118031,
+   "age": "2w ago",
+   "handle": "@DamonCassidy",
+   "channel": "Damon Cassidy",
+   "length": "23:36"
+  },
+  {
+   "id": "67W-gnrCvo0",
+   "title": "The (Overdue) Collapse of Oracle's $900B Empire",
+   "views": 400584,
+   "age": "1mo ago",
+   "handle": "@InnovationUncovered",
+   "channel": "Innovation Uncovered",
+   "length": "15:36"
+  },
+  {
+   "id": "D3fi5dfqhMc",
+   "title": "The (Overdue) Collapse of Saudi Megaprojects",
+   "views": 389319,
+   "age": "10d ago",
+   "handle": "@TheInvisibleHandCo",
+   "channel": "The Invisible Hand",
+   "length": "22:11"
+  },
+  {
+   "id": "29S4Y4ZvZYk",
+   "title": "The (Overdue) Collapse of Dating Apps",
+   "views": 99418,
+   "age": "4w ago",
+   "handle": "@undertowfilm",
+   "channel": "Undertow",
+   "length": "17:10"
+  },
+  {
+   "id": "gNRhlvAs3AY",
+   "title": "The (Overdue) Collapse of the Buc-ee's",
+   "views": 82984,
+   "age": "5d ago",
+   "handle": "@Food_Meter",
+   "channel": "Food Meter",
+   "length": "27:03"
+  },
+  {
+   "id": "3Z_EZgebqjY",
+   "title": "The (Overdue) Collapse of Nike",
+   "views": 59743,
+   "age": "2w ago",
+   "handle": "@undertowfilm",
+   "channel": "Undertow",
+   "length": "16:03"
+  },
+  {
+   "id": "KIdL8g5hlWc",
+   "title": "The (Overdue) Collapse of Oracle's AI Data Center Empire",
+   "views": 50052,
+   "age": "3w ago",
+   "handle": "@InnovationUncovered",
+   "channel": "Innovation Uncovered",
+   "length": "16:55"
+  },
+  {
+   "id": "9Dne3rKiIn0",
+   "title": "The (Overdue) Collapse of Oracle's $900B Empire!",
+   "views": 45957,
+   "age": "4d ago",
+   "handle": "",
+   "channel": "Meerkat Explains and Neural Nutshell",
+   "length": "27:07"
+  },
+  {
+   "id": "V83pAnUgXS8",
+   "title": "The (Overdue) Collapse of Larry Ellison's $300 Billion AI Bet",
+   "views": 44472,
+   "age": "2w ago",
+   "handle": "@PubExplainer",
+   "channel": "PubExplainer",
+   "length": "17:36"
+  },
+  {
+   "id": "jdmOSSMvvfY",
+   "title": "The (Overdue) Collapse of VMware's $61B Cloud Empire",
+   "views": 35077,
+   "age": "3d ago",
+   "handle": "@InnovationUncovered",
+   "channel": "Innovation Uncovered",
+   "length": "15:01"
+  },
+  {
+   "id": "PIK0r3akYjQ",
+   "title": "The (Long Overdue) Collapse of Klarna",
+   "views": 26447,
+   "age": "3w ago",
+   "handle": "@TheFinancialRevolution",
+   "channel": "The Financial Revolution",
+   "length": "12:14"
+  },
+  {
+   "id": "ECfGHaZfAlY",
+   "title": "The (Overdue) Collapse of Bullsh*t Subscriptions",
+   "views": 24206,
+   "age": "3d ago",
+   "handle": "@BittenPear",
+   "channel": "BittenPear",
+   "length": "16:20"
+  },
+  {
+   "id": "WlI2JMfej1k",
+   "title": "The (Overdue) Collapse of the Antivirus Industry",
+   "views": 14560,
+   "age": "2w ago",
+   "handle": "@SmartInvestmentBreakdown",
+   "channel": "Smart Investment Breakdown",
+   "length": "19:17"
+  },
+  {
+   "id": "YbmRrBpZEtI",
+   "title": "The (Overdue) Collapse of Audi",
+   "views": 12997,
+   "age": "3d ago",
+   "handle": "@teemotionn",
+   "channel": "Teemotionn",
+   "length": "13:29"
+  },
+  {
+   "id": "qrhARozBJik",
+   "title": "The (Overdue) Collapse Of Saudi Arabia's Oil Money",
+   "views": 10507,
+   "age": "6d ago",
+   "handle": "",
+   "channel": "Meerkat Explains Finance and 3 more",
+   "length": "26:04"
+  }
+ ],
+ "olderExamples": [
+  {
+   "id": "ohCAPyqlJpo",
+   "title": "The (Overdue) Collapse of Bullsh*t Companies",
+   "views": 2958851,
+   "age": "3mo ago",
+   "handle": "@InvisibleGameCo",
+   "channel": "The Invisible Game",
+   "length": "16:23"
+  },
+  {
+   "id": "ysEAIIHzvXo",
+   "title": "The (Overdue) Collapse of Corporate Consulting",
+   "views": 1492630,
+   "age": "11mo ago",
+   "handle": "@InvisibleGameCo",
+   "channel": "The Invisible Game",
+   "length": "10:23"
+  },
+  {
+   "id": "R8tOELXGg3w",
+   "title": "The (Overdue) Collapse of India and the Philippines",
+   "views": 619345,
+   "age": "3mo ago",
+   "handle": "@TheInvisibleHandCo",
+   "channel": "The Invisible Hand",
+   "length": "14:05"
+  },
+  {
+   "id": "voh9JSRYrEI",
+   "title": "The (Overdue) Collapse of The Most Overhyped Company",
+   "views": 588536,
+   "age": "9mo ago",
+   "handle": "@InvisibleGameCo",
+   "channel": "The Invisible Game",
+   "length": "19:22"
+  },
+  {
+   "id": "XaAMbu5ohVw",
+   "title": "The (Overdue) Collapse Of Artificial Intelligence",
+   "views": 511005,
+   "age": "2mo ago",
+   "handle": "@GEN",
+   "channel": "GEN",
+   "length": "20:31"
+  },
+  {
+   "id": "L88DKvxtQ6Q",
+   "title": "The (Overdue) Collapse of Tiny Homes",
+   "views": 466328,
+   "age": "1mo ago",
+   "handle": "@HowHousesAreMade",
+   "channel": "How Houses Are Made",
+   "length": "17:13"
+  },
+  {
+   "id": "mnPwLouEZaI",
+   "title": "The (Overdue) Collapse of Overpriced Rocks",
+   "views": 355141,
+   "age": "2mo ago",
+   "handle": "@InvisibleGameCo",
+   "channel": "The Invisible Game",
+   "length": "14:10"
+  },
+  {
+   "id": "ZOHJ8pnIIZM",
+   "title": "The (Overdue) Collapse of Overpriced Coffee",
+   "views": 329496,
+   "age": "11mo ago",
+   "handle": "@InvisibleGameCo",
+   "channel": "The Invisible Game",
+   "length": "14:07"
+  }
+ ]
+}
