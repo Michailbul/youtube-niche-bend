@@ -57,7 +57,7 @@ Rails proposes a cadence of every three days at 09:00 Europe/Prague. **Nobody ha
 
 ## The keeps gate
 
-- Only an owner keeps (Michael or his co-owner; `--by` records which). An agent's pick is a **proposal**, stored with status `proposed`, and never counts.
+- Only an owner keeps (Michael or Stas; `--by` records which). An agent's pick is a **proposal**, stored with status `proposed`, and never counts.
 - `nb.py keep` is the only writer of `keeps.json`. A call from a real terminal, or a click on the 3D board (per-start token the agents never see), records `kept`. Anything with `NB_AGENT` set, or with no terminal, records `proposed`.
 - Every entry carries `by`, `at`, `note` and how it arrived. A proposal never overwrites a human keep.
 - ADAPT and DELIVER read `kept` only. In Michael's October rounds nothing was kept; six ids from the 21 Oct round-1 triage were agent proposals.
@@ -82,7 +82,7 @@ From the 18 failures in the harness skill's `references/INVESTIGATION.md` §4.
 14. **Re-check a channel before reuse.** Two had been deleted by 21 Oct.
 15. **Numbers carry their query and date.** CityEons read 1.41K subscribers on 12 Oct and 3,100 on 21 Oct. Every point stores `query`, `source.checkedAt`, `axes.readOn`.
 16. **A flag needs n ≥ 3.** `notOneHit` came out true for a channel with one video.
-17. **Rank target niches by evidence, any niche.** Most format-lab targets were car niches out of habit.
+17. **Rank target niches by evidence.** Car niches by default (9 Nov 2026); another niche when the request names it.
 18. **Saturation is title-matched.** The script's topic reading and the exact crossing measure different things; the `cross` list is an unmatched search and is not used in the number.
 
 Missing numbers stay `null` with a reason. A failed mode writes `blocked` with the error and does not retry in a loop.

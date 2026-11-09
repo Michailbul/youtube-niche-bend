@@ -4,6 +4,7 @@ Newest first. Add a line after every round.
 
 | Date | Decision | Why / evidence |
 |---|---|---|
+| 9 Nov | **Cars are the default target niche.** Other niches only when a request names them. Stas joins as co-owner; either owner's keep counts. | Michael: "the primary niche we are building in (unless specified differently, default one are cars)". Narrows the 19 Oct "not only cars": other niches stay allowed when asked. |
 | 22 Oct | **Dropped** the opportunity-matrix harness (nb.py + 3D board) as the method. Kept as an optional tool (PR #65). | It replaced his decision process with a new machine. He wants his own rules packaged: this skill. |
 | 22 Oct | Asked whether the 3D timelapse "troy theme" niche is occupied and has views, as an HTML report. | Occupancy plus views before any build. |
 | 21 Oct | **Carthage** picked as the open real-history 3D timelapse target (`3d-timelapse/history-niche/RESEARCH-2026-10-21.md`). | Came out of the 12 Oct opportunities round; history niche has demand; crossing open. |

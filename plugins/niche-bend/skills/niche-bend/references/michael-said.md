@@ -9,7 +9,8 @@ His instructions on niche bending, trimmed, grouped by theme. Source: Claude Cod
 
 ## Other niches, new angles
 - "We don't want to go after the market that is already being served, we want to find some new angles." (4 Oct, CLAUDE.md)
-- "we dont only want to niche bend into cars!!! this is not always the case" (19 Oct, CLAUDE.md)
+- "the primary niche we are buidling in (unless specified differently, default one are cars)" (9 Nov, cc). Current rule: cars by default.
+- "we dont only want to niche bend into cars!!! this is not always the case" (19 Oct, CLAUDE.md). Narrowed on 9 Nov: other niches when asked.
 - "find niche that is not occupied not overwhelmed but has a great potential." (21 Oct, oc ses_ea20)
 - "We want to not copy already existing, but maximize our chance of success … open to slightly modify the style, so that it still recognizable for that audience but at the same time feels novel." (21 Oct, oc ses_ea20)
 - "come up with a new idea, taking what worked in that video readapting it" (21 Oct, oc ses_ea1f)

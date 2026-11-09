@@ -11,7 +11,7 @@ The plugin folder is `${CLAUDE_PLUGIN_ROOT}` (if that text was not replaced by a
 1. Load memory: `niche-bend/no-go.md`, every `keeps.json` under `niche-bend/`, earlier rounds. Never re-propose what was kept or dropped.
 2. Format watch: `yt_scout.py formulas`, drop phrases and news bursts, `spread` each survivor (one call at a time).
 3. Pick 6 to 8 sources that pass the outlier test, check channels, pull frames, write A/B/C cards.
-4. Propose D: three target niches per format (any niche with demand), each with our title under the source title.
+4. Propose D: three target niches per format (car niches by default; another niche when the user names it), each with our title under the source title.
    Size targets with `compare`. Write `niche-bend/format-lab/<today>/spec.json`, run `format_lab.py check` and `build`.
 5. Independent check (rule 12): spawn `niche-bend:frame-reader`, `niche-bend:verifier` and `niche-bend:crossing-auditor`
    in parallel, then `niche-bend:critic-reconciler`. If you cannot run separate agents, leave verdicts Untested and say so.

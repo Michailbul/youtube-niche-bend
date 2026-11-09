@@ -51,7 +51,7 @@ We start from the title and the thumbnail. We inspect this month's successful pa
 
 ## Where sources come from
 
-- **Targets are any niche, not only cars** (Michael, 19 Oct 2026). A bend can stay in the source's niche with a new subject (history → history) when demand supports it, or go anywhere else. Rank by evidence.
+- **Targets are car niches by default** (Michael, 9 Nov 2026). Another niche only when the request names it; then a bend can stay in the source's niche with a new subject (history → history) or go anywhere with demand. Rank by evidence.
 - **Ideas, titles and thumbnails come from other niches.** Prehistory, space, weapons, football, nature, business, war history. We do not follow what is trending among car channels, because that audience is already being served that way.
 - **Channels in our own niche are format sources.** When a car channel has an audience for a format (Rare Car Storys: one engine on black, archive photos, a named man behind it), take the format, visual language or thumbnail layout and put an other-niche idea or title on it. This is a **merge**, and the board labels it and says which source gave which part.
 - Rows whose packaging comes from a channel in our own niche go at the bottom, tagged "already served". They are the weakest claim to being first.
